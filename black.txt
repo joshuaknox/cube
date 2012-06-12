@@ -5,11 +5,11 @@ Avatar of Woe
 Black Knight
 Braids, Cabal Minion
 Bloodghast
+Bloodline Keeper
 Coffin Queen
 Dark Confidant
 Doomed Necromancer
 Drana, Kalastria Bloodchief
-Dread
 Faceless Butcher
 Gatekeeper of Malakir
 Grave Titan
@@ -20,16 +20,15 @@ Hypnotic Specter
 Kokusho, the Evening Star
 Liliana's Specter
 Malakir Bloodwitch
+Massacre Wurm
 Nekrataal
 Nezumi Graverobber
-Oona's Prowler
 Puppeteer Clique
 Royal Assassin
+Rune-Scarred Demon
 Sheoldred, Whispering One
-Skeletal Vampire
 Shriekmaw
 Skinrender
-Tombstalker
 Vampire Nighthawk
 Visara the Dreadful
 
@@ -60,6 +59,7 @@ Hymn to Tourach
 Imperial Seal
 Incremental Blight
 Liliana Vess
+Liliana of the Veil
 Life's Finale
 Makeshift Mannequin
 Nameless Inversion

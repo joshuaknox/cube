@@ -11,7 +11,6 @@ Ethersworn Adjudicator
 Enclave Cryptologist
 Fathom Seer
 Frost Titan
-Guile
 Jushi Apprentice
 Keiga, the Tide Star
 Looter il-Kor
@@ -23,12 +22,13 @@ Master Transmuter
 Meloku the Clouded Mirror
 Mulldrifter
 Phantasmal Image
+Phyrexian Metamorph
 Quicksilver Dragon
-Scroll Thief
 Shapesharer
+Snapcaster Mage
 Sower of Temptation
 Sphinx of Magosi
-Stormtide Leviathan
+Sphinx of Uthuun
 Teferi, Mage of Zhalfir
 Trinket Mage
 Thieving Magpie

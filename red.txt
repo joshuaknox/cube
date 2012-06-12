@@ -3,6 +3,7 @@ Blisterstick Shaman
 Blood Knight
 Bogardan Hellkite
 Caldera Hellion
+Chandra's Phoenix
 Conquering Manticore
 Covetous Dragon
 Cunning Sparkmage
@@ -15,17 +16,14 @@ Furystoke Giant
 Ghitu Slinger
 Goblin Artillery
 Goblin Wardriver
-Greater Gargadon
 Grim Lavamancer
 Hell's Thunder
 Hoard-Smelter Dragon
-Hostility
 Inferno Titan
 Jaya Ballard, Task Mage
 Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
 Kird Ape
-Kuldotha Phoenix
 Magus of the Scroll
 Manic Vandal
 Mogg War Marshal
@@ -39,6 +37,7 @@ Scourge of Kher Ridges
 Shivan Dragon
 Siege-Gang Commander
 Spikeshot Elder
+Stalking Yeti
 Taurean Mauler
 Tin Street Hooligan
 Voracious Dragon
@@ -59,6 +58,7 @@ Char
 Comet Storm
 Cone of Flame
 Demonfire
+Devil's Play
 Earthquake
 Fireball
 Firebolt
@@ -72,7 +72,6 @@ Lightning Bolt
 Magma Jet
 Molten Disaster
 Red Sun's Zenith
-Resounding Thunder
 Rift Bolt
 Rolling Thunder
 Seal of Fire
@@ -80,4 +79,5 @@ Searing Blaze
 Slagstorm
 Staggershock
 Tarfire
+Through the Breach
 Word of Seizing

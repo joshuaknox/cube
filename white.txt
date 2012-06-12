@@ -4,7 +4,6 @@ Accorder Paladin
 Admonition Angel
 Akroma, Angel of Wrath
 Baneslayer Angel
-Calciderm
 Captain of the Watch
 Crovax, Ascendant Hero
 Dawnglare Invoker
@@ -18,6 +17,7 @@ Goldmeadow Harrier
 Galepowder Mage
 Gideon's Lawkeeper
 Hand of Honor
+Hero of Bladehold
 Hokori, Dust Drinker
 Isamaru, Hound of Konda
 Icatian Javelineers
@@ -27,6 +27,7 @@ Knight of the Holy Nimbus
 Leonin Relic-Warder
 Linvala, Keeper of Silence
 Loam Lion
+Mikaeus, the Lunarch
 Mirror Entity
 Mother of Runes
 Paladin en-Vec
@@ -65,7 +66,6 @@ Elspeth Tirel
 Enlightened Tutor
 Faiths Fetters
 Gideon Jura
-Glorious Anthem
 Hallowed Burial
 Land Tax
 Marshal's Anthem

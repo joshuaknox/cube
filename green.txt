@@ -42,10 +42,10 @@ Terastodon
 Thelonite Hermit
 Thornling
 Thrun, the Last Troll
-Uktabi Orangutan
 Vengevine
 Verdant Force
 Verdeloth, the Ancient
+Veridian Shaman
 Vigor
 Wall of Roots
 Wickerbough Elder
@@ -60,11 +60,11 @@ Spells:
 Channel
 Cultivate
 Explore
-Farseek
 Garruk Relentless
 Garruk Wildspeaker
 Garruk, Primal Hunter
 Greater Good
+Green Sun's Zenith
 Growth Spasm
 Harmonize
 Harrow
