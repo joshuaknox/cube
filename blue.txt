@@ -1,41 +1,40 @@
 Creatures:
 
 Aether Adept
-Arcanis the Omnipotent
 Azure Mage
 Brine Elemental
 Body Double
 Clone
 Draining Whelk
+Dungeon Geists
 Ethersworn Adjudicator
 Enclave Cryptologist
-Fathom Seer
 Frost Titan
 Jushi Apprentice
 Keiga, the Tide Star
 Looter il-Kor
-Lorthos, the Tidemaker
 Magus of the Future
 Man-o'-War
-Master Thief
 Master Transmuter
 Meloku the Clouded Mirror
 Mulldrifter
 Phantasmal Image
 Phyrexian Metamorph
 Quicksilver Dragon
+Riftwing Cloudskate
+Sakashima the Impostor
+Sea Gate Oracle
 Shapesharer
 Snapcaster Mage
 Sower of Temptation
-Sphinx of Magosi
 Sphinx of Uthuun
-Teferi, Mage of Zhalfir
 Trinket Mage
 Thieving Magpie
 Vendilion Clique
 Venser, Shaper Savant
 Vesuvan Shapeshifter
 Vesuvan Doppleganger
+Voidmage Prodigy
 
 non-Creatures:
 
@@ -48,8 +47,8 @@ Counterspell
 Control Magic
 Compulsive Research
 Cryptic Command
-Commandeer
 Deep Analysis
+Desertion
 Dismiss
 Fact or Fiction
 Force of Will
@@ -60,7 +59,7 @@ Jace Beleren
 Jace, Memory Adept
 Jace, the Mind Sculptor
 Mana Drain
-Mind Spring
+Mana Leak
 Mystical Teachings
 Mystical Tutor
 Persuasion
@@ -72,6 +71,7 @@ Rite of Replication
 Sleep
 Take Possession
 Tezzeret the Seeker
+Think Twice
 Thirst for Knowledge
 Tidings
 Time Spiral

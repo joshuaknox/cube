@@ -2,7 +2,6 @@ Creatures:
 
 Anowon, the Ruin Sage
 Avatar of Woe
-Black Knight
 Braids, Cabal Minion
 Bloodghast
 Bloodline Keeper
@@ -15,7 +14,6 @@ Gatekeeper of Malakir
 Grave Titan
 Graveborn Muse
 Guul Draz Assassin
-Hand of Cruelty
 Hypnotic Specter
 Kokusho, the Evening Star
 Liliana's Specter
@@ -23,6 +21,7 @@ Malakir Bloodwitch
 Massacre Wurm
 Nekrataal
 Nezumi Graverobber
+Phyrexian Rager
 Puppeteer Clique
 Royal Assassin
 Rune-Scarred Demon
@@ -43,9 +42,9 @@ Consuming Vapors
 Corrupt
 Damnation
 Dance of the Dead
-Dark Banishing
 Dark Ritual
 Demonic Tutor
+Diabolic Servitude
 Dismember
 Doom Blade
 Dread Return
@@ -61,24 +60,25 @@ Incremental Blight
 Liliana Vess
 Liliana of the Veil
 Life's Finale
+Living Death
 Makeshift Mannequin
 Nameless Inversion
 Necromancy
 Necropotence
 Profane Command
 Reanimate
-Ribbons of Night
+Recurring Nightmare
 Scepter of Fugue
 Seal of Doom
 Seize the Soul
+Sever the Bloodline
 Sign in Blood
 Slaughter Pact
 Smallpox
 Sorin Markov
-Sudden Death
-Tendrils of Corruption
 Terror
 Tribute to Hunger
+Unburial Rites
 Vampiric Tutor
 Yawgmoth's Bargain
 Yawgmoth's Will

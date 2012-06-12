@@ -5,18 +5,18 @@ Admonition Angel
 Akroma, Angel of Wrath
 Baneslayer Angel
 Captain of the Watch
-Crovax, Ascendant Hero
 Dawnglare Invoker
 Eight-and-a-Half Tails
+Elesh Norn, Grand Cenobite
 Elite Vanguard
 Emeria Angel
 Exalted Angel
 Eternal Dragon
 Flickerwisp
+Geist-Honored Monk
 Goldmeadow Harrier
 Galepowder Mage
 Gideon's Lawkeeper
-Hand of Honor
 Hero of Bladehold
 Hokori, Dust Drinker
 Isamaru, Hound of Konda
@@ -27,17 +27,16 @@ Knight of the Holy Nimbus
 Leonin Relic-Warder
 Linvala, Keeper of Silence
 Loam Lion
+Mentor of the Meek
 Mikaeus, the Lunarch
 Mirror Entity
 Mother of Runes
-Paladin en-Vec
-Purity
+Porcelain Legionnaire
 Ranger of Eos
 Reveillark
 Ronom Unicorn
 Samurai of the Pale Curtain
 Savannah Lions
-Serra Angel
 Sigiled Paladin
 Stoneforge Mystic
 Student of Warfare
@@ -67,6 +66,7 @@ Enlightened Tutor
 Faiths Fetters
 Gideon Jura
 Hallowed Burial
+Increasing Devotion
 Land Tax
 Marshal's Anthem
 Martial Coup

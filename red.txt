@@ -1,13 +1,12 @@
 Akroma, Angel of Fury
+Avalanche Riders
 Blisterstick Shaman
 Blood Knight
 Bogardan Hellkite
 Caldera Hellion
 Chandra's Phoenix
 Conquering Manticore
-Covetous Dragon
 Cunning Sparkmage
-Dragon Whelp
 Ember Hauler
 Fire Imp
 Flameblast Dragon
@@ -17,9 +16,10 @@ Ghitu Slinger
 Goblin Artillery
 Goblin Wardriver
 Grim Lavamancer
-Hell's Thunder
+Hellrider
 Hoard-Smelter Dragon
 Inferno Titan
+Instigator Gang
 Jaya Ballard, Task Mage
 Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
@@ -34,12 +34,13 @@ Rakka Mar
 Ryusei, the Falling Star
 Scorched Rusalka
 Scourge of Kher Ridges
-Shivan Dragon
 Siege-Gang Commander
 Spikeshot Elder
 Stalking Yeti
 Taurean Mauler
+Thunderscape Battlemage
 Tin Street Hooligan
+Torch Fiend
 Voracious Dragon
 
 Spells:
@@ -63,8 +64,8 @@ Earthquake
 Fireball
 Firebolt
 Flame Javelin
+Gamble
 Galvanic Blast
-Goblin Assault
 Hammer of Bogardan
 Incinerate
 Koth of the Hammer
@@ -78,6 +79,5 @@ Seal of Fire
 Searing Blaze
 Slagstorm
 Staggershock
-Tarfire
 Through the Breach
 Word of Seizing
