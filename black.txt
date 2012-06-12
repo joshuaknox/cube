@@ -1,0 +1,85 @@
+Creatures:
+
+Anowon, the Ruin Sage
+Avatar of Woe
+Black Knight
+Braids, Cabal Minion
+Bloodghast
+Coffin Queen
+Dark Confidant
+Doomed Necromancer
+Drana, Kalastria Bloodchief
+Dread
+Faceless Butcher
+Gatekeeper of Malakir
+Grave Titan
+Graveborn Muse
+Guul Draz Assassin
+Hand of Cruelty
+Hypnotic Specter
+Kokusho, the Evening Star
+Liliana's Specter
+Malakir Bloodwitch
+Nekrataal
+Nezumi Graverobber
+Oona's Prowler
+Puppeteer Clique
+Royal Assassin
+Sheoldred, Whispering One
+Skeletal Vampire
+Shriekmaw
+Skinrender
+Tombstalker
+Vampire Nighthawk
+Visara the Dreadful
+
+Spells:
+
+Animate Dead
+Beacon of Unrest
+Bitterblossom
+Black Sun's Zenith
+Chainer's Edict
+Consuming Vapors
+Corrupt
+Cruel Edict
+Damnation
+Dance of the Dead
+Dark Banishing
+Dark Ritual
+Demonic Tutor
+Dismember
+Doom Blade
+Dread Return
+Enslave
+Entomb
+Executioner's Capsule
+Exhume
+Eyeblight's Ending
+Go for the Throat
+Hymn to Tourach
+Imperial Seal
+Incremental Blight
+Liliana Vess
+Life's Finale
+Makeshift Mannequin
+Nameless Inversion
+Necromancy
+Necropotence
+Profane Command
+Reanimate
+Ribbons of Night
+Scepter of Fugue
+Seal of Doom
+Seize the Soul
+Sign in Blood
+Slaughter Pact
+Smallpox
+Sorin Markov
+Sudden Death
+Tendrils of Corruption
+Terror
+Vampiric Tutor
+Yawgmoth's Bargain
+Yawgmoth's Will
+Zombify

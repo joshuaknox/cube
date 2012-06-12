@@ -1,0 +1,83 @@
+Akroma, Angel of Fury
+Blisterstick Shaman
+Bogardan Hellkite
+Caldera Hellion
+Conquering Manticore
+Covetous Dragon
+Cunning Sparkmage
+Dragon Whelp
+Ember Hauler
+Fire Imp
+Flameblast Dragon
+Flametongue Kavu
+Furystoke Giant
+Goblin Artillery
+Goblin Chieftain
+Goblin Wardriver
+Greater Gargadon
+Grim Lavamancer
+Hellspark Elemental
+Hell's Thunder
+Hostility
+Inferno Titan
+Jaya Ballard, Task Mage
+Kargan Dragonlord
+Kiki-Jiki, Mirror Breaker
+Kird Ape
+Kuldotha Phoenix
+Magus of the Scroll
+Manic Vandal
+Mogg War Marshal
+Obsidian Fireheart
+Plated Geopede
+Rakka Mar
+Ryusei, the Falling Star
+Scorched Rusalka
+Scourge of Kher Ridges
+Shivan Dragon
+Siege-Gang Commander
+Spikeshot Elder
+Taurean Mauler
+Tin Street Hooligan
+Voracious Dragon
+Zo-Zu the Punisher
+
+Spells:
+
+Act of Aggression
+Arc Trail
+Banefire
+Burst Lightning
+Chain Lightning
+Chandra Ablaze
+Chandra, the Firebrand
+Chandra Nalaar
+Chandra's Outrage
+Char
+Comet Storm
+Cone of Flame
+Demonfire
+Earthquake
+Fireball
+Fireblast
+Firebolt
+Flame Javelin
+Flame Wave
+Galvanic Blast
+Goblin Assault
+Hammer of Bogardan
+Incinerate
+Koth of the Hammer
+Lightning Bolt
+Magma Jet
+Molten Disaster
+Red Sun's Zenith
+Resounding Thunder
+Rift Bolt
+Rolling Thunder
+Seal of Fire
+Searing Blaze
+Slagstorm
+Staggershock
+Tarfire
+Word of Seizing

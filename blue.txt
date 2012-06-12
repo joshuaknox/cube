@@ -1,0 +1,85 @@
+Creatures:
+
+Aether Adept
+Arcanis the Omnipotent
+Brine Elemental
+Body Double
+Clone
+Draining Whelk
+Ethersworn Adjudicator
+Enclave Cryptologist
+Fathom Seer
+Frost Titan
+Guile
+Jushi Apprentice
+Keiga, the Tide Star
+Looter il-Kor
+Lorthos, the Tidemaker
+Magus of the Future
+Man-o'-War
+Master Thief
+Master Transmuter
+Meloku the Clouded Mirror
+Mulldrifter
+Phantasmal Image
+Quicksilver Dragon
+Scroll Thief
+Shapesharer
+Sower of Temptation
+Sphinx of Magosi
+Stormtide Leviathan
+Teferi, Mage of Zhalfir
+Trinket Mage
+Thieving Magpie
+Vendilion Clique
+Venser, Shaper Savant
+Vesuvan Shapeshifter
+Vesuvan Doppleganger
+
+non-Creatures:
+
+Ancestral Recall
+Ancestral Vision
+Bribery
+Capsize
+Counterspell
+Control Magic
+Compulsive Research
+Cryptic Command
+Commandeer
+Deep Analysis
+Dismiss
+Dominate
+Fact or Fiction
+Force of Will
+Future Sight
+Gush
+Gifts Ungiven
+Intuition
+Jace Beleren
+Jace, Memory Adept
+Jace, the Mind Sculptor
+Mana Drain
+Mind Spring
+Mystical Teachings
+Mystical Tutor
+Persuasion
+Ponder
+Probe
+Remove Soul
+Rite of Replication
+Sleep
+Take Possession
+Tezzeret the Seeker
+Thirst for Knowledge
+Tidings
+Time Spiral
+Time Stop
+Time Walk
+Time Warp
+Tinker
+Traumatic Visions
+Treachery
+Upheaval
+Volition Reins
+Walk the Aeons

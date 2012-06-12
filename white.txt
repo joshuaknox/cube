@@ -1,0 +1,85 @@
+Creatures:
+
+Accorder Paladin
+Admonition Angel
+Akroma, Angel of Wrath
+Baneslayer Angel
+Calciderm
+Captain of the Watch
+Crovax, Ascendant Hero
+Dawnglare Invoker
+Eight-and-a-Half Tails
+Elite Vanguard
+Emeria Angel
+Exalted Angel
+Eternal Dragon
+Flickerwisp
+Goldmeadow Harrier
+Galepowder Mage
+Gideon's Lawkeeper
+Hand of Honor
+Hokori, Dust Drinker
+Isamaru, Hound of Konda
+Icatian Javelineers
+Knight of the White Orchid
+Knight of Meadowgrain
+Knight of the Holy Nimbus
+Kor Firewalker
+Leonin Relic-Warder
+Linvala, Keeper of Silence
+Loam Lion
+Mirror Entity
+Mother of Runes
+Paladin en-Vec
+Purity
+Ranger of Eos
+Reveillark
+Samurai of the Pale Curtain
+Savannah Lions
+Serra Angel
+Sigiled Paladin
+Silver Knight
+Stoneforge Mystic
+Student of Warfare
+Sunblast Angel
+Sun Titan
+Twilight Shepherd
+War Priest of Thune
+Weathered Wayfarer
+Whipcorder
+White Knight
+Windborn Muse
+Yosei, the Morning Star
+
+(non-creatures):
+
+Ajani Goldmane
+Austere Command
+Armageddon
+Balance
+Condemn
+Day of Judgment
+Decree of Justice
+Elspeth, Knight-Errant
+Elspeth Tirel
+Enlightened Tutor
+Faiths Fetters
+Gideon Jura
+Glorious Anthem
+Hallowed Burial
+Land Tax
+Marshal's Anthem
+Martial Coup
+Oblivion Ring
+Pacifism
+Planar Cleansing
+Parallax Wave
+Path to Exile
+Prison Term
+Sacred Mesa
+Spectral Procession
+Shining Shoal
+Scepter of Dominance
+Swords to Plowshares
+Wrath of God
+Worship
