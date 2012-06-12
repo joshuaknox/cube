@@ -2,6 +2,7 @@ Creatures:
 
 Aether Adept
 Arcanis the Omnipotent
+Azure Mage
 Brine Elemental
 Body Double
 Clone
@@ -53,7 +54,6 @@ Dismiss
 Fact or Fiction
 Force of Will
 Future Sight
-Gush
 Gifts Ungiven
 Intuition
 Jace Beleren

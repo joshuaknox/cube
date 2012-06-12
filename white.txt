@@ -24,7 +24,6 @@ Icatian Javelineers
 Knight of the White Orchid
 Knight of Meadowgrain
 Knight of the Holy Nimbus
-Kor Firewalker
 Leonin Relic-Warder
 Linvala, Keeper of Silence
 Loam Lion
@@ -34,11 +33,11 @@ Paladin en-Vec
 Purity
 Ranger of Eos
 Reveillark
+Ronom Unicorn
 Samurai of the Pale Curtain
 Savannah Lions
 Serra Angel
 Sigiled Paladin
-Silver Knight
 Stoneforge Mystic
 Student of Warfare
 Sunblast Angel
@@ -56,6 +55,7 @@ Yosei, the Morning Star
 Ajani Goldmane
 Austere Command
 Armageddon
+Arrest
 Balance
 Condemn
 Day of Judgment

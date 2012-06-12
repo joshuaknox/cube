@@ -1,5 +1,6 @@
 Akroma, Angel of Fury
 Blisterstick Shaman
+Blood Knight
 Bogardan Hellkite
 Caldera Hellion
 Conquering Manticore
@@ -11,8 +12,8 @@ Fire Imp
 Flameblast Dragon
 Flametongue Kavu
 Furystoke Giant
+Ghitu Slinger
 Goblin Artillery
-Goblin Chieftain
 Goblin Wardriver
 Greater Gargadon
 Grim Lavamancer
@@ -41,7 +42,6 @@ Spikeshot Elder
 Taurean Mauler
 Tin Street Hooligan
 Voracious Dragon
-Zo-Zu the Punisher
 
 Spells:
 

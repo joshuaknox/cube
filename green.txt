@@ -65,6 +65,7 @@ Garruk Relentless
 Garruk Wildspeaker
 Garruk, Primal Hunter
 Greater Good
+Growth Spasm
 Harmonize
 Harrow
 Kodama's Reach
@@ -79,4 +80,3 @@ Recollect
 Regrowth
 Search for Tomorrow
 Survival of the Fittest
-Squall Line
