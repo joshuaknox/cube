@@ -27,7 +27,6 @@ Llanowar Elves
 Lotus Cobra
 Masked Admirers
 Master of the Wild Hunt
-Mul Daya Channelers
 Obstinate Baloth
 Ohran Viper
 Oracle of Mul Daya
@@ -62,6 +61,7 @@ Channel
 Cultivate
 Explore
 Farseek
+Garruk Relentless
 Garruk Wildspeaker
 Garruk, Primal Hunter
 Greater Good

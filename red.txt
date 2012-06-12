@@ -16,8 +16,8 @@ Goblin Chieftain
 Goblin Wardriver
 Greater Gargadon
 Grim Lavamancer
-Hellspark Elemental
 Hell's Thunder
+Hoard-Smelter Dragon
 Hostility
 Inferno Titan
 Jaya Ballard, Task Mage
@@ -29,6 +29,7 @@ Magus of the Scroll
 Manic Vandal
 Mogg War Marshal
 Obsidian Fireheart
+Oxidda Scrapmelter
 Plated Geopede
 Rakka Mar
 Ryusei, the Falling Star
@@ -47,6 +48,7 @@ Spells:
 Act of Aggression
 Arc Trail
 Banefire
+Brimstone Volley
 Burst Lightning
 Chain Lightning
 Chandra Ablaze
@@ -59,10 +61,8 @@ Cone of Flame
 Demonfire
 Earthquake
 Fireball
-Fireblast
 Firebolt
 Flame Javelin
-Flame Wave
 Galvanic Blast
 Goblin Assault
 Hammer of Bogardan

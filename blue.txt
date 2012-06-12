@@ -40,6 +40,7 @@ non-Creatures:
 
 Ancestral Recall
 Ancestral Vision
+Blue Sun's Zenith
 Bribery
 Capsize
 Counterspell
@@ -49,7 +50,6 @@ Cryptic Command
 Commandeer
 Deep Analysis
 Dismiss
-Dominate
 Fact or Fiction
 Force of Will
 Future Sight
@@ -64,8 +64,9 @@ Mind Spring
 Mystical Teachings
 Mystical Tutor
 Persuasion
-Ponder
+Preordain
 Probe
+Remand
 Remove Soul
 Rite of Replication
 Sleep
@@ -80,6 +81,5 @@ Time Warp
 Tinker
 Traumatic Visions
 Treachery
-Upheaval
 Volition Reins
 Walk the Aeons

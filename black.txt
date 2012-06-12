@@ -42,7 +42,6 @@ Black Sun's Zenith
 Chainer's Edict
 Consuming Vapors
 Corrupt
-Cruel Edict
 Damnation
 Dance of the Dead
 Dark Banishing
@@ -79,6 +78,7 @@ Sorin Markov
 Sudden Death
 Tendrils of Corruption
 Terror
+Tribute to Hunger
 Vampiric Tutor
 Yawgmoth's Bargain
 Yawgmoth's Will
