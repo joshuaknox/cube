@@ -15,7 +15,6 @@ Eternal Dragon
 Flickerwisp
 Geist-Honored Monk
 Goldmeadow Harrier
-Galepowder Mage
 Gideon's Lawkeeper
 Hero of Bladehold
 Hokori, Dust Drinker
@@ -33,6 +32,7 @@ Mirror Entity
 Mother of Runes
 Porcelain Legionnaire
 Ranger of Eos
+Restoration Angel
 Reveillark
 Ronom Unicorn
 Samurai of the Pale Curtain
@@ -63,9 +63,9 @@ Decree of Justice
 Elspeth, Knight-Errant
 Elspeth Tirel
 Enlightened Tutor
+Entreat the Angels
 Faiths Fetters
 Gideon Jura
-Hallowed Burial
 Increasing Devotion
 Land Tax
 Marshal's Anthem
@@ -77,9 +77,9 @@ Parallax Wave
 Path to Exile
 Prison Term
 Sacred Mesa
-Spectral Procession
 Shining Shoal
 Scepter of Dominance
 Swords to Plowshares
+Terminus
 Wrath of God
 Worship

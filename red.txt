@@ -24,6 +24,7 @@ Jaya Ballard, Task Mage
 Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
 Kird Ape
+Lightning Maulter
 Magus of the Scroll
 Manic Vandal
 Mogg War Marshal
@@ -41,7 +42,6 @@ Taurean Mauler
 Thunderscape Battlemage
 Tin Street Hooligan
 Torch Fiend
-Voracious Dragon
 
 Spells:
 
@@ -54,7 +54,6 @@ Chain Lightning
 Chandra Ablaze
 Chandra, the Firebrand
 Chandra Nalaar
-Chandra's Outrage
 Char
 Comet Storm
 Cone of Flame
@@ -75,9 +74,10 @@ Molten Disaster
 Red Sun's Zenith
 Rift Bolt
 Rolling Thunder
-Seal of Fire
 Searing Blaze
 Slagstorm
 Staggershock
 Through the Breach
+Thunderous Wrath
+Tibalt, the Fiend-Blooded
 Word of Seizing

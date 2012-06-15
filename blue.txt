@@ -56,7 +56,6 @@ Future Sight
 Gifts Ungiven
 Intuition
 Jace Beleren
-Jace, Memory Adept
 Jace, the Mind Sculptor
 Mana Drain
 Mana Leak
@@ -67,9 +66,10 @@ Preordain
 Probe
 Remand
 Remove Soul
-Rite of Replication
 Sleep
 Take Possession
+Tamiyo, the Moon Sage
+Temporal Mastery
 Tezzeret the Seeker
 Think Twice
 Thirst for Knowledge

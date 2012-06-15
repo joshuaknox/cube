@@ -57,7 +57,6 @@ Yavimaya Elder
 
 Spells:
 
-Channel
 Cultivate
 Explore
 Garruk Relentless
@@ -75,6 +74,7 @@ Nissa Revane
 Noxious Revival
 Overrun
 Primal Command
+Rain of Thorns
 Rampant Growth
 Recollect
 Regrowth

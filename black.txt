@@ -10,9 +10,9 @@ Dark Confidant
 Doomed Necromancer
 Drana, Kalastria Bloodchief
 Faceless Butcher
-Gatekeeper of Malakir
 Grave Titan
 Graveborn Muse
+Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
 Kokusho, the Evening Star
@@ -42,8 +42,8 @@ Consuming Vapors
 Corrupt
 Damnation
 Dance of the Dead
-Dark Ritual
 Demonic Tutor
+Descent into Madness
 Diabolic Servitude
 Dismember
 Doom Blade
