@@ -12,6 +12,7 @@ Elite Vanguard
 Emeria Angel
 Exalted Angel
 Eternal Dragon
+Fiend Hunter
 Flickerwisp
 Geist-Honored Monk
 Goldmeadow Harrier
@@ -19,7 +20,6 @@ Gideon's Lawkeeper
 Hero of Bladehold
 Hokori, Dust Drinker
 Isamaru, Hound of Konda
-Icatian Javelineers
 Knight of the White Orchid
 Knight of Meadowgrain
 Knight of the Holy Nimbus
@@ -59,7 +59,6 @@ Arrest
 Balance
 Condemn
 Day of Judgment
-Decree of Justice
 Elspeth, Knight-Errant
 Elspeth Tirel
 Enlightened Tutor
@@ -81,5 +80,6 @@ Shining Shoal
 Scepter of Dominance
 Swords to Plowshares
 Terminus
+White Sun's Zenith
 Wrath of God
 Worship

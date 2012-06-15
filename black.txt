@@ -1,15 +1,16 @@
 Creatures:
 
 Anowon, the Ruin Sage
-Avatar of Woe
 Braids, Cabal Minion
 Bloodghast
+Bloodgift Demon
 Bloodline Keeper
 Coffin Queen
 Dark Confidant
 Doomed Necromancer
 Drana, Kalastria Bloodchief
 Faceless Butcher
+Geth, Lord of the Vault
 Grave Titan
 Graveborn Muse
 Griselbrand
@@ -39,7 +40,6 @@ Bitterblossom
 Black Sun's Zenith
 Chainer's Edict
 Consuming Vapors
-Corrupt
 Damnation
 Dance of the Dead
 Demonic Tutor

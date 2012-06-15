@@ -27,6 +27,7 @@ Llanowar Elves
 Lotus Cobra
 Masked Admirers
 Master of the Wild Hunt
+Moldgraf Monstrosity
 Obstinate Baloth
 Ohran Viper
 Oracle of Mul Daya
@@ -43,7 +44,6 @@ Thelonite Hermit
 Thornling
 Thrun, the Last Troll
 Vengevine
-Verdant Force
 Verdeloth, the Ancient
 Veridian Shaman
 Vigor

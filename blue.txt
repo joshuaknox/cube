@@ -52,6 +52,7 @@ Desertion
 Dismiss
 Dissipate
 Fact or Fiction
+Forbidden Alchemy
 Force of Will
 Future Sight
 Gifts Ungiven
@@ -82,4 +83,3 @@ Time Warp
 Tinker
 Treachery
 Volition Reins
-Walk the Aeons
