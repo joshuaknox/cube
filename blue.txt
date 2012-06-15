@@ -50,10 +50,12 @@ Cryptic Command
 Deep Analysis
 Desertion
 Dismiss
+Dissipate
 Fact or Fiction
 Force of Will
 Future Sight
 Gifts Ungiven
+Hinder
 Intuition
 Jace Beleren
 Jace, the Mind Sculptor
@@ -62,8 +64,8 @@ Mana Leak
 Mystical Teachings
 Mystical Tutor
 Persuasion
+Ponder
 Preordain
-Probe
 Remand
 Remove Soul
 Sleep
@@ -74,12 +76,10 @@ Tezzeret the Seeker
 Think Twice
 Thirst for Knowledge
 Tidings
-Time Spiral
 Time Stop
 Time Walk
 Time Warp
 Tinker
-Traumatic Visions
 Treachery
 Volition Reins
 Walk the Aeons
