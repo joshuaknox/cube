@@ -1,0 +1,83 @@
+Creatures:
+Angel of Despair
+Bloodbraid Elf
+Crackleburr
+Defiler of Souls
+Demigod of Revenge
+Doran, the Siege Tower
+Dragon Broodmother
+Empyrial Archangel
+Enlisted Wurm
+Evil Twin
+Figure of Destiny
+Geist of Saint Traft
+Gliss, the Traitor
+Hellkite Overlord
+Huntmaster of the Fells
+Jhoira of the Ghitu
+Karrthus, Tyrant of Jund
+Kitchen Finks
+Loxodon Hierarch
+Knight of the Reliquary
+Maelstrom Archangel
+Mistmeadow Witch
+Mystic Snake
+Niv-Mizzet, the Firemind
+Olivia Voldaren
+Oona, Queen of the Fae
+Overbeing of Myth
+Qasali Pridemage
+Rafiq of the Many
+Realm Razer
+Sedraxis Specter
+Selesnya Guildmage
+Shadowmage Infiltrator
+Sharuum the Hegemon
+Simic Sky Swallower
+Sky Hussar
+Spiritmonger
+Tidehollow Sculler
+Trygon Predator
+Uril, the Miststalker
+Vithian Renegades
+Wrexial, the Risen Deep
+
+Non-Creatures:
+Absorb
+Agony Warp
+Ajani Vengeant
+Bant Charm
+Behemoth Sledge
+Bituminous Blast
+Blightning
+Colossal Might
+Cruel Ultimatum
+Debtors' Knell
+Electrolyze
+Firespout
+Fire//Ice
+Glare of Subdual
+Goblin Trenches
+Invoke the Firemind
+Lavalanche
+Lightning Helix
+Maelstrom Pulse
+Mortify
+Nicol Bolas, Planeswalker
+Overrule
+Pernicious Deed
+Prophetic Bolt
+Putrefy
+Sarkhan the Mad
+Sarkhan Vol
+Slave of Bolas
+Snakeform
+Sorin, Lord of Innistrad
+Terminate
+Tezzeret, Agent of Bolas
+Unmake
+Vengeful Rebirth
+Venser, the Sojourner
+Vindicate
+Violent Ultimatum
+Voidslime

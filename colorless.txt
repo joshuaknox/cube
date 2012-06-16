@@ -1,0 +1,82 @@
+Creatures:
+Copper Myr
+Duplicant
+Emrakul, the Aeons Torn
+Iron Myr
+Gold Myr
+Grim Poppet
+Kozliek, Butcher of Truth
+Leaden Myr
+Molten-Tail Masticore
+Myr Battlesphere
+Palladium Myr
+Pilgrim's Eye
+Platinum Angel
+Razormane Masticore
+Silver Myr
+Steel Hellkite
+Sundering Titan
+Solemn Simulacrum
+Triskelavus
+Triskelion
+Ulamog, the Infinite Gyre
+Wurmcoil Engine
+
+Non-Creatures:
+All Is Dust
+Azorius Signet
+Basilisk Collar
+Batterskull
+Black Lotus
+Boros Signet
+Bottled Cloister
+Brittle Effigy
+Chrome Mox
+Coalition Relic
+Coldsteel Heart
+Cursed Scroll
+Dimir Signet
+Eldrazi Conscription
+Engineered Explosives
+Everflowing Chalice
+Gilded Lotus
+Golgari Signet
+Grim Monolith
+Grimoire of the Dead
+Gruul Signet
+Icy Manipulator
+Isochron Scepter
+Izzet Signet
+Karn Liberated
+Loxodon Warhammer
+Lux Cannon
+Mana Vault
+Memory Jar
+Mind Stone
+Mox Pearl
+Mox Sapphire
+Mox Jet
+Mox Ruby
+Mox Emerald
+Nevinyrral's Disk
+Obelisk of Alara
+Orzhov Signet
+Prismatic Lens
+Rakdos Signet
+Ratchet Bomb
+Scroll Rack
+Selesnya Signet
+Sensei's Divining Top
+Simic Signet
+Skullclamp
+Smokestack
+Sol Ring
+Spine of Ish Sah
+Staff of Domination
+Sword of Body and Mind
+Sword of Feast and Famine
+Sword of Fire and Ice
+Sword of Light and Shadow
+Sword of War and Peace
+Thran Dynamo
+Umezawa's Jitte

@@ -1,0 +1,80 @@
+Academy Ruins
+Ancient Tomb
+Arcane Sanctum
+Arid Mesa
+Azorius Chancery
+Badlands
+Bayou
+Blood Crypt
+Bloodstained Mire
+Boros Garrison
+Breeding Pool
+Cascade Bluffs
+Celestial Colonnade
+Creeping Tar Pit
+Crumbling Necropolis
+Dimir Aqueduct
+Dragonskull Summit
+Drowned Catacomb
+Evolving Wilds
+Exotic Orchard
+Fetid Heath
+Fire-Lit Thicket
+Flooded Grove
+Flooded Strand
+Glacial Fortress
+Godless Shrine
+Golgari Rot Farm
+Graven Cairns
+Gruul Turf
+Hallowed Fountain
+Izzet Boilerworks
+Jungle Shrine
+Lavaclaw Reaches
+Library of Alexandria
+Marsh Flats
+Mishra's Factory
+Misty Rainforest
+Mystic Gate
+Mystifying Maze
+Mutavault
+Orzhov Basilica
+Overgrown Tomb
+Plateau
+Polluted Delta
+Raging Ravine
+Rakdos Carnarium
+Reflecting Pool
+Rootbound Crag
+Rugged Prairie
+Sacred Foundry
+Savannah
+Savage Lands
+Scalding Tarn
+Scrubland
+Seaside Citadel
+Selesnya Sanctuary
+Simic Growth Chamber
+Spinerock Knoll
+Steam Vents
+Stirring Wildwood
+Stomping Ground
+Strip Mine
+Sunken Ruins
+Sunpetal Grove
+Taiga
+Temple Garden
+Terramorphic Expanse
+Thawing Glaciers
+Treetop Village
+Tropical Island
+Tundra
+Underground Sea
+Urborg, Tomb of Yawgmoth
+Verdant Catacombs
+Volcanic Island
+Watery Grave
+Windbrisk Heights
+Windswept Heath
+Wooded Bastion
+Wooded Foothills
