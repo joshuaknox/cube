@@ -2,8 +2,11 @@ Creatures:
 
 Accorder Paladin
 Admonition Angel
+Ajani's Sunstriker
 Akroma, Angel of Wrath
+Attended Knight
 Baneslayer Angel
+Blade Splicer
 Captain of the Watch
 Dawnglare Invoker
 Eight-and-a-Half Tails
@@ -11,37 +14,31 @@ Elesh Norn, Grand Cenobite
 Elite Vanguard
 Emeria Angel
 Exalted Angel
-Eternal Dragon
 Fiend Hunter
 Flickerwisp
 Geist-Honored Monk
-Goldmeadow Harrier
 Gideon's Lawkeeper
 Hero of Bladehold
-Hokori, Dust Drinker
 Isamaru, Hound of Konda
+Knight of Glory
 Knight of the White Orchid
 Knight of Meadowgrain
-Knight of the Holy Nimbus
 Leonin Relic-Warder
 Linvala, Keeper of Silence
-Loam Lion
 Mentor of the Meek
 Mikaeus, the Lunarch
 Mirror Entity
 Mother of Runes
-Porcelain Legionnaire
 Ranger of Eos
 Restoration Angel
 Reveillark
 Ronom Unicorn
-Samurai of the Pale Curtain
-Savannah Lions
-Sigiled Paladin
 Stoneforge Mystic
 Student of Warfare
+Sublime Archangel
 Sunblast Angel
 Sun Titan
+Thalia, Guardian of Thraben
 Twilight Shepherd
 War Priest of Thune
 Weathered Wayfarer
@@ -53,10 +50,13 @@ Yosei, the Morning Star
 (non-creatures):
 
 Ajani Goldmane
+Ajani, Caller of the Pride
+Angelic Destiny
 Austere Command
 Armageddon
 Arrest
 Balance
+Captain's Call
 Condemn
 Day of Judgment
 Elspeth, Knight-Errant
@@ -66,7 +66,9 @@ Entreat the Angels
 Faiths Fetters
 Gideon Jura
 Increasing Devotion
+Journey to Nowhere
 Land Tax
+Lingering Souls
 Marshal's Anthem
 Martial Coup
 Oblivion Ring
@@ -75,8 +77,6 @@ Planar Cleansing
 Parallax Wave
 Path to Exile
 Prison Term
-Sacred Mesa
-Shining Shoal
 Scepter of Dominance
 Swords to Plowshares
 Terminus

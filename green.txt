@@ -8,20 +8,21 @@ Brooding Saurian
 Chameleon Colossus
 Civic Wayfinder
 Cloudthresher
+Dawntreader Elk
+Daybreak Ranger
 Deranged Hermit
 Eternal Witness
+Elves of Deep Shadow
 Elvish Archdruid
 Elvish Piper
-Elvish Visionary
 Farhaven Elf
 Fauna Shaman
 Garruk's Packleader
 Genesis
 Imperious Perfect
 Indrik Stomphowler
+Jade Mage
 Joraga Treespeaker
-Jugan, the Rising Star
-Kodama of the North Tree
 Krosan Tusker
 Llanowar Elves
 Lotus Cobra
@@ -42,16 +43,18 @@ Sylvan Ranger
 Terastodon
 Thelonite Hermit
 Thornling
+Thornscape Battlemage
+Thragtusk
 Thrun, the Last Troll
 Vengevine
 Verdeloth, the Ancient
-Veridian Shaman
 Vigor
+Viridian Shaman
+Vorapede
 Wall of Roots
 Wickerbough Elder
-Wild Mongrel
-Wild Nacatl
-Wolfbriar Elemental
+Wolfir Silverheart
+Wood Elves
 Woodfall Primus
 Yavimaya Elder
 
@@ -70,9 +73,7 @@ Harrow
 Kodama's Reach
 Moment's Peace
 Natural Order
-Nissa Revane
 Noxious Revival
-Overrun
 Primal Command
 Rain of Thorns
 Rampant Growth
@@ -80,3 +81,4 @@ Recollect
 Regrowth
 Search for Tomorrow
 Survival of the Fittest
+Tooth and Nail

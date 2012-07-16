@@ -18,6 +18,7 @@ Man-o'-War
 Master Transmuter
 Meloku the Clouded Mirror
 Mulldrifter
+Ninja of the Deep Hours
 Phantasmal Image
 Phyrexian Metamorph
 Quicksilver Dragon
@@ -29,7 +30,6 @@ Snapcaster Mage
 Sower of Temptation
 Sphinx of Uthuun
 Trinket Mage
-Thieving Magpie
 Vendilion Clique
 Venser, Shaper Savant
 Vesuvan Shapeshifter

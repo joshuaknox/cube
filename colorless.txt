@@ -34,6 +34,7 @@ Brittle Effigy
 Chrome Mox
 Coalition Relic
 Coldsteel Heart
+Crystal Ball
 Cursed Scroll
 Dimir Signet
 Eldrazi Conscription
@@ -78,5 +79,4 @@ Sword of Feast and Famine
 Sword of Fire and Ice
 Sword of Light and Shadow
 Sword of War and Peace
-Thran Dynamo
 Umezawa's Jitte

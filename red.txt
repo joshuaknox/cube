@@ -3,7 +3,6 @@ Avalanche Riders
 Blisterstick Shaman
 Blood Knight
 Bogardan Hellkite
-Caldera Hellion
 Chandra's Phoenix
 Conquering Manticore
 Cunning Sparkmage
@@ -22,39 +21,40 @@ Inferno Titan
 Instigator Gang
 Jaya Ballard, Task Mage
 Kargan Dragonlord
+Keldon Champion
 Kiki-Jiki, Mirror Breaker
-Kird Ape
-Lightning Maulter
+Krenko, Mob Boss
+Lightning Mauler
 Magus of the Scroll
 Manic Vandal
 Mogg War Marshal
 Obsidian Fireheart
 Oxidda Scrapmelter
-Plated Geopede
 Rakka Mar
-Ryusei, the Falling Star
 Scorched Rusalka
-Scourge of Kher Ridges
 Siege-Gang Commander
 Spikeshot Elder
 Stalking Yeti
 Taurean Mauler
+Thunderblust
+Thundermaw Hellkite
 Thunderscape Battlemage
 Tin Street Hooligan
 Torch Fiend
+Urabrask, the Hidden
 
 Spells:
 
 Act of Aggression
 Arc Trail
 Banefire
+Beacon of Destruction
 Brimstone Volley
 Burst Lightning
 Chain Lightning
 Chandra Ablaze
 Chandra, the Firebrand
 Chandra Nalaar
-Char
 Comet Storm
 Cone of Flame
 Demonfire
@@ -63,8 +63,8 @@ Earthquake
 Fireball
 Firebolt
 Flame Javelin
+Flames of the Firebrand
 Gamble
-Galvanic Blast
 Hammer of Bogardan
 Incinerate
 Koth of the Hammer
@@ -74,7 +74,7 @@ Molten Disaster
 Red Sun's Zenith
 Rift Bolt
 Rolling Thunder
-Searing Blaze
+Searing Spear
 Slagstorm
 Staggershock
 Through the Breach
