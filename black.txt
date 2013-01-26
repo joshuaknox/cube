@@ -1,5 +1,4 @@
-Creatures:
-
+Scepter of Fugue
 Anowon, the Ruin Sage
 Braids, Cabal Minion
 Bloodghast
@@ -31,55 +30,54 @@ Shriekmaw
 Skinrender
 Vampire Nighthawk
 Visara the Dreadful
-
-Spells:
-
 Animate Dead
-Beacon of Unrest
 Bitterblossom
+Dance of the Dead
+Descent into Madness
+Diabolic Servitude
+Enslave
+Necromancy
+Recurring Nightmare
+Underworld Connections
+Yawgmoth's Bargain
+Dismember
+Doom Blade
+Entomb
+Go for the Throat
+Makeshift Mannequin
+Murder
+Seize the Soul
+Slaughter Pact
+Terror
+Tribute to Hunger
+Ultimate Price
+Vampiric Tutor
+Liliana Vess
+Liliana of the Dark Realms
+Liliana of the Veil
+Sorin Markov
+Beacon of Unrest
 Black Sun's Zenith
 Chainer's Edict
 Consuming Vapors
 Damnation
-Dance of the Dead
 Demonic Tutor
-Descent into Madness
-Diabolic Servitude
-Dismember
-Doom Blade
 Dread Return
-Enslave
-Entomb
 Exhume
-Go for the Throat
 Hymn to Tourach
 Imperial Seal
 Incremental Blight
-Liliana Vess
-Liliana of the Dark Realms
-Liliana of the Veil
 Life's Finale
 Living Death
-Makeshift Mannequin
-Murder
 Mutilate
-Necromancy
 Profane Command
 Reanimate
-Recurring Nightmare
-Scepter of Fugue
-Seize the Soul
 Sever the Bloodline
 Sign in Blood
-Slaughter Pact
 Smallpox
-Sorin Markov
-Terror
-Tribute to Hunger
-Ultimate Price
 Unburial Rites
-Underworld Connections
-Vampiric Tutor
-Yawgmoth's Bargain
 Yawgmoth's Will
 Zombify
+
+
+

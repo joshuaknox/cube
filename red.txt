@@ -42,42 +42,44 @@ Thunderscape Battlemage
 Tin Street Hooligan
 Torch Fiend
 Urabrask, the Hidden
-
-Spells:
-
 Act of Aggression
-Arc Trail
-Banefire
 Beacon of Destruction
 Brimstone Volley
 Burst Lightning
-Chain Lightning
-Chandra Ablaze
-Chandra, the Firebrand
-Chandra Nalaar
 Comet Storm
+Flame Javelin
+Incinerate
+Lightning Bolt
+Magma Jet
+Searing Spear
+Staggershock
+Through the Breach
+Thunderous Wrath
+Word of Seizing
+Chandra Ablaze
+Chandra Nalaar
+Chandra, the Firebrand
+Koth of the Hammer
+Tibalt, the Fiend-Blooded
+Arc Trail
+Banefire
+Chain Lightning
 Cone of Flame
 Demonfire
 Devil's Play
 Earthquake
 Fireball
 Firebolt
-Flame Javelin
 Flames of the Firebrand
 Gamble
 Hammer of Bogardan
-Incinerate
-Koth of the Hammer
-Lightning Bolt
-Magma Jet
 Molten Disaster
 Red Sun's Zenith
 Rift Bolt
 Rolling Thunder
-Searing Spear
 Slagstorm
-Staggershock
-Through the Breach
-Thunderous Wrath
-Tibalt, the Fiend-Blooded
-Word of Seizing
+
+
+
+
+

@@ -1,5 +1,4 @@
-Creatures:
-
+Scepter of Dominance
 Accorder Paladin
 Admonition Angel
 Ajani's Sunstriker
@@ -46,40 +45,37 @@ Weathered Wayfarer
 Whipcorder
 Windborn Muse
 Yosei, the Morning Star
-
-(non-creatures):
-
-Ajani Goldmane
-Ajani, Caller of the Pride
 Angelic Destiny
-Austere Command
-Armageddon
 Arrest
-Balance
-Captain's Call
-Condemn
-Day of Judgment
-Elspeth, Knight-Errant
-Elspeth Tirel
-Enlightened Tutor
-Entreat the Angels
 Faiths Fetters
-Gideon Jura
-Increasing Devotion
 Journey to Nowhere
 Land Tax
-Lingering Souls
 Marshal's Anthem
-Martial Coup
 Oblivion Ring
 Pacifism
-Planar Cleansing
 Parallax Wave
-Path to Exile
 Prison Term
-Scepter of Dominance
-Swords to Plowshares
-Terminus
-White Sun's Zenith
-Wrath of God
 Worship
+Captain's Call
+Condemn
+Enlightened Tutor
+Path to Exile
+Swords to Plowshares
+White Sun's Zenith
+Ajani Goldmane
+Ajani, Caller of the Pride
+Elspeth, Knight-Errant
+Elspeth Tirel
+Gideon Jura
+Austere Command
+Armageddon
+Balance
+Day of Judgment
+Entreat the Angels
+Increasing Devotion
+Lingering Souls
+Martial Coup
+Planar Cleansing
+Terminus
+Wrath of God
+

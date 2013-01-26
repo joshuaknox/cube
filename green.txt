@@ -1,6 +1,5 @@
 Acidic Slime
 Ant Queen
-Arashi, the Sky Asunder
 Avenger of Zendikar
 Birds of Paradise
 Borderland Ranger
@@ -57,28 +56,25 @@ Wolfir Silverheart
 Wood Elves
 Woodfall Primus
 Yavimaya Elder
-
-Spells:
-
-Cultivate
-Explore
+Greater Good
+Survival of the Fittest
+Harrow
+Moment's Peace
+Noxious Revival
 Garruk Relentless
 Garruk Wildspeaker
 Garruk, Primal Hunter
-Greater Good
+Cultivate
+Explore
 Green Sun's Zenith
 Growth Spasm
 Harmonize
-Harrow
 Kodama's Reach
-Moment's Peace
 Natural Order
-Noxious Revival
 Primal Command
 Rain of Thorns
 Rampant Growth
 Recollect
 Regrowth
 Search for Tomorrow
-Survival of the Fittest
 Tooth and Nail

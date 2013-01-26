@@ -1,5 +1,4 @@
-Creatures:
-
+Phyrexian Metamorph
 Aether Adept
 Azure Mage
 Brine Elemental
@@ -20,7 +19,6 @@ Meloku the Clouded Mirror
 Mulldrifter
 Ninja of the Deep Hours
 Phantasmal Image
-Phyrexian Metamorph
 Quicksilver Dragon
 Riftwing Cloudskate
 Sakashima the Impostor
@@ -35,51 +33,48 @@ Venser, Shaper Savant
 Vesuvan Shapeshifter
 Vesuvan Doppleganger
 Voidmage Prodigy
-
-non-Creatures:
-
+Control Magic
+Future Sight
+Persuasion
+Treachery
+Volition Reins
 Ancestral Recall
-Ancestral Vision
 Blue Sun's Zenith
-Bribery
 Capsize
 Counterspell
-Control Magic
-Compulsive Research
 Cryptic Command
-Deep Analysis
 Desertion
 Dismiss
 Dissipate
 Fact or Fiction
 Forbidden Alchemy
 Force of Will
-Future Sight
 Gifts Ungiven
 Hinder
 Intuition
-Jace, Architect of Thought
-Jace Beleren
-Jace, the Mind Sculptor
 Mana Drain
 Mana Leak
 Mystical Teachings
 Mystical Tutor
-Persuasion
-Ponder
-Preordain
 Remand
 Remove Soul
-Sleep
-Tamiyo, the Moon Sage
-Temporal Mastery
-Tezzeret the Seeker
 Think Twice
 Thirst for Knowledge
-Tidings
 Time Stop
+Jace, Architect of Thought
+Jace Beleren
+Jace, the Mind Sculptor
+Tamiyo, the Moon Sage
+Tezzeret the Seeker
+Ancestral Vision
+Bribery
+Compulsive Research
+Deep Analysis
+Ponder
+Preordain
+Sleep
+Temporal Mastery
+Tidings
 Time Walk
 Time Warp
 Tinker
-Treachery
-Volition Reins

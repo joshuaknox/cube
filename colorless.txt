@@ -1,29 +1,3 @@
-Creatures:
-Copper Myr
-Duplicant
-Emrakul, the Aeons Torn
-Iron Myr
-Gold Myr
-Grim Poppet
-Kozliek, Butcher of Truth
-Leaden Myr
-Molten-Tail Masticore
-Myr Battlesphere
-Palladium Myr
-Pilgrim's Eye
-Platinum Angel
-Razormane Masticore
-Silver Myr
-Steel Hellkite
-Sundering Titan
-Solemn Simulacrum
-Triskelavus
-Triskelion
-Ulamog, the Infinite Gyre
-Wurmcoil Engine
-
-Non-Creatures:
-All Is Dust
 Azorius Signet
 Basilisk Collar
 Batterskull
@@ -38,7 +12,6 @@ Coldsteel Heart
 Crystal Ball
 Cursed Scroll
 Dimir Signet
-Eldrazi Conscription
 Engineered Explosives
 Everflowing Chalice
 Gilded Lotus
@@ -49,17 +22,17 @@ Gruul Signet
 Icy Manipulator
 Isochron Scepter
 Izzet Signet
-Karn Liberated
 Loxodon Warhammer
 Lux Cannon
 Mana Vault
 Memory Jar
 Mind Stone
-Mox Pearl
-Mox Sapphire
-Mox Jet
-Mox Ruby
+Mindslaver
 Mox Emerald
+Mox Jet
+Mox Pearl
+Mox Ruby
+Mox Sapphire
 Nevinyrral's Disk
 Obelisk of Alara
 Orzhov Signet
@@ -80,3 +53,28 @@ Sword of Fire and Ice
 Sword of Light and Shadow
 Sword of War and Peace
 Umezawa's Jitte
+Copper Myr
+Duplicant
+Iron Myr
+Gold Myr
+Grim Poppet
+Leaden Myr
+Molten-Tail Masticore
+Myr Battlesphere
+Palladium Myr
+Pilgrim's Eye
+Platinum Angel
+Razormane Masticore
+Silver Myr
+Steel Hellkite
+Sundering Titan
+Solemn Simulacrum
+Triskelavus
+Triskelion
+Wurmcoil Engine
+Emrakul, the Aeons Torn
+Kozliek, Butcher of Truth
+Ulamog, the Infinite Gyre
+Karn Liberated
+All Is Dust
+Eldrazi Conscription
