@@ -58,6 +58,7 @@ Future Sight
 Gifts Ungiven
 Hinder
 Intuition
+Jace, Architect of Thought
 Jace Beleren
 Jace, the Mind Sculptor
 Mana Drain
@@ -70,7 +71,6 @@ Preordain
 Remand
 Remove Soul
 Sleep
-Take Possession
 Tamiyo, the Moon Sage
 Temporal Mastery
 Tezzeret the Seeker

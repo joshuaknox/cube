@@ -31,6 +31,7 @@ Black Lotus
 Boros Signet
 Bottled Cloister
 Brittle Effigy
+Chromatic Lantern
 Chrome Mox
 Coalition Relic
 Coldsteel Heart
@@ -62,7 +63,6 @@ Mox Emerald
 Nevinyrral's Disk
 Obelisk of Alara
 Orzhov Signet
-Prismatic Lens
 Rakdos Signet
 Ratchet Bomb
 Scroll Rack

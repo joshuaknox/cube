@@ -1,6 +1,4 @@
 Academy Ruins
-Ancient Tomb
-Arcane Sanctum
 Arid Mesa
 Azorius Chancery
 Badlands
@@ -11,6 +9,7 @@ Boros Garrison
 Breeding Pool
 Cascade Bluffs
 Celestial Colonnade
+Clifftop Retreat
 Creeping Tar Pit
 Crumbling Necropolis
 Dimir Aqueduct
@@ -28,8 +27,9 @@ Golgari Rot Farm
 Graven Cairns
 Gruul Turf
 Hallowed Fountain
+Hinterland Harbor
+Isolated Chapel
 Izzet Boilerworks
-Jungle Shrine
 Lavaclaw Reaches
 Library of Alexandria
 Marsh Flats
@@ -49,10 +49,8 @@ Rootbound Crag
 Rugged Prairie
 Sacred Foundry
 Savannah
-Savage Lands
 Scalding Tarn
 Scrubland
-Seaside Citadel
 Selesnya Sanctuary
 Simic Growth Chamber
 Spinerock Knoll
@@ -60,6 +58,7 @@ Steam Vents
 Stirring Wildwood
 Stomping Ground
 Strip Mine
+Sulfur Falls
 Sunken Ruins
 Sunpetal Grove
 Taiga
@@ -69,6 +68,7 @@ Thawing Glaciers
 Treetop Village
 Tropical Island
 Tundra
+Twilight Mire
 Underground Sea
 Urborg, Tomb of Yawgmoth
 Verdant Catacombs
@@ -78,3 +78,4 @@ Windbrisk Heights
 Windswept Heath
 Wooded Bastion
 Wooded Foothills
+Woodland Cemetary

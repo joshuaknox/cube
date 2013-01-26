@@ -5,6 +5,7 @@ Admonition Angel
 Ajani's Sunstriker
 Akroma, Angel of Wrath
 Attended Knight
+Azorius Arrester
 Baneslayer Angel
 Blade Splicer
 Captain of the Watch
@@ -43,7 +44,6 @@ Twilight Shepherd
 War Priest of Thune
 Weathered Wayfarer
 Whipcorder
-White Knight
 Windborn Muse
 Yosei, the Morning Star
 

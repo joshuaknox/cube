@@ -50,7 +50,6 @@ Doom Blade
 Dread Return
 Enslave
 Entomb
-Executioner's Capsule
 Exhume
 Go for the Throat
 Hymn to Tourach
@@ -65,7 +64,6 @@ Makeshift Mannequin
 Murder
 Mutilate
 Necromancy
-Necropotence
 Profane Command
 Reanimate
 Recurring Nightmare
@@ -78,7 +76,9 @@ Smallpox
 Sorin Markov
 Terror
 Tribute to Hunger
+Ultimate Price
 Unburial Rites
+Underworld Connections
 Vampiric Tutor
 Yawgmoth's Bargain
 Yawgmoth's Will
