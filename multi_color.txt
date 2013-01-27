@@ -1,4 +1,6 @@
-Creatures:
+Behemoth Sledge
+Sharuum the Hegemon
+Tidehollow Sculler
 Angel of Despair
 Bloodbraid Elf
 Carnival Hellsteed
@@ -33,51 +35,47 @@ Realm Razer
 Sedraxis Specter
 Selesnya Guildmage
 Shadowmage Infiltrator
-Sharuum the Hegemon
 Simic Sky Swallower
 Sky Hussar
 Spiritmonger
-Tidehollow Sculler
 Trygon Predator
 Uril, the Miststalker
 Vithian Renegades
 Wrexial, the Risen Deep
-
-Non-Creatures:
-Absorb
-Agony Warp
-Ajani Vengeant
-Bant Charm
-Behemoth Sledge
-Bituminous Blast
-Blightning
-Colossal Might
-Cruel Ultimatum
 Debtors' Knell
-Electrolyze
-Firespout
-Fire//Ice
 Glare of Subdual
 Goblin Trenches
-Invoke the Firemind
-Lavalanche
-Lightning Helix
-Maelstrom Pulse
-Mortify
-Nicol Bolas, Planeswalker
 Pernicious Deed
+Absorb
+Agony Warp
+Bant Charm
+Bituminous Blast
+Colossal Might
+Electrolyze
+Lightning Helix
+Mortify
 Prophetic Bolt
 Putrefy
+Snakeform
+Terminate
+Unmake
+Voidslime
+Ajani Vengeant
+Nicol Bolas, Planeswalker
 Sarkhan the Mad
 Sarkhan Vol
-Slave of Bolas
-Snakeform
 Sorin, Lord of Innistrad
-Terminate
 Tezzeret, Agent of Bolas
-Treasured Find
-Unmake
-Vengeful Rebirth
 Venser, the Sojourner
+Blightning
+Cruel Ultimatum
+Firespout
+Fire//Ice
+Invoke the Firemind
+Lavalanche
+Maelstrom Pulse
+Slave of Bolas
+Treasured Find
+Vengeful Rebirth
 Vindicate
-Voidslime
+
