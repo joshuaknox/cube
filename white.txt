@@ -1,15 +1,15 @@
 Scepter of Dominance
 Accorder Paladin
 Admonition Angel
-Ajani's Sunstriker
-Akroma, Angel of Wrath
+Angel of Serenity
 Attended Knight
 Azorius Arrester
 Baneslayer Angel
 Blade Splicer
 Captain of the Watch
+Court Street Denizen
+Daring Skyjek
 Dawnglare Invoker
-Eight-and-a-Half Tails
 Elesh Norn, Grand Cenobite
 Elite Vanguard
 Emeria Angel
@@ -22,13 +22,13 @@ Hero of Bladehold
 Isamaru, Hound of Konda
 Knight of Glory
 Knight of the White Orchid
-Knight of Meadowgrain
 Leonin Relic-Warder
 Linvala, Keeper of Silence
 Mentor of the Meek
 Mikaeus, the Lunarch
 Mirror Entity
 Mother of Runes
+Precinct Captain
 Ranger of Eos
 Restoration Angel
 Reveillark
@@ -38,6 +38,7 @@ Student of Warfare
 Sublime Archangel
 Sunblast Angel
 Sun Titan
+Syndic of Tithes
 Thalia, Guardian of Thraben
 Twilight Shepherd
 War Priest of Thune
@@ -51,12 +52,11 @@ Faiths Fetters
 Journey to Nowhere
 Land Tax
 Marshal's Anthem
+Martial Law
 Oblivion Ring
 Pacifism
-Parallax Wave
 Prison Term
 Worship
-Captain's Call
 Condemn
 Enlightened Tutor
 Path to Exile

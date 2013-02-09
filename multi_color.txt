@@ -1,48 +1,44 @@
-Behemoth Sledge
-Sharuum the Hegemon
 Tidehollow Sculler
 Angel of Despair
+Armada Wurm
 Bloodbraid Elf
 Carnival Hellsteed
-Crackleburr
 Defiler of Souls
 Doran, the Siege Tower
 Dragon Broodmother
-Empyrial Archangel
 Enlisted Wurm
 Evil Twin
 Figure of Destiny
+Firemane Avenger
+Foundry Champion
 Geist of Saint Traft
 Glissa, the Traitor
-Hellkite Overlord
 Huntmaster of the Fells
 Jhoira of the Ghitu
-Karrthus, Tyrant of Jund
 Kitchen Finks
-Loxodon Hierarch
-Knight of the Reliquary
-Maelstrom Archangel
+Mercurial Chemister
 Mistmeadow Witch
 Mystic Snake
 New Prahv Guildmage
+Niv-Mizzet, Dracogenius
 Niv-Mizzet, the Firemind
+Obzedat, Ghost Council
 Olivia Voldaren
 Oona, Queen of the Fae
 Overbeing of Myth
 Qasali Pridemage
 Rafiq of the Many
 Realm Razer
-Sedraxis Specter
 Selesnya Guildmage
 Shadowmage Infiltrator
 Simic Sky Swallower
-Sky Hussar
-Spiritmonger
+Trostani, Selesnya's Voice
 Trygon Predator
-Uril, the Miststalker
 Vithian Renegades
 Wrexial, the Risen Deep
+Assemble the Legion
 Debtors' Knell
+Detention Sphere
 Glare of Subdual
 Goblin Trenches
 Pernicious Deed
@@ -51,12 +47,14 @@ Agony Warp
 Bant Charm
 Bituminous Blast
 Colossal Might
+Counterflux
 Electrolyze
 Lightning Helix
 Mortify
-Prophetic Bolt
 Putrefy
+Selesnya Charm
 Snakeform
+Sphinx's Revelation
 Terminate
 Unmake
 Voidslime
@@ -67,6 +65,7 @@ Sarkhan Vol
 Sorin, Lord of Innistrad
 Tezzeret, Agent of Bolas
 Venser, the Sojourner
+Vraska the Unseen
 Blightning
 Cruel Ultimatum
 Firespout
@@ -75,6 +74,7 @@ Invoke the Firemind
 Lavalanche
 Maelstrom Pulse
 Slave of Bolas
+Supreme Verdict
 Treasured Find
 Vengeful Rebirth
 Vindicate

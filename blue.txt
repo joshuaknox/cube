@@ -6,7 +6,6 @@ Body Double
 Clone
 Draining Whelk
 Dungeon Geists
-Ethersworn Adjudicator
 Enclave Cryptologist
 Frost Titan
 Jushi Apprentice
@@ -43,6 +42,7 @@ Blue Sun's Zenith
 Capsize
 Counterspell
 Cryptic Command
+Cyclonic Rift
 Desertion
 Dismiss
 Dissipate

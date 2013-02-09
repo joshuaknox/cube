@@ -9,6 +9,7 @@ Civic Wayfinder
 Cloudthresher
 Dawntreader Elk
 Daybreak Ranger
+Deadbridge Goliath
 Deranged Hermit
 Eternal Witness
 Elves of Deep Shadow
@@ -18,6 +19,7 @@ Farhaven Elf
 Fauna Shaman
 Garruk's Packleader
 Genesis
+Gyre Sage
 Imperious Perfect
 Indrik Stomphowler
 Jade Mage
@@ -25,9 +27,7 @@ Joraga Treespeaker
 Krosan Tusker
 Llanowar Elves
 Lotus Cobra
-Masked Admirers
 Master of the Wild Hunt
-Moldgraf Monstrosity
 Obstinate Baloth
 Ohran Viper
 Oracle of Mul Daya
@@ -42,7 +42,6 @@ Sylvan Ranger
 Terastodon
 Thelonite Hermit
 Thornling
-Thornscape Battlemage
 Thragtusk
 Thrun, the Last Troll
 Vengevine
@@ -55,6 +54,7 @@ Wickerbough Elder
 Wolfir Silverheart
 Wood Elves
 Woodfall Primus
+Worldspine Wurm
 Yavimaya Elder
 Greater Good
 Survival of the Fittest

@@ -1,9 +1,9 @@
 Scepter of Fugue
 Anowon, the Ruin Sage
 Braids, Cabal Minion
-Bloodghast
 Bloodgift Demon
 Bloodline Keeper
+Crypt Ghast
 Coffin Queen
 Dark Confidant
 Doomed Necromancer
@@ -17,10 +17,10 @@ Guul Draz Assassin
 Hypnotic Specter
 Kokusho, the Evening Star
 Liliana's Specter
-Malakir Bloodwitch
 Massacre Wurm
 Nekrataal
 Nezumi Graverobber
+Pack Rat
 Phyrexian Rager
 Puppeteer Clique
 Royal Assassin
@@ -33,7 +33,6 @@ Visara the Dreadful
 Animate Dead
 Bitterblossom
 Dance of the Dead
-Descent into Madness
 Diabolic Servitude
 Enslave
 Necromancy
@@ -76,6 +75,7 @@ Sever the Bloodline
 Sign in Blood
 Smallpox
 Unburial Rites
+Undercity Plague
 Yawgmoth's Will
 Zombify
 

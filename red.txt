@@ -1,7 +1,7 @@
 Akroma, Angel of Fury
+Ash Zealot
 Avalanche Riders
 Blisterstick Shaman
-Blood Knight
 Bogardan Hellkite
 Chandra's Phoenix
 Conquering Manticore
@@ -11,11 +11,11 @@ Fire Imp
 Flameblast Dragon
 Flametongue Kavu
 Furystoke Giant
-Ghitu Slinger
 Goblin Artillery
 Goblin Wardriver
 Grim Lavamancer
 Hellrider
+Hero of Oxid Ridge
 Hoard-Smelter Dragon
 Inferno Titan
 Instigator Gang
@@ -33,12 +33,12 @@ Oxidda Scrapmelter
 Rakka Mar
 Scorched Rusalka
 Siege-Gang Commander
+Skinbrand Goblin
 Spikeshot Elder
 Stalking Yeti
 Taurean Mauler
 Thunderblust
 Thundermaw Hellkite
-Thunderscape Battlemage
 Tin Street Hooligan
 Torch Fiend
 Urabrask, the Hidden
@@ -73,7 +73,7 @@ Firebolt
 Flames of the Firebrand
 Gamble
 Hammer of Bogardan
-Molten Disaster
+Mizzium Mortars
 Red Sun's Zenith
 Rift Bolt
 Rolling Thunder
