@@ -1,21 +1,23 @@
-Tidehollow Sculler
 Angel of Despair
 Armada Wurm
 Bloodbraid Elf
+Boros Reckoner
 Carnival Hellsteed
+Deathrite Shaman
 Defiler of Souls
-Doran, the Siege Tower
-Dragon Broodmother
 Enlisted Wurm
 Evil Twin
 Figure of Destiny
 Firemane Avenger
 Foundry Champion
 Geist of Saint Traft
+Ghor-Clan Rampager
 Glissa, the Traitor
+Gruul Ragebeast
 Huntmaster of the Fells
 Jhoira of the Ghitu
 Kitchen Finks
+Master Biomancer
 Mercurial Chemister
 Mistmeadow Witch
 Mystic Snake
@@ -25,13 +27,10 @@ Niv-Mizzet, the Firemind
 Obzedat, Ghost Council
 Olivia Voldaren
 Oona, Queen of the Fae
-Overbeing of Myth
+Prime Speaker Zegana
 Qasali Pridemage
-Rafiq of the Many
-Realm Razer
 Selesnya Guildmage
 Shadowmage Infiltrator
-Simic Sky Swallower
 Trostani, Selesnya's Voice
 Trygon Predator
 Vithian Renegades
@@ -40,25 +39,25 @@ Assemble the Legion
 Debtors' Knell
 Detention Sphere
 Glare of Subdual
-Goblin Trenches
 Pernicious Deed
 Absorb
 Agony Warp
-Bant Charm
+Aurelia's Fury
 Bituminous Blast
-Colossal Might
 Counterflux
 Electrolyze
 Lightning Helix
 Mortify
+Mystic Genesis
 Putrefy
 Selesnya Charm
+Simic Charm
 Snakeform
 Sphinx's Revelation
 Terminate
 Unmake
-Voidslime
 Ajani Vengeant
+Domri Rade
 Nicol Bolas, Planeswalker
 Sarkhan the Mad
 Sarkhan Vol
@@ -67,15 +66,16 @@ Tezzeret, Agent of Bolas
 Venser, the Sojourner
 Vraska the Unseen
 Blightning
+Clan Defiance
 Cruel Ultimatum
-Firespout
 Fire//Ice
 Invoke the Firemind
 Lavalanche
 Maelstrom Pulse
+Merciless Eviction
 Slave of Bolas
 Supreme Verdict
 Treasured Find
-Vengeful Rebirth
+Urban Evolution
 Vindicate
 
