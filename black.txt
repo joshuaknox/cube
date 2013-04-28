@@ -1,4 +1,3 @@
-Scepter of Fugue
 Anowon, the Ruin Sage
 Braids, Cabal Minion
 Bloodgift Demon
@@ -6,15 +5,18 @@ Bloodline Keeper
 Crypt Ghast
 Coffin Queen
 Dark Confidant
+Disciple of Bolas
 Doomed Necromancer
 Drana, Kalastria Bloodchief
 Faceless Butcher
+Gatekeeper of Malakir
 Geth, Lord of the Vault
 Grave Titan
 Graveborn Muse
 Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
+Kalitas, Bloodchief of Ghet
 Kokusho, the Evening Star
 Liliana's Specter
 Massacre Wurm
@@ -46,7 +48,7 @@ Go for the Throat
 Makeshift Mannequin
 Murder
 Seize the Soul
-Slaughter Pact
+Tendrils of Corruption
 Terror
 Tribute to Hunger
 Ultimate Price
@@ -57,13 +59,11 @@ Liliana of the Veil
 Sorin Markov
 Beacon of Unrest
 Black Sun's Zenith
-Chainer's Edict
 Consuming Vapors
 Damnation
 Demonic Tutor
 Dread Return
 Exhume
-Hymn to Tourach
 Imperial Seal
 Incremental Blight
 Life's Finale

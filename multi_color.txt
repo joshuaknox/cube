@@ -29,11 +29,11 @@ Olivia Voldaren
 Oona, Queen of the Fae
 Prime Speaker Zegana
 Qasali Pridemage
-Selesnya Guildmage
 Shadowmage Infiltrator
 Trostani, Selesnya's Voice
 Trygon Predator
 Vithian Renegades
+Vitu-Ghazi Guildmage
 Wrexial, the Risen Deep
 Assemble the Legion
 Debtors' Knell
@@ -41,11 +41,11 @@ Detention Sphere
 Glare of Subdual
 Pernicious Deed
 Absorb
-Agony Warp
 Aurelia's Fury
 Bituminous Blast
 Counterflux
 Electrolyze
+Far // Away
 Lightning Helix
 Mortify
 Mystic Genesis
@@ -55,6 +55,7 @@ Simic Charm
 Snakeform
 Sphinx's Revelation
 Terminate
+Turn // Burn
 Unmake
 Ajani Vengeant
 Domri Rade
@@ -68,7 +69,6 @@ Vraska the Unseen
 Blightning
 Clan Defiance
 Cruel Ultimatum
-Fire//Ice
 Invoke the Firemind
 Lavalanche
 Maelstrom Pulse
