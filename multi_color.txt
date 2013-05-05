@@ -28,10 +28,10 @@ Obzedat, Ghost Council
 Olivia Voldaren
 Oona, Queen of the Fae
 Prime Speaker Zegana
+Progenitor Mimic
 Qasali Pridemage
 Shadowmage Infiltrator
 Trostani, Selesnya's Voice
-Trygon Predator
 Vithian Renegades
 Vitu-Ghazi Guildmage
 Wrexial, the Risen Deep
@@ -60,6 +60,7 @@ Unmake
 Ajani Vengeant
 Domri Rade
 Nicol Bolas, Planeswalker
+Ral Zarek
 Sarkhan the Mad
 Sarkhan Vol
 Sorin, Lord of Innistrad
@@ -69,8 +70,7 @@ Vraska the Unseen
 Blightning
 Clan Defiance
 Cruel Ultimatum
-Invoke the Firemind
-Lavalanche
+Gaze of Granite
 Maelstrom Pulse
 Merciless Eviction
 Slave of Bolas

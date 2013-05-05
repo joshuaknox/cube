@@ -38,6 +38,7 @@ Dance of the Dead
 Diabolic Servitude
 Enslave
 Necromancy
+Phyrexian Arena
 Recurring Nightmare
 Underworld Connections
 Yawgmoth's Bargain
@@ -50,7 +51,6 @@ Murder
 Seize the Soul
 Tendrils of Corruption
 Terror
-Tribute to Hunger
 Ultimate Price
 Vampiric Tutor
 Liliana Vess
