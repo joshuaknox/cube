@@ -5,6 +5,7 @@ Angel of Serenity
 Attended Knight
 Azorius Arrester
 Baneslayer Angel
+Banisher Priest
 Blade Splicer
 Captain of the Watch
 Court Street Denizen
@@ -26,7 +27,6 @@ Leonin Relic-Warder
 Linvala, Keeper of Silence
 Mentor of the Meek
 Mikaeus, the Lunarch
-Mirror Entity
 Mother of Runes
 Precinct Captain
 Ranger of Eos
@@ -78,4 +78,3 @@ Martial Coup
 Planar Cleansing
 Terminus
 Wrath of God
-

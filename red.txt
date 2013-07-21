@@ -29,9 +29,9 @@ Magus of the Scroll
 Manic Vandal
 Mogg War Marshal
 Obsidian Fireheart
+Ogre Battledriver
 Oxidda Scrapmelter
 Rakka Mar
-Scorched Rusalka
 Siege-Gang Commander
 Skinbrand Goblin
 Spikeshot Elder
@@ -42,6 +42,7 @@ Thundermaw Hellkite
 Tin Street Hooligan
 Torch Fiend
 Urabrask, the Hidden
+Young Pyromancer
 Act of Aggression
 Beacon of Destruction
 Brimstone Volley
@@ -59,10 +60,9 @@ Word of Seizing
 Chandra Ablaze
 Chandra Nalaar
 Chandra, the Firebrand
+Chandra, Pyromaster
 Koth of the Hammer
-Tibalt, the Fiend-Blooded
 Arc Trail
-Banefire
 Chain Lightning
 Cone of Flame
 Demonfire
@@ -78,8 +78,3 @@ Red Sun's Zenith
 Rift Bolt
 Rolling Thunder
 Slagstorm
-
-
-
-
-

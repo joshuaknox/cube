@@ -1,5 +1,6 @@
 Acidic Slime
 Ant Queen
+Arbor Elf
 Avenger of Zendikar
 Birds of Paradise
 Borderland Ranger
@@ -8,12 +9,10 @@ Chameleon Colossus
 Civic Wayfinder
 Cloudthresher
 Dawntreader Elk
-Daybreak Ranger
 Deadbridge Goliath
 Deranged Hermit
 Eternal Witness
-Elves of Deep Shadow
-Elvish Archdruid
+Elvish Mystic
 Elvish Piper
 Farhaven Elf
 Fauna Shaman
@@ -24,10 +23,10 @@ Imperious Perfect
 Indrik Stomphowler
 Jade Mage
 Joraga Treespeaker
-Krosan Tusker
-Llanowar Elves
 Lotus Cobra
 Master of the Wild Hunt
+Mold Shambler
+Noble Hierarch
 Obstinate Baloth
 Ohran Viper
 Oracle of Mul Daya
@@ -36,7 +35,7 @@ Primeval Titan
 Rampaging Baloths
 River Boa
 Sakura-Tribe Elder
-Seedborn Muse
+Scavenging Ooze
 Somberwald Sage
 Sylvan Ranger
 Terastodon
@@ -60,12 +59,14 @@ Greater Good
 Survival of the Fittest
 Harrow
 Moment's Peace
-Noxious Revival
+Garruk, Caller of Beasts
 Garruk Relentless
 Garruk Wildspeaker
 Garruk, Primal Hunter
+All Suns' Dawn
 Cultivate
 Explore
+Farseek
 Green Sun's Zenith
 Growth Spasm
 Harmonize
@@ -74,7 +75,6 @@ Natural Order
 Primal Command
 Rain of Thorns
 Rampant Growth
-Recollect
 Regrowth
 Search for Tomorrow
 Tooth and Nail

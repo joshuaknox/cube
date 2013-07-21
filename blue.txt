@@ -12,6 +12,7 @@ Frost Titan
 Keiga, the Tide Star
 Looter il-Kor
 Magus of the Future
+Master Thief
 Master Transmuter
 Meloku the Clouded Mirror
 Mist Raven
@@ -21,7 +22,6 @@ Phantasmal Image
 Riftwing Cloudskate
 Sakashima the Impostor
 Sea Gate Oracle
-Shapesharer
 Simic Manipulator
 Snapcaster Mage
 Sower of Temptation
