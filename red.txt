@@ -1,3 +1,4 @@
+Hammer of Purphoros
 Akroma, Angel of Fury
 Ash Zealot
 Avalanche Riders
@@ -31,11 +32,13 @@ Mogg War Marshal
 Obsidian Fireheart
 Ogre Battledriver
 Oxidda Scrapmelter
+Purphoros, God of the Forge
 Rakka Mar
 Siege-Gang Commander
 Skinbrand Goblin
 Spikeshot Elder
 Stalking Yeti
+Stormbreath Dragon
 Taurean Mauler
 Thunderblust
 Thundermaw Hellkite
@@ -43,7 +46,7 @@ Tin Street Hooligan
 Torch Fiend
 Urabrask, the Hidden
 Young Pyromancer
-Act of Aggression
+Zealous Conscripts
 Beacon of Destruction
 Brimstone Volley
 Burst Lightning
@@ -64,11 +67,8 @@ Chandra, Pyromaster
 Koth of the Hammer
 Arc Trail
 Chain Lightning
-Cone of Flame
-Demonfire
 Devil's Play
 Earthquake
-Fireball
 Firebolt
 Flames of the Firebrand
 Gamble

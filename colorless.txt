@@ -12,7 +12,6 @@ Coldsteel Heart
 Crystal Ball
 Cursed Scroll
 Dimir Signet
-Engineered Explosives
 Everflowing Chalice
 Gilded Lotus
 Golgari Signet
@@ -38,6 +37,7 @@ Obelisk of Alara
 Orzhov Signet
 Rakdos Signet
 Ratchet Bomb
+Ring of Three Wishes
 Scroll Rack
 Selesnya Signet
 Sensei's Divining Top

@@ -8,6 +8,7 @@ Dark Confidant
 Disciple of Bolas
 Doomed Necromancer
 Drana, Kalastria Bloodchief
+Erebos, God of the Dead
 Faceless Butcher
 Gatekeeper of Malakir
 Geth, Lord of the Vault
@@ -49,7 +50,6 @@ Go for the Throat
 Makeshift Mannequin
 Murder
 Seize the Soul
-Tendrils of Corruption
 Terror
 Ultimate Price
 Vampiric Tutor
@@ -70,9 +70,9 @@ Life's Finale
 Living Death
 Mutilate
 Profane Command
+Read the Bones
 Reanimate
 Sever the Bloodline
-Sign in Blood
 Smallpox
 Unburial Rites
 Undercity Plague

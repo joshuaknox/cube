@@ -26,6 +26,7 @@ Simic Manipulator
 Snapcaster Mage
 Sower of Temptation
 Sphinx of Uthuun
+Thassa, God of the Sea
 Trinket Mage
 Vendilion Clique
 Venser, Shaper Savant
@@ -39,10 +40,10 @@ Treachery
 Volition Reins
 Ancestral Recall
 Blue Sun's Zenith
-Brainstorm
 Capsize
 Counterspell
 Cryptic Command
+Curse of the Swine
 Cyclonic Rift
 Desertion
 Dismiss
@@ -72,7 +73,6 @@ Deep Analysis
 Ponder
 Preordain
 Sleep
-Spelltwine
 Temporal Mastery
 Tidings
 Time Walk

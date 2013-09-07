@@ -19,6 +19,7 @@ Fiend Hunter
 Flickerwisp
 Geist-Honored Monk
 Gideon's Lawkeeper
+Heliod, God of the Sun
 Hero of Bladehold
 Isamaru, Hound of Konda
 Knight of Glory
@@ -44,7 +45,6 @@ Twilight Shepherd
 War Priest of Thune
 Weathered Wayfarer
 Whipcorder
-Windborn Muse
 Yosei, the Morning Star
 Angelic Destiny
 Arrest
@@ -61,10 +61,10 @@ Condemn
 Enlightened Tutor
 Path to Exile
 Swords to Plowshares
-White Sun's Zenith
 Ajani Goldmane
 Ajani, Caller of the Pride
 Elspeth, Knight-Errant
+Elspeth, Sun's Champion
 Elspeth Tirel
 Gideon Jura
 Austere Command

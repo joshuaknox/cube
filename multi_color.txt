@@ -32,7 +32,6 @@ Progenitor Mimic
 Qasali Pridemage
 Shadowmage Infiltrator
 Trostani, Selesnya's Voice
-Vithian Renegades
 Vitu-Ghazi Guildmage
 Wrexial, the Risen Deep
 Assemble the Legion
@@ -67,6 +66,7 @@ Sorin, Lord of Innistrad
 Tezzeret, Agent of Bolas
 Venser, the Sojourner
 Vraska the Unseen
+Xenagos, the Reveler
 Blightning
 Clan Defiance
 Cruel Ultimatum
@@ -78,4 +78,3 @@ Supreme Verdict
 Treasured Find
 Urban Evolution
 Vindicate
-
