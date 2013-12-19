@@ -32,6 +32,7 @@ Obstinate Baloth
 Ohran Viper
 Oracle of Mul Daya
 Pelakka Wurm
+Polukranos, World Eater
 Primeval Titan
 Rampaging Baloths
 River Boa
@@ -45,7 +46,6 @@ Thelonite Hermit
 Thragtusk
 Thrun, the Last Troll
 Vengevine
-Verdeloth, the Ancient
 Vigor
 Viridian Shaman
 Vorapede
