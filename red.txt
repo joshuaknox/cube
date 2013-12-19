@@ -8,6 +8,7 @@ Chandra's Phoenix
 Conquering Manticore
 Cunning Sparkmage
 Ember Hauler
+Ember Swallower
 Fire Imp
 Flameblast Dragon
 Flametongue Kavu
@@ -22,7 +23,6 @@ Inferno Titan
 Instigator Gang
 Jaya Ballard, Task Mage
 Kargan Dragonlord
-Keldon Champion
 Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
 Lightning Mauler

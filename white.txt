@@ -12,7 +12,6 @@ Court Street Denizen
 Daring Skyjek
 Dawnglare Invoker
 Elesh Norn, Grand Cenobite
-Elite Vanguard
 Emeria Angel
 Exalted Angel
 Fiend Hunter
@@ -34,6 +33,7 @@ Ranger of Eos
 Restoration Angel
 Reveillark
 Ronom Unicorn
+Soldier of the Pantheon
 Stoneforge Mystic
 Student of Warfare
 Sublime Archangel

@@ -48,15 +48,16 @@ Cyclonic Rift
 Desertion
 Dismiss
 Dissipate
+Dissolve
 Fact or Fiction
 Force of Will
 Gifts Ungiven
-Hinder
 Intuition
 Mana Drain
 Mana Leak
 Mystical Teachings
 Mystical Tutor
+Opportunity
 Remand
 Remove Soul
 Thirst for Knowledge
@@ -74,7 +75,6 @@ Ponder
 Preordain
 Sleep
 Temporal Mastery
-Tidings
 Time Walk
 Time Warp
 Tinker

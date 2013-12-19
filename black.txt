@@ -1,3 +1,4 @@
+Whip of Erebos
 Anowon, the Ruin Sage
 Braids, Cabal Minion
 Bloodgift Demon
@@ -47,8 +48,8 @@ Dismember
 Doom Blade
 Entomb
 Go for the Throat
+Hero's Downfall
 Makeshift Mannequin
-Murder
 Seize the Soul
 Terror
 Ultimate Price
@@ -63,7 +64,6 @@ Consuming Vapors
 Damnation
 Demonic Tutor
 Dread Return
-Exhume
 Imperial Seal
 Incremental Blight
 Life's Finale
