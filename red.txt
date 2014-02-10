@@ -9,7 +9,7 @@ Conquering Manticore
 Cunning Sparkmage
 Ember Hauler
 Ember Swallower
-Fire Imp
+Felhide Spiritbinder
 Flameblast Dragon
 Flametongue Kavu
 Furystoke Giant
@@ -31,6 +31,7 @@ Manic Vandal
 Mogg War Marshal
 Obsidian Fireheart
 Ogre Battledriver
+Oracle of Bones
 Oxidda Scrapmelter
 Purphoros, God of the Forge
 Rakka Mar
@@ -55,7 +56,6 @@ Flame Javelin
 Incinerate
 Lightning Bolt
 Magma Jet
-Searing Spear
 Staggershock
 Through the Breach
 Thunderous Wrath

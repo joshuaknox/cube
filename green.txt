@@ -4,13 +4,12 @@ Arbor Colossus
 Arbor Elf
 Avenger of Zendikar
 Birds of Paradise
-Borderland Ranger
 Brooding Saurian
 Chameleon Colossus
 Civic Wayfinder
+Courser of Kruphix
 Dawntreader Elk
 Deadbridge Goliath
-Deranged Hermit
 Eternal Witness
 Elvish Mystic
 Elvish Piper
@@ -42,11 +41,9 @@ Somberwald Sage
 Sylvan Ranger
 Sylvan Caryatid
 Terastodon
-Thelonite Hermit
 Thragtusk
 Thrun, the Last Troll
 Vengevine
-Vigor
 Viridian Shaman
 Vorapede
 Wall of Roots
@@ -55,10 +52,13 @@ Wolfir Silverheart
 Woodfall Primus
 Worldspine Wurm
 Yavimaya Elder
+Doubling Season
+Fertile Ground
 Greater Good
+Primeval Bounty
 Survival of the Fittest
 Harrow
-Moment's Peace
+Naturalize
 Garruk, Caller of Beasts
 Garruk Relentless
 Garruk Wildspeaker

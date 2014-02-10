@@ -2,6 +2,7 @@ Scepter of Dominance
 Accorder Paladin
 Admonition Angel
 Angel of Serenity
+Archangel of Thune
 Attended Knight
 Azorius Arrester
 Baneslayer Angel
@@ -24,7 +25,6 @@ Isamaru, Hound of Konda
 Knight of Glory
 Knight of the White Orchid
 Leonin Relic-Warder
-Linvala, Keeper of Silence
 Mentor of the Meek
 Mikaeus, the Lunarch
 Mother of Runes

@@ -10,7 +10,6 @@ Disciple of Bolas
 Doomed Necromancer
 Drana, Kalastria Bloodchief
 Erebos, God of the Dead
-Faceless Butcher
 Gatekeeper of Malakir
 Geth, Lord of the Vault
 Grave Titan
@@ -21,6 +20,7 @@ Hypnotic Specter
 Kalitas, Bloodchief of Ghet
 Kokusho, the Evening Star
 Liliana's Specter
+Magus of the Abyss
 Massacre Wurm
 Nekrataal
 Nezumi Graverobber
@@ -29,6 +29,7 @@ Phyrexian Rager
 Puppeteer Clique
 Royal Assassin
 Rune-Scarred Demon
+Shadowborn Demon
 Sheoldred, Whispering One
 Shriekmaw
 Skinrender
@@ -44,6 +45,7 @@ Phyrexian Arena
 Recurring Nightmare
 Underworld Connections
 Yawgmoth's Bargain
+Bile Blight
 Dismember
 Doom Blade
 Entomb
@@ -65,7 +67,6 @@ Damnation
 Demonic Tutor
 Dread Return
 Imperial Seal
-Incremental Blight
 Life's Finale
 Living Death
 Mutilate
@@ -73,7 +74,6 @@ Profane Command
 Read the Bones
 Reanimate
 Sever the Bloodline
-Smallpox
 Unburial Rites
 Undercity Plague
 Yawgmoth's Will

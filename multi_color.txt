@@ -12,11 +12,11 @@ Firemane Avenger
 Foundry Champion
 Geist of Saint Traft
 Ghor-Clan Rampager
-Glissa, the Traitor
 Gruul Ragebeast
 Huntmaster of the Fells
 Jhoira of the Ghitu
 Kitchen Finks
+Lotleth Troll
 Master Biomancer
 Mercurial Chemister
 Mistmeadow Witch
@@ -32,6 +32,7 @@ Progenitor Mimic
 Qasali Pridemage
 Shadowmage Infiltrator
 Trostani, Selesnya's Voice
+Varolz, the Scar-Striped
 Vitu-Ghazi Guildmage
 Wrexial, the Risen Deep
 Assemble the Legion
@@ -39,25 +40,23 @@ Debtors' Knell
 Detention Sphere
 Glare of Subdual
 Pernicious Deed
-Absorb
 Aurelia's Fury
+Azorius Charm
 Bituminous Blast
 Counterflux
-Electrolyze
 Far // Away
+Izzet Charm
 Lightning Helix
 Mortify
 Mystic Genesis
 Putrefy
 Selesnya Charm
 Simic Charm
-Snakeform
 Sphinx's Revelation
-Terminate
 Turn // Burn
-Unmake
 Ajani Vengeant
 Domri Rade
+Kiora, the Crashing Wave
 Nicol Bolas, Planeswalker
 Ral Zarek
 Sarkhan the Mad
@@ -70,11 +69,12 @@ Xenagos, the Reveler
 Blightning
 Clan Defiance
 Cruel Ultimatum
+Dreadbore
 Gaze of Granite
 Maelstrom Pulse
 Merciless Eviction
-Slave of Bolas
+Obzedat's Aid
+Rakdos's Return
 Supreme Verdict
-Treasured Find
 Urban Evolution
 Vindicate
