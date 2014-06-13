@@ -1,4 +1,4 @@
-Scepter of Dominance
+Spear of Heliod
 Accorder Paladin
 Admonition Angel
 Angel of Serenity
@@ -8,10 +8,12 @@ Azorius Arrester
 Baneslayer Angel
 Banisher Priest
 Blade Splicer
+Brimaz, King of Oreskos
 Captain of the Watch
 Court Street Denizen
 Daring Skyjek
 Dawnglare Invoker
+Eidolon of Countless Battles
 Elesh Norn, Grand Cenobite
 Emeria Angel
 Exalted Angel
@@ -41,7 +43,6 @@ Sunblast Angel
 Sun Titan
 Syndic of Tithes
 Thalia, Guardian of Thraben
-Twilight Shepherd
 War Priest of Thune
 Weathered Wayfarer
 Whipcorder
@@ -51,7 +52,6 @@ Arrest
 Faiths Fetters
 Journey to Nowhere
 Land Tax
-Marshal's Anthem
 Martial Law
 Oblivion Ring
 Pacifism
