@@ -8,4 +8,6 @@ I want the various colors to actually accurately represent what the current colo
 
 I want each of the stacks to have depth, allowing diverse archetypes, and to be reasonably balanced.  I will not exclude cards on the basis of being imbalanced as long as they honor the color pie, unless they are also largely non-interactive.  Creatures with Shroud (or Hexproof) are deliberately few in number simply because they tend not to add much depth to a game.
 
+White has a significant "go wide" theme as well as a significant control theme.
+
   
