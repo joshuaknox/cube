@@ -12,6 +12,7 @@ Coldsteel Heart
 Crystal Ball
 Cursed Scroll
 Dimir Signet
+Druidic Satchel
 Everflowing Chalice
 Gilded Lotus
 Golgari Signet
@@ -19,7 +20,6 @@ Grim Monolith
 Grimoire of the Dead
 Gruul Signet
 Icy Manipulator
-Isochron Scepter
 Izzet Signet
 Loxodon Warhammer
 Lux Cannon
@@ -35,6 +35,7 @@ Mox Sapphire
 Nevinyrral's Disk
 Obelisk of Alara
 Orzhov Signet
+Perilous Vault
 Rakdos Signet
 Ratchet Bomb
 Ring of Three Wishes
@@ -64,11 +65,10 @@ Myr Battlesphere
 Palladium Myr
 Pilgrim's Eye
 Platinum Angel
-Razormane Masticore
 Silver Myr
-Steel Hellkite
-Sundering Titan
 Solemn Simulacrum
+Steel Hellkite
+Sword of Vengeance
 Triskelavus
 Triskelion
 Wurmcoil Engine

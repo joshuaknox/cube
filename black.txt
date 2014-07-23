@@ -3,6 +3,7 @@ Anowon, the Ruin Sage
 Braids, Cabal Minion
 Bloodgift Demon
 Bloodline Keeper
+Cruel Sadist
 Crypt Ghast
 Coffin Queen
 Dark Confidant
@@ -39,7 +40,7 @@ Animate Dead
 Bitterblossom
 Dance of the Dead
 Diabolic Servitude
-Enslave
+Necromancer's Stockpile
 Necromancy
 Phyrexian Arena
 Recurring Nightmare
@@ -54,7 +55,6 @@ Hero's Downfall
 Makeshift Mannequin
 Seize the Soul
 Terror
-Ultimate Price
 Vampiric Tutor
 Liliana Vess
 Liliana of the Dark Realms

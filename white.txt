@@ -4,6 +4,7 @@ Admonition Angel
 Angel of Serenity
 Archangel of Thune
 Attended Knight
+Avacyn, Guardian Angel
 Azorius Arrester
 Baneslayer Angel
 Banisher Priest
@@ -14,7 +15,6 @@ Court Street Denizen
 Daring Skyjek
 Dawnglare Invoker
 Eidolon of Countless Battles
-Elesh Norn, Grand Cenobite
 Emeria Angel
 Exalted Angel
 Fiend Hunter
@@ -47,22 +47,22 @@ War Priest of Thune
 Weathered Wayfarer
 Whipcorder
 Yosei, the Morning Star
-Angelic Destiny
 Arrest
+Banishing Light
 Faiths Fetters
 Journey to Nowhere
 Land Tax
 Martial Law
 Oblivion Ring
-Pacifism
 Prison Term
+Spirit Bonds
 Worship
 Condemn
 Enlightened Tutor
 Path to Exile
 Swords to Plowshares
 Ajani Goldmane
-Ajani, Caller of the Pride
+Ajani Steadfast
 Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Elspeth Tirel

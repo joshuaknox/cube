@@ -3,15 +3,17 @@ Aether Adept
 Aetherling
 Azure Mage
 Brine Elemental
-Body Double
-Clone
+Chasm Skulker
+Djinn of Wishes
 Draining Whelk
 Dungeon Geists
 Enclave Cryptologist
 Frost Titan
+Jalira, Master Polymorphist
 Keiga, the Tide Star
 Looter il-Kor
 Magus of the Future
+Master of Predicaments
 Master Thief
 Master Transmuter
 Meloku the Clouded Mirror
@@ -31,7 +33,6 @@ Trinket Mage
 Vendilion Clique
 Venser, Shaper Savant
 Vesuvan Shapeshifter
-Vesuvan Doppleganger
 Voidmage Prodigy
 Control Magic
 Future Sight
@@ -55,8 +56,6 @@ Gifts Ungiven
 Intuition
 Mana Drain
 Mana Leak
-Mystical Teachings
-Mystical Tutor
 Opportunity
 Remand
 Remove Soul
@@ -64,6 +63,7 @@ Thirst for Knowledge
 Time Stop
 Jace, Architect of Thought
 Jace Beleren
+Jace, the Living Guildpact
 Jace, the Mind Sculptor
 Tamiyo, the Moon Sage
 Tezzeret the Seeker

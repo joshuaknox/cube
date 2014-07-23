@@ -5,7 +5,6 @@ Boros Reckoner
 Carnival Hellsteed
 Deathrite Shaman
 Defiler of Souls
-Enlisted Wurm
 Evil Twin
 Figure of Destiny
 Firemane Avenger
@@ -15,7 +14,6 @@ Ghor-Clan Rampager
 Gruul Ragebeast
 Huntmaster of the Fells
 Jhoira of the Ghitu
-Kitchen Finks
 Lotleth Troll
 Master Biomancer
 Mercurial Chemister
@@ -39,7 +37,7 @@ Assemble the Legion
 Debtors' Knell
 Detention Sphere
 Glare of Subdual
-Pernicious Deed
+Unflinching Courage
 Aurelia's Fury
 Azorius Charm
 Bituminous Blast
@@ -54,8 +52,10 @@ Selesnya Charm
 Simic Charm
 Sphinx's Revelation
 Turn // Burn
+Ajani, Mentor of Heroes
 Ajani Vengeant
 Domri Rade
+Garruke, Apex Predator
 Kiora, the Crashing Wave
 Nicol Bolas, Planeswalker
 Ral Zarek

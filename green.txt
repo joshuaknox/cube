@@ -2,7 +2,6 @@ Acidic Slime
 Ant Queen
 Arbor Colossus
 Arbor Elf
-Avenger of Zendikar
 Birds of Paradise
 Brooding Saurian
 Chameleon Colossus
@@ -16,7 +15,7 @@ Elvish Piper
 Farhaven Elf
 Fauna Shaman
 Garruk's Packleader
-Genesis
+Genesis Hydra
 Gyre Sage
 Imperious Perfect
 Indrik Stomphowler
@@ -52,18 +51,20 @@ Wolfir Silverheart
 Woodfall Primus
 Worldspine Wurm
 Yavimaya Elder
+Yisan, the Wanderer Bard
 Doubling Season
+Exploration
 Fertile Ground
-Greater Good
 Primeval Bounty
 Survival of the Fittest
-Harrow
+Chord of Calling
 Naturalize
 Garruk, Caller of Beasts
+Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
-Garruk, Primal Hunter
-All Suns' Dawn
+Nissa, Worldwaker
+Bramblecrush
 Cultivate
 Explore
 Farseek
@@ -73,7 +74,6 @@ Harmonize
 Kodama's Reach
 Natural Order
 Primal Command
-Rain of Thorns
 Rampant Growth
 Regrowth
 Search for Tomorrow

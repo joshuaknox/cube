@@ -2,8 +2,6 @@ Hammer of Purphoros
 Akroma, Angel of Fury
 Ash Zealot
 Avalanche Riders
-Blisterstick Shaman
-Bogardan Hellkite
 Chandra's Phoenix
 Conquering Manticore
 Cunning Sparkmage
@@ -13,7 +11,8 @@ Felhide Spiritbinder
 Flameblast Dragon
 Flametongue Kavu
 Furystoke Giant
-Goblin Artillery
+Generator Servant
+Goblin Rabblemaster
 Goblin Wardriver
 Grim Lavamancer
 Hellrider
@@ -32,11 +31,12 @@ Mogg War Marshal
 Obsidian Fireheart
 Ogre Battledriver
 Oracle of Bones
-Oxidda Scrapmelter
+Prophetic Flamespeaker
 Purphoros, God of the Forge
 Rakka Mar
 Siege-Gang Commander
 Skinbrand Goblin
+Soul of Shandalar
 Spikeshot Elder
 Stalking Yeti
 Stormbreath Dragon
