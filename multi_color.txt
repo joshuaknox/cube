@@ -34,7 +34,6 @@ Varolz, the Scar-Striped
 Vitu-Ghazi Guildmage
 Wrexial, the Risen Deep
 Assemble the Legion
-Debtors' Knell
 Detention Sphere
 Glare of Subdual
 Unflinching Courage
@@ -62,6 +61,7 @@ Ral Zarek
 Sarkhan the Mad
 Sarkhan Vol
 Sorin, Lord of Innistrad
+Sorin, Solemn Visitor
 Tezzeret, Agent of Bolas
 Venser, the Sojourner
 Vraska the Unseen

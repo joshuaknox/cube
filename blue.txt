@@ -1,9 +1,8 @@
-Phyrexian Metamorph
 Aether Adept
 Aetherling
 Azure Mage
-Brine Elemental
 Chasm Skulker
+Clever Impersonator
 Djinn of Wishes
 Draining Whelk
 Dungeon Geists
@@ -11,10 +10,10 @@ Enclave Cryptologist
 Frost Titan
 Jalira, Master Polymorphist
 Keiga, the Tide Star
+Kheru Spellsnatcher
 Looter il-Kor
 Magus of the Future
 Master of Predicaments
-Master Thief
 Master Transmuter
 Meloku the Clouded Mirror
 Mist Raven
@@ -29,6 +28,7 @@ Snapcaster Mage
 Sower of Temptation
 Sphinx of Uthuun
 Thassa, God of the Sea
+Thousand Winds
 Trinket Mage
 Vendilion Clique
 Venser, Shaper Savant

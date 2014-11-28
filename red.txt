@@ -17,16 +17,15 @@ Goblin Wardriver
 Grim Lavamancer
 Hellrider
 Hero of Oxid Ridge
-Hoard-Smelter Dragon
 Inferno Titan
 Instigator Gang
 Jaya Ballard, Task Mage
+Jeering Instigator
 Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
 Lightning Mauler
 Magus of the Scroll
-Manic Vandal
 Mogg War Marshal
 Obsidian Fireheart
 Ogre Battledriver
@@ -45,9 +44,10 @@ Thunderblust
 Thundermaw Hellkite
 Tin Street Hooligan
 Torch Fiend
-Urabrask, the Hidden
+Voracious Dragon
 Young Pyromancer
 Zealous Conscripts
+Goblin Assault
 Beacon of Destruction
 Brimstone Volley
 Burst Lightning
@@ -60,11 +60,11 @@ Staggershock
 Through the Breach
 Thunderous Wrath
 Word of Seizing
-Chandra Ablaze
 Chandra Nalaar
 Chandra, the Firebrand
 Chandra, Pyromaster
 Koth of the Hammer
+Sarkhan, the Dragonspeaker
 Arc Trail
 Chain Lightning
 Devil's Play

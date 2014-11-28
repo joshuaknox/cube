@@ -3,7 +3,6 @@ Accorder Paladin
 Admonition Angel
 Angel of Serenity
 Archangel of Thune
-Attended Knight
 Avacyn, Guardian Angel
 Azorius Arrester
 Baneslayer Angel
@@ -22,6 +21,7 @@ Flickerwisp
 Geist-Honored Monk
 Gideon's Lawkeeper
 Heliod, God of the Sun
+Herald of Anafenza
 Hero of Bladehold
 Isamaru, Hound of Konda
 Knight of Glory
