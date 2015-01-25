@@ -5,15 +5,21 @@ Black Lotus
 Boros Signet
 Bottled Cloister
 Brittle Effigy
+Charcoal Diamond
 Chromatic Lantern
 Chrome Mox
 Coalition Relic
 Coldsteel Heart
 Crystal Ball
 Cursed Scroll
+Darksteel Axe
 Dimir Signet
 Druidic Satchel
+Eldrazi Monument
+Elixir of Immortality
 Everflowing Chalice
+Fellwar Stone
+Fire Diamond
 Gilded Lotus
 Golgari Signet
 Grim Monolith
@@ -24,9 +30,13 @@ Izzet Signet
 Loxodon Warhammer
 Lux Cannon
 Mana Vault
+Marble Diamond
 Memory Jar
+Mimic Vat
 Mind Stone
 Mindslaver
+Mortarpod
+Moss Diamond
 Mox Emerald
 Mox Jet
 Mox Pearl
@@ -43,16 +53,26 @@ Scroll Rack
 Selesnya Signet
 Sensei's Divining Top
 Simic Signet
+Sky Diamond
 Skullclamp
 Smokestack
 Sol Ring
+Sphere of the Suns
 Spine of Ish Sah
 Staff of Domination
+Staff of Nin
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
 Sword of Light and Shadow
+Sword of Vengeance
 Sword of War and Peace
+Talisman of Dominance
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Progress
+Talisman of Unity
+Thran Dynamo
 Umezawa's Jitte
 Copper Myr
 Duplicant
@@ -68,9 +88,9 @@ Platinum Angel
 Silver Myr
 Solemn Simulacrum
 Steel Hellkite
-Sword of Vengeance
 Triskelavus
 Triskelion
+Worn Powerstone
 Wurmcoil Engine
 Emrakul, the Aeons Torn
 Kozliek, Butcher of Truth

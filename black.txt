@@ -1,8 +1,8 @@
 Whip of Erebos
 Anowon, the Ruin Sage
-Braids, Cabal Minion
 Bloodgift Demon
 Bloodline Keeper
+Braids, Cabal Minion
 Cruel Sadist
 Crypt Ghast
 Coffin Queen
@@ -10,7 +10,9 @@ Dark Confidant
 Disciple of Bolas
 Doomed Necromancer
 Drana, Kalastria Bloodchief
+Entomber Exarch
 Erebos, God of the Dead
+Faceless Butcher
 Gatekeeper of Malakir
 Geth, Lord of the Vault
 Grave Titan
@@ -18,14 +20,19 @@ Graveborn Muse
 Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
+Ink-Eyes, Servant of Oni
 Kalitas, Bloodchief of Ghet
 Kokusho, the Evening Star
+Lifebane Zombie
 Liliana's Specter
 Magus of the Abyss
 Massacre Wurm
 Nekrataal
 Nezumi Graverobber
+Oona's Prowler
 Pack Rat
+Pain Seer
+Phyrexian Delver
 Phyrexian Rager
 Puppeteer Clique
 Royal Assassin
@@ -34,14 +41,18 @@ Shadowborn Demon
 Sheoldred, Whispering One
 Shriekmaw
 Skinrender
+Tombstalker
+Vampire Hexmage
 Vampire Nighthawk
 Visara the Dreadful
+Xathrid Gorgon
 Animate Dead
 Bitterblossom
 Dance of the Dead
 Diabolic Servitude
 Necromancer's Stockpile
 Necromancy
+Necropotence
 Phyrexian Arena
 Recurring Nightmare
 Underworld Connections
@@ -53,8 +64,11 @@ Entomb
 Go for the Throat
 Hero's Downfall
 Makeshift Mannequin
+Murder
+Murderous Cut
 Seize the Soul
 Terror
+Ultimate Price
 Vampiric Tutor
 Liliana Vess
 Liliana of the Dark Realms
@@ -62,18 +76,24 @@ Liliana of the Veil
 Sorin Markov
 Beacon of Unrest
 Black Sun's Zenith
+Buried Alive
 Consuming Vapors
 Damnation
 Demonic Tutor
 Dread Return
+Endless Obedience
+Exhume
 Imperial Seal
 Life's Finale
 Living Death
 Mutilate
+Nights' Whisper
 Profane Command
 Read the Bones
 Reanimate
+Rise from the Grave
 Sever the Bloodline
+Sign in Blood
 Unburial Rites
 Undercity Plague
 Yawgmoth's Will

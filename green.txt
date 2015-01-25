@@ -2,14 +2,19 @@ Acidic Slime
 Ant Queen
 Arbor Colossus
 Arbor Elf
+Avacyn's Pilgrim
+Avenger of Zendikar
 Birds of Paradise
+Borderland Ranger
 Brooding Saurian
 Chameleon Colossus
 Civic Wayfinder
 Courser of Kruphix
+Daybreak Ranger
 Dawntreader Elk
 Deadbridge Goliath
 Eternal Witness
+Elves of Deep Shadow
 Elvish Mystic
 Elvish Piper
 Farhaven Elf
@@ -21,10 +26,14 @@ Imperious Perfect
 Indrik Stomphowler
 Jade Mage
 Joraga Treespeaker
+Krosan Tusker
+Llanowar Elves
 Lotus Cobra
+Masked Admirers
 Master of the Wild Hunt
 Mold Shambler
 Noble Hierarch
+Nessian Wilds Ravager
 Nylea, God of the Hunt
 Obstinate Baloth
 Ohran Viper
@@ -32,6 +41,7 @@ Oracle of Mul Daya
 Pelakka Wurm
 Polukranos, World Eater
 Primeval Titan
+Primordial Hydra
 Rampaging Baloths
 Rattleclaw Mystic
 Sakura-Tribe Elder
@@ -48,13 +58,17 @@ Vorapede
 Wall of Roots
 Wickerbough Elder
 Wolfir Silverheart
+Wood Elves
 Woodfall Primus
 Worldspine Wurm
 Yavimaya Elder
 Yisan, the Wanderer Bard
 Doubling Season
 Exploration
+Fastbond
 Fertile Ground
+Greater Good
+Into the Wilds
 Primeval Bounty
 Survival of the Fittest
 Chord of Calling
@@ -64,17 +78,23 @@ Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
 Nissa, Worldwaker
+All Suns' Dawn
 Bramblecrush
 Cultivate
 Explore
 Farseek
+Gelatinous Genesis
+Genesis Wave
 Green Sun's Zenith
 Growth Spasm
 Harmonize
 Kodama's Reach
 Natural Order
 Primal Command
+Rain of Thorns
 Rampant Growth
+Recollect
 Regrowth
+Restock
 Search for Tomorrow
 Tooth and Nail

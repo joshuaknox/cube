@@ -1,6 +1,7 @@
 Spear of Heliod
 Accorder Paladin
 Admonition Angel
+Akroma, Angel of Wrath
 Angel of Serenity
 Archangel of Thune
 Avacyn, Guardian Angel
@@ -10,31 +11,42 @@ Banisher Priest
 Blade Splicer
 Brimaz, King of Oreskos
 Captain of the Watch
+Celestial Archon
 Court Street Denizen
 Daring Skyjek
 Dawnglare Invoker
 Eidolon of Countless Battles
+Eight-and-a-Half-Tails
+Elite Vanguard
 Emeria Angel
 Exalted Angel
 Fiend Hunter
 Flickerwisp
+Galepowder Mage
 Geist-Honored Monk
 Gideon's Lawkeeper
+Goldmeadow Harrier
 Heliod, God of the Sun
 Herald of Anafenza
 Hero of Bladehold
+Hokori, Dust Drinker
+Imposing Sovereign
 Isamaru, Hound of Konda
 Knight of Glory
 Knight of the White Orchid
 Leonin Relic-Warder
+Linvala, Keeper of Silence
+Master of Pearls
 Mentor of the Meek
 Mikaeus, the Lunarch
 Mother of Runes
+Nearheath Pilgrim
 Precinct Captain
 Ranger of Eos
 Restoration Angel
 Reveillark
 Ronom Unicorn
+Savannah Lions
 Soldier of the Pantheon
 Stoneforge Mystic
 Student of Warfare
@@ -43,17 +55,22 @@ Sunblast Angel
 Sun Titan
 Syndic of Tithes
 Thalia, Guardian of Thraben
+Twilight Shepherd
 War Priest of Thune
 Weathered Wayfarer
 Whipcorder
+Windborn Muse
+Wingmate Roc
 Yosei, the Morning Star
 Arrest
 Banishing Light
 Faiths Fetters
 Journey to Nowhere
 Land Tax
+Marshal's Anthem
 Martial Law
 Oblivion Ring
+Pacifism
 Prison Term
 Spirit Bonds
 Worship
@@ -71,10 +88,13 @@ Austere Command
 Armageddon
 Balance
 Day of Judgment
+Decree of Justice
 Entreat the Angels
+Hallowed Burial
 Increasing Devotion
 Lingering Souls
 Martial Coup
 Planar Cleansing
+Spectral Procession
 Terminus
 Wrath of God

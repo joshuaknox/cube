@@ -1,4 +1,5 @@
 Academy Ruins
+Arcane Sanctum
 Arid Mesa
 Azorius Chancery
 Badlands
@@ -21,6 +22,7 @@ Fetid Heath
 Fire-Lit Thicket
 Flooded Grove
 Flooded Strand
+Frontier Bivouac
 Glacial Fortress
 Godless Shrine
 Golgari Rot Farm
@@ -30,14 +32,18 @@ Hallowed Fountain
 Hinterland Harbor
 Isolated Chapel
 Izzet Boilerworks
+Jungle Shrine
 Lavaclaw Reaches
 Library of Alexandria
 Marsh Flats
 Mishra's Factory
 Misty Rainforest
 Mystic Gate
+Mystic Monastery
 Mystifying Maze
 Mutavault
+Nomad Outpost
+Opulent Palace
 Orzhov Basilica
 Overgrown Tomb
 Plateau
@@ -48,9 +54,12 @@ Reflecting Pool
 Rootbound Crag
 Rugged Prairie
 Sacred Foundry
+Sandsteppe Citadel
+Savage Lands
 Savannah
 Scalding Tarn
 Scrubland
+Seaside Citadel
 Selesnya Sanctuary
 Simic Growth Chamber
 Spinerock Knoll
@@ -63,6 +72,16 @@ Sunken Ruins
 Sunpetal Grove
 Taiga
 Temple Garden
+Temple of Abandon
+Temple of Deceit
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Malady
+Temple of Malice
+Temple of Mystery
+Temple of Plenty
+Temple of Silence
+Temple of Triumph
 Terramorphic Expanse
 Thawing Glaciers
 Treetop Village

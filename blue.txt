@@ -1,8 +1,10 @@
 Aether Adept
 Aetherling
+Arbiter of the Ideal
 Azure Mage
 Chasm Skulker
 Clever Impersonator
+Dakra Mystic
 Djinn of Wishes
 Draining Whelk
 Dungeon Geists
@@ -13,21 +15,27 @@ Keiga, the Tide Star
 Kheru Spellsnatcher
 Looter il-Kor
 Magus of the Future
+Man-o'-War
 Master of Predicaments
 Master Transmuter
 Meloku the Clouded Mirror
 Mist Raven
 Mulldrifter
 Ninja of the Deep Hours
+Pearl Lake Ancient
 Phantasmal Image
 Riftwing Cloudskate
 Sakashima the Impostor
 Sea Gate Oracle
+Shipbreaker Kraken
 Simic Manipulator
 Snapcaster Mage
 Sower of Temptation
+Sphinx of Lost Truths
+Sphinx of Magosi
 Sphinx of Uthuun
 Thassa, God of the Sea
+Thieving Magpie
 Thousand Winds
 Trinket Mage
 Vendilion Clique
@@ -37,8 +45,10 @@ Voidmage Prodigy
 Control Magic
 Future Sight
 Persuasion
+Quiet Contemplation
 Treachery
 Volition Reins
+AEtherspouts
 Ancestral Recall
 Brainstorm
 Blue Sun's Zenith
@@ -47,13 +57,18 @@ Counterspell
 Cryptic Command
 Curse of the Swine
 Cyclonic Rift
+Dig Through Time
 Dismiss
 Dissipate
 Dissolve
 Fact or Fiction
 Force of Will
 Gifts Ungiven
+Hinder
+Into the Roil
 Intuition
+Jace's Ingenuity
+Negate
 Mana Drain
 Mana Leak
 Opportunity
@@ -71,10 +86,15 @@ Ancestral Vision
 Bribery
 Compulsive Research
 Deep Analysis
+Foresee
 Ponder
 Preordain
 Sleep
+Spelltwine
 Temporal Mastery
 Time Walk
 Time Warp
 Tinker
+Treasure Cruise
+Upheaval
+Whelming Wave

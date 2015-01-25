@@ -1,10 +1,13 @@
 Angel of Despair
 Armada Wurm
+Ashiok, Nightmare Weaver
 Bloodbraid Elf
 Boros Reckoner
+Broodmate Dragon
 Carnival Hellsteed
 Deathrite Shaman
 Defiler of Souls
+Dinrova Horror
 Evil Twin
 Figure of Destiny
 Firemane Avenger
@@ -12,6 +15,7 @@ Foundry Champion
 Geist of Saint Traft
 Ghor-Clan Rampager
 Gruul Ragebeast
+Hellkite Overlord
 Huntmaster of the Fells
 Jhoira of the Ghitu
 Lotleth Troll
@@ -19,6 +23,7 @@ Master Biomancer
 Mercurial Chemister
 Mistmeadow Witch
 Mystic Snake
+Narset, Enlightened Master
 New Prahv Guildmage
 Niv-Mizzet, Dracogenius
 Niv-Mizzet, the Firemind
@@ -28,21 +33,34 @@ Oona, Queen of the Fae
 Prime Speaker Zegana
 Progenitor Mimic
 Qasali Pridemage
+Rafiq of the Many
+Realm Razer
+Savage Knuckleblade
+Sen Triplets
 Shadowmage Infiltrator
+Sidisi, Brood Tyrant
+Siege Rhino
+Sphinx of the Steel Wind
+Surrak Dragonclaw
 Trostani, Selesnya's Voice
 Varolz, the Scar-Striped
 Vitu-Ghazi Guildmage
+Wooly Thoctar
 Wrexial, the Risen Deep
+Zurgo Helmsmasher
 Assemble the Legion
 Detention Sphere
 Glare of Subdual
+Mardu Ascendancy
 Unflinching Courage
 Aurelia's Fury
 Azorius Charm
+Bant Charm
 Bituminous Blast
 Counterflux
 Far // Away
 Izzet Charm
+Jeskai Charm
 Lightning Helix
 Mortify
 Mystic Genesis
@@ -70,6 +88,7 @@ Blightning
 Clan Defiance
 Cruel Ultimatum
 Dreadbore
+Duneblast
 Gaze of Granite
 Maelstrom Pulse
 Merciless Eviction
@@ -78,3 +97,4 @@ Rakdos's Return
 Supreme Verdict
 Urban Evolution
 Vindicate
+Villainous Wealth

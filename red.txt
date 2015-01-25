@@ -1,5 +1,6 @@
 Hammer of Purphoros
 Akroma, Angel of Fury
+Ashcloud Phoenix
 Ash Zealot
 Avalanche Riders
 Chandra's Phoenix
@@ -8,13 +9,16 @@ Cunning Sparkmage
 Ember Hauler
 Ember Swallower
 Felhide Spiritbinder
+Fire Imp
 Flameblast Dragon
 Flametongue Kavu
 Furystoke Giant
 Generator Servant
+Goblin Chieftain
 Goblin Rabblemaster
 Goblin Wardriver
 Grim Lavamancer
+Guttersnipe
 Hellrider
 Hero of Oxid Ridge
 Inferno Titan
@@ -22,10 +26,13 @@ Instigator Gang
 Jaya Ballard, Task Mage
 Jeering Instigator
 Kargan Dragonlord
+Keldon Champion
 Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
 Lightning Mauler
 Magus of the Scroll
+Manic Vandal
+Mardu Heart-Piercer
 Mogg War Marshal
 Obsidian Fireheart
 Ogre Battledriver
@@ -33,11 +40,13 @@ Oracle of Bones
 Prophetic Flamespeaker
 Purphoros, God of the Forge
 Rakka Mar
+Scorched Rusalka
 Siege-Gang Commander
 Skinbrand Goblin
 Soul of Shandalar
 Spikeshot Elder
 Stalking Yeti
+Stormblood Berserker
 Stormbreath Dragon
 Taurean Mauler
 Thunderblust
@@ -45,10 +54,15 @@ Thundermaw Hellkite
 Tin Street Hooligan
 Torch Fiend
 Voracious Dragon
+Wrecking Ogre
 Young Pyromancer
 Zealous Conscripts
+Aggressive Mining
 Goblin Assault
+Goblinslide
+Sulfuric Vortex
 Beacon of Destruction
+Blind with Anger
 Brimstone Volley
 Burst Lightning
 Comet Storm
@@ -56,7 +70,9 @@ Flame Javelin
 Incinerate
 Lightning Bolt
 Magma Jet
+Searing Spear
 Staggershock
+Stoke the Flames
 Through the Breach
 Thunderous Wrath
 Word of Seizing
@@ -65,7 +81,10 @@ Chandra, the Firebrand
 Chandra, Pyromaster
 Koth of the Hammer
 Sarkhan, the Dragonspeaker
+Act on Impulse
+Arc Lightning
 Arc Trail
+Banefire
 Chain Lightning
 Devil's Play
 Earthquake
@@ -73,6 +92,7 @@ Firebolt
 Flames of the Firebrand
 Gamble
 Hammer of Bogardan
+Hordeling Outburst
 Mizzium Mortars
 Red Sun's Zenith
 Rift Bolt
