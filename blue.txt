@@ -61,6 +61,7 @@ Dig Through Time
 Dismiss
 Dissipate
 Dissolve
+Exclude
 Fact or Fiction
 Force of Will
 Gifts Ungiven
@@ -68,7 +69,6 @@ Hinder
 Into the Roil
 Intuition
 Jace's Ingenuity
-Negate
 Mana Drain
 Mana Leak
 Opportunity

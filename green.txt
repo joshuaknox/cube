@@ -41,9 +41,9 @@ Oracle of Mul Daya
 Pelakka Wurm
 Polukranos, World Eater
 Primeval Titan
-Primordial Hydra
 Rampaging Baloths
 Rattleclaw Mystic
+Reclamation Sage
 Sakura-Tribe Elder
 Scavenging Ooze
 Somberwald Sage
@@ -56,9 +56,9 @@ Vengevine
 Viridian Shaman
 Vorapede
 Wall of Roots
+Whisperwood Elemental
 Wickerbough Elder
 Wolfir Silverheart
-Wood Elves
 Woodfall Primus
 Worldspine Wurm
 Yavimaya Elder
@@ -78,7 +78,6 @@ Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
 Nissa, Worldwaker
-All Suns' Dawn
 Bramblecrush
 Cultivate
 Explore
@@ -97,4 +96,5 @@ Recollect
 Regrowth
 Restock
 Search for Tomorrow
+Shamanic Revelation
 Tooth and Nail

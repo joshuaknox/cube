@@ -1,5 +1,6 @@
 Whip of Erebos
 Anowon, the Ruin Sage
+Archfiend of Depravity
 Bloodgift Demon
 Bloodline Keeper
 Braids, Cabal Minion
@@ -10,18 +11,16 @@ Dark Confidant
 Disciple of Bolas
 Doomed Necromancer
 Drana, Kalastria Bloodchief
-Entomber Exarch
 Erebos, God of the Dead
-Faceless Butcher
 Gatekeeper of Malakir
 Geth, Lord of the Vault
 Grave Titan
 Graveborn Muse
+Gray Merchant of Asphodel
 Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
 Ink-Eyes, Servant of Oni
-Kalitas, Bloodchief of Ghet
 Kokusho, the Evening Star
 Lifebane Zombie
 Liliana's Specter
@@ -41,6 +40,7 @@ Shadowborn Demon
 Sheoldred, Whispering One
 Shriekmaw
 Skinrender
+Tasigur, the Golden Fang
 Tombstalker
 Vampire Hexmage
 Vampire Nighthawk

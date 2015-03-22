@@ -36,9 +36,11 @@ Knight of Glory
 Knight of the White Orchid
 Leonin Relic-Warder
 Linvala, Keeper of Silence
+Mardu Woe-Reaper
 Master of Pearls
 Mentor of the Meek
 Mikaeus, the Lunarch
+Monastery Mentor
 Mother of Runes
 Nearheath Pilgrim
 Precinct Captain
@@ -46,14 +48,12 @@ Ranger of Eos
 Restoration Angel
 Reveillark
 Ronom Unicorn
-Savannah Lions
 Soldier of the Pantheon
 Stoneforge Mystic
 Student of Warfare
 Sublime Archangel
 Sunblast Angel
 Sun Titan
-Syndic of Tithes
 Thalia, Guardian of Thraben
 Twilight Shepherd
 War Priest of Thune
@@ -69,11 +69,11 @@ Journey to Nowhere
 Land Tax
 Marshal's Anthem
 Martial Law
+Mastery of the Unseen
 Oblivion Ring
 Pacifism
 Prison Term
 Spirit Bonds
-Worship
 Condemn
 Enlightened Tutor
 Path to Exile

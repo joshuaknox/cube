@@ -11,6 +11,7 @@ Ember Swallower
 Felhide Spiritbinder
 Fire Imp
 Flameblast Dragon
+Flamerush Rider
 Flametongue Kavu
 Furystoke Giant
 Generator Servant
@@ -26,13 +27,13 @@ Instigator Gang
 Jaya Ballard, Task Mage
 Jeering Instigator
 Kargan Dragonlord
-Keldon Champion
 Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
 Lightning Mauler
 Magus of the Scroll
 Manic Vandal
 Mardu Heart-Piercer
+Mardu Scout
 Mogg War Marshal
 Obsidian Fireheart
 Ogre Battledriver
@@ -52,7 +53,6 @@ Taurean Mauler
 Thunderblust
 Thundermaw Hellkite
 Tin Street Hooligan
-Torch Fiend
 Voracious Dragon
 Wrecking Ogre
 Young Pyromancer
