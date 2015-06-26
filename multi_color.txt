@@ -6,22 +6,22 @@ Boros Reckoner
 Broodmate Dragon
 Carnival Hellsteed
 Deathrite Shaman
-Defiler of Souls
 Dinrova Horror
+Dragonlord Atarka
+Dragonlord Ojutai
+Dragonlord Silumgar
 Evil Twin
 Figure of Destiny
 Firemane Avenger
 Foundry Champion
-Geist of Saint Traft
 Ghor-Clan Rampager
-Gruul Ragebeast
 Hellkite Overlord
 Huntmaster of the Fells
 Jhoira of the Ghitu
+Kolaghan, the Storm's Fury
 Lotleth Troll
 Master Biomancer
 Mercurial Chemister
-Mistmeadow Witch
 Mystic Snake
 Narset, Enlightened Master
 New Prahv Guildmage
@@ -41,7 +41,6 @@ Shadowmage Infiltrator
 Sidisi, Brood Tyrant
 Siege Rhino
 Sphinx of the Steel Wind
-Surrak Dragonclaw
 Trostani, Selesnya's Voice
 Varolz, the Scar-Striped
 Vitu-Ghazi Guildmage
@@ -52,18 +51,18 @@ Assemble the Legion
 Detention Sphere
 Glare of Subdual
 Mardu Ascendancy
-Unflinching Courage
 Aurelia's Fury
-Azorius Charm
 Bant Charm
-Bituminous Blast
 Counterflux
+Dromoka's Command
 Far // Away
 Izzet Charm
 Jeskai Charm
+Kolaghan's Command
 Lightning Helix
 Mortify
 Mystic Genesis
+Ojutai's Command
 Putrefy
 Selesnya Charm
 Simic Charm
@@ -74,16 +73,17 @@ Ajani Vengeant
 Domri Rade
 Garruke, Apex Predator
 Kiora, the Crashing Wave
+Narset Transcendent
 Nicol Bolas, Planeswalker
 Ral Zarek
 Sarkhan the Mad
-Sarkhan Vol
+Sarkhan Unbroken
 Sorin, Lord of Innistrad
 Sorin, Solemn Visitor
-Tezzeret, Agent of Bolas
 Venser, the Sojourner
 Vraska the Unseen
 Xenagos, the Reveler
+Xenagos, God of Revels
 Blightning
 Clan Defiance
 Cruel Ultimatum

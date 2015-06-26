@@ -1,9 +1,10 @@
 Spear of Heliod
 Accorder Paladin
 Admonition Angel
-Akroma, Angel of Wrath
+Anafenza, Kin-Tree Spirit
 Angel of Serenity
 Archangel of Thune
+Attended Knight
 Avacyn, Guardian Angel
 Azorius Arrester
 Baneslayer Angel
@@ -12,7 +13,7 @@ Blade Splicer
 Brimaz, King of Oreskos
 Captain of the Watch
 Celestial Archon
-Court Street Denizen
+Cloudgoat Ranger
 Daring Skyjek
 Dawnglare Invoker
 Eidolon of Countless Battles
@@ -29,6 +30,7 @@ Goldmeadow Harrier
 Heliod, God of the Sun
 Herald of Anafenza
 Hero of Bladehold
+Hidden Dragonslayer
 Hokori, Dust Drinker
 Imposing Sovereign
 Isamaru, Hound of Konda
@@ -36,9 +38,9 @@ Knight of Glory
 Knight of the White Orchid
 Leonin Relic-Warder
 Linvala, Keeper of Silence
+Mangara of Corondor
 Mardu Woe-Reaper
 Master of Pearls
-Mentor of the Meek
 Mikaeus, the Lunarch
 Monastery Mentor
 Mother of Runes
@@ -55,7 +57,6 @@ Sublime Archangel
 Sunblast Angel
 Sun Titan
 Thalia, Guardian of Thraben
-Twilight Shepherd
 War Priest of Thune
 Weathered Wayfarer
 Whipcorder
@@ -77,6 +78,7 @@ Spirit Bonds
 Condemn
 Enlightened Tutor
 Path to Exile
+Secure the Wastes
 Swords to Plowshares
 Ajani Goldmane
 Ajani Steadfast
@@ -88,13 +90,11 @@ Austere Command
 Armageddon
 Balance
 Day of Judgment
-Decree of Justice
 Entreat the Angels
 Hallowed Burial
 Increasing Devotion
 Lingering Souls
 Martial Coup
-Planar Cleansing
 Spectral Procession
 Terminus
 Wrath of God

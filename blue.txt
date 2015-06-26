@@ -11,6 +11,7 @@ Dungeon Geists
 Enclave Cryptologist
 Frost Titan
 Jalira, Master Polymorphist
+Icefall Regent
 Keiga, the Tide Star
 Kheru Spellsnatcher
 Looter il-Kor
@@ -34,8 +35,8 @@ Sower of Temptation
 Sphinx of Lost Truths
 Sphinx of Magosi
 Sphinx of Uthuun
+Stratus Dancer
 Thassa, God of the Sea
-Thieving Magpie
 Thousand Winds
 Trinket Mage
 Vendilion Clique
@@ -94,7 +95,6 @@ Spelltwine
 Temporal Mastery
 Time Walk
 Time Warp
-Tinker
 Treasure Cruise
 Upheaval
 Whelming Wave

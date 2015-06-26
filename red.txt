@@ -2,10 +2,10 @@ Hammer of Purphoros
 Akroma, Angel of Fury
 Ashcloud Phoenix
 Ash Zealot
-Avalanche Riders
 Chandra's Phoenix
 Conquering Manticore
 Cunning Sparkmage
+Dragon Whisperer
 Ember Hauler
 Ember Swallower
 Felhide Spiritbinder
@@ -24,6 +24,7 @@ Hellrider
 Hero of Oxid Ridge
 Inferno Titan
 Instigator Gang
+Ire Shaman
 Jaya Ballard, Task Mage
 Jeering Instigator
 Kargan Dragonlord
@@ -31,7 +32,6 @@ Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
 Lightning Mauler
 Magus of the Scroll
-Manic Vandal
 Mardu Heart-Piercer
 Mardu Scout
 Mogg War Marshal
@@ -46,7 +46,6 @@ Siege-Gang Commander
 Skinbrand Goblin
 Soul of Shandalar
 Spikeshot Elder
-Stalking Yeti
 Stormblood Berserker
 Stormbreath Dragon
 Taurean Mauler
@@ -96,5 +95,6 @@ Hordeling Outburst
 Mizzium Mortars
 Red Sun's Zenith
 Rift Bolt
+Roast
 Rolling Thunder
 Slagstorm

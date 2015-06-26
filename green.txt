@@ -1,4 +1,5 @@
 Acidic Slime
+Ainok Survivalist
 Ant Queen
 Arbor Colossus
 Arbor Elf
@@ -13,6 +14,7 @@ Courser of Kruphix
 Daybreak Ranger
 Dawntreader Elk
 Deadbridge Goliath
+Den Protector
 Eternal Witness
 Elves of Deep Shadow
 Elvish Mystic
@@ -46,6 +48,7 @@ Rattleclaw Mystic
 Reclamation Sage
 Sakura-Tribe Elder
 Scavenging Ooze
+Shaman of Forgotten Ways
 Somberwald Sage
 Sylvan Ranger
 Sylvan Caryatid
@@ -53,9 +56,7 @@ Terastodon
 Thragtusk
 Thrun, the Last Troll
 Vengevine
-Viridian Shaman
 Vorapede
-Wall of Roots
 Whisperwood Elemental
 Wickerbough Elder
 Wolfir Silverheart
@@ -92,7 +93,6 @@ Natural Order
 Primal Command
 Rain of Thorns
 Rampant Growth
-Recollect
 Regrowth
 Restock
 Search for Tomorrow

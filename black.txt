@@ -20,7 +20,6 @@ Gray Merchant of Asphodel
 Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
-Ink-Eyes, Servant of Oni
 Kokusho, the Evening Star
 Lifebane Zombie
 Liliana's Specter
@@ -32,13 +31,14 @@ Oona's Prowler
 Pack Rat
 Pain Seer
 Phyrexian Delver
-Phyrexian Rager
 Puppeteer Clique
 Royal Assassin
 Rune-Scarred Demon
 Shadowborn Demon
 Sheoldred, Whispering One
 Shriekmaw
+Sidisi, Undead Vizier
+Silumgar Assassin
 Skinrender
 Tasigur, the Golden Fang
 Tombstalker
@@ -52,7 +52,7 @@ Dance of the Dead
 Diabolic Servitude
 Necromancer's Stockpile
 Necromancy
-Necropotence
+Palace Siege
 Phyrexian Arena
 Recurring Nightmare
 Underworld Connections
@@ -78,11 +78,11 @@ Beacon of Unrest
 Black Sun's Zenith
 Buried Alive
 Consuming Vapors
+Damnable Pact
 Damnation
 Demonic Tutor
 Dread Return
 Endless Obedience
-Exhume
 Imperial Seal
 Life's Finale
 Living Death
