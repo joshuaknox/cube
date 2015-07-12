@@ -22,6 +22,7 @@ Guul Draz Assassin
 Hypnotic Specter
 Kokusho, the Evening Star
 Lifebane Zombie
+Liliana, Heretical Healer
 Liliana's Specter
 Magus of the Abyss
 Massacre Wurm
@@ -71,7 +72,6 @@ Terror
 Ultimate Price
 Vampiric Tutor
 Liliana Vess
-Liliana of the Dark Realms
 Liliana of the Veil
 Sorin Markov
 Beacon of Unrest
