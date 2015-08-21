@@ -44,7 +44,7 @@ Sphinx of the Steel Wind
 Trostani, Selesnya's Voice
 Varolz, the Scar-Striped
 Vitu-Ghazi Guildmage
-Wooly Thoctar
+Woolly Thoctar
 Wrexial, the Risen Deep
 Zurgo Helmsmasher
 Assemble the Legion
@@ -71,7 +71,7 @@ Turn // Burn
 Ajani, Mentor of Heroes
 Ajani Vengeant
 Domri Rade
-Garruke, Apex Predator
+Garruk, Apex Predator
 Kiora, the Crashing Wave
 Narset Transcendent
 Nicol Bolas, Planeswalker
