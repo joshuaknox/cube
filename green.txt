@@ -10,8 +10,8 @@ Borderland Ranger
 Brooding Saurian
 Chameleon Colossus
 Civic Wayfinder
+Conclave Naturalists
 Courser of Kruphix
-Daybreak Ranger
 Dawntreader Elk
 Deadbridge Goliath
 Den Protector
@@ -25,7 +25,6 @@ Garruk's Packleader
 Genesis Hydra
 Gyre Sage
 Imperious Perfect
-Indrik Stomphowler
 Jade Mage
 Joraga Treespeaker
 Krosan Tusker
@@ -36,6 +35,7 @@ Master of the Wild Hunt
 Mold Shambler
 Noble Hierarch
 Nessian Wilds Ravager
+Nissa, Vastwood Seer
 Nylea, God of the Hunt
 Obstinate Baloth
 Ohran Viper

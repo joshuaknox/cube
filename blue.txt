@@ -10,7 +10,8 @@ Draining Whelk
 Dungeon Geists
 Enclave Cryptologist
 Frost Titan
-Jalira, Master Polymorphist
+Harbinger of the Tides
+Jace, Vryn's Prodigy
 Icefall Regent
 Keiga, the Tide Star
 Kheru Spellsnatcher
@@ -22,7 +23,6 @@ Master Transmuter
 Meloku the Clouded Mirror
 Mist Raven
 Mulldrifter
-Ninja of the Deep Hours
 Pearl Lake Ancient
 Phantasmal Image
 Riftwing Cloudskate
@@ -36,6 +36,7 @@ Sphinx of Lost Truths
 Sphinx of Magosi
 Sphinx of Uthuun
 Stratus Dancer
+Talrand, Sky Summoner
 Thassa, God of the Sea
 Thousand Winds
 Trinket Mage
@@ -91,7 +92,6 @@ Foresee
 Ponder
 Preordain
 Sleep
-Spelltwine
 Temporal Mastery
 Time Walk
 Time Warp

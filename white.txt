@@ -14,11 +14,11 @@ Brimaz, King of Oreskos
 Captain of the Watch
 Celestial Archon
 Cloudgoat Ranger
+Consul's Lieutenant
 Daring Skyjek
 Dawnglare Invoker
 Eidolon of Countless Battles
 Eight-and-a-Half-Tails
-Elite Vanguard
 Emeria Angel
 Exalted Angel
 Fiend Hunter
@@ -26,7 +26,6 @@ Flickerwisp
 Galepowder Mage
 Geist-Honored Monk
 Gideon's Lawkeeper
-Goldmeadow Harrier
 Heliod, God of the Sun
 Herald of Anafenza
 Hero of Bladehold
@@ -36,6 +35,8 @@ Imposing Sovereign
 Isamaru, Hound of Konda
 Knight of Glory
 Knight of the White Orchid
+Kytheon, Hero of Akros
+Kytheon's Irregulars
 Leonin Relic-Warder
 Linvala, Keeper of Silence
 Mangara of Corondor
@@ -44,9 +45,9 @@ Master of Pearls
 Mikaeus, the Lunarch
 Monastery Mentor
 Mother of Runes
-Nearheath Pilgrim
 Precinct Captain
 Ranger of Eos
+Relic Seeker
 Restoration Angel
 Reveillark
 Ronom Unicorn
@@ -68,7 +69,6 @@ Banishing Light
 Faith's Fetters
 Journey to Nowhere
 Land Tax
-Marshal's Anthem
 Martial Law
 Mastery of the Unseen
 Oblivion Ring
@@ -86,7 +86,6 @@ Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Elspeth Tirel
 Gideon Jura
-Austere Command
 Armageddon
 Balance
 Day of Judgment
@@ -97,4 +96,5 @@ Lingering Souls
 Martial Coup
 Spectral Procession
 Terminus
+Tragic Arrogance
 Wrath of God

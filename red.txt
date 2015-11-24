@@ -1,7 +1,8 @@
 Hammer of Purphoros
+Abbot of Keral Keep
 Akroma, Angel of Fury
+Arms Dealer
 Ashcloud Phoenix
-Ash Zealot
 Chandra's Phoenix
 Conquering Manticore
 Cunning Sparkmage
@@ -15,6 +16,7 @@ Flamerush Rider
 Flametongue Kavu
 Furystoke Giant
 Generator Servant
+Ghirapur Gearcrafter
 Goblin Chieftain
 Goblin Rabblemaster
 Goblin Wardriver
@@ -38,10 +40,10 @@ Mogg War Marshal
 Obsidian Fireheart
 Ogre Battledriver
 Oracle of Bones
+Pia and Kiran Nalaar
 Prophetic Flamespeaker
 Purphoros, God of the Forge
 Rakka Mar
-Scorched Rusalka
 Siege-Gang Commander
 Skinbrand Goblin
 Soul of Shandalar
@@ -59,7 +61,6 @@ Zealous Conscripts
 Aggressive Mining
 Goblin Assault
 Goblinslide
-Sulfuric Vortex
 Beacon of Destruction
 Blind with Anger
 Brimstone Volley
@@ -81,12 +82,12 @@ Chandra, Pyromaster
 Koth of the Hammer
 Sarkhan, the Dragonspeaker
 Act on Impulse
-Arc Lightning
 Arc Trail
-Banefire
 Chain Lightning
 Devil's Play
+Dragon Fodder
 Earthquake
+Exquisite Firecraft
 Firebolt
 Flames of the Firebrand
 Gamble
@@ -96,5 +97,4 @@ Mizzium Mortars
 Red Sun's Zenith
 Rift Bolt
 Roast
-Rolling Thunder
 Slagstorm

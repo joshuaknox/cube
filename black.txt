@@ -14,12 +14,14 @@ Drana, Kalastria Bloodchief
 Erebos, God of the Dead
 Gatekeeper of Malakir
 Geth, Lord of the Vault
+Gilt-Leaf Winnower
 Grave Titan
 Graveborn Muse
 Gray Merchant of Asphodel
 Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
+Kothophed, Soul Hoarder
 Kokusho, the Evening Star
 Lifebane Zombie
 Liliana, Heretical Healer
@@ -31,7 +33,7 @@ Nezumi Graverobber
 Oona's Prowler
 Pack Rat
 Pain Seer
-Phyrexian Delver
+Priest of the Blood Rite
 Puppeteer Clique
 Royal Assassin
 Rune-Scarred Demon
@@ -45,15 +47,13 @@ Tasigur, the Golden Fang
 Tombstalker
 Vampire Hexmage
 Vampire Nighthawk
-Visara the Dreadful
-Xathrid Gorgon
 Animate Dead
 Bitterblossom
 Dance of the Dead
+Demonic Pact
 Diabolic Servitude
 Necromancer's Stockpile
 Necromancy
-Necropotence
 Palace Siege
 Phyrexian Arena
 Recurring Nightmare
@@ -84,14 +84,14 @@ Demonic Tutor
 Dread Return
 Endless Obedience
 Imperial Seal
+Languish
 Life's Finale
 Living Death
-Mutilate
+Necromantic Summons
 Night's Whisper
 Profane Command
 Read the Bones
 Reanimate
-Rise from the Grave
 Sever the Bloodline
 Sign in Blood
 Unburial Rites
