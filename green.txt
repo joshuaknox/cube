@@ -23,6 +23,7 @@ Farhaven Elf
 Fauna Shaman
 Garruk's Packleader
 Genesis Hydra
+Greenwarden of Murasa
 Gyre Sage
 Imperious Perfect
 Jade Mage
@@ -94,7 +95,6 @@ Primal Command
 Rain of Thorns
 Rampant Growth
 Regrowth
-Restock
 Search for Tomorrow
 Shamanic Revelation
 Tooth and Nail

@@ -10,6 +10,7 @@ Draining Whelk
 Dungeon Geists
 Enclave Cryptologist
 Frost Titan
+Guardian of Tazeem
 Harbinger of the Tides
 Jace, Vryn's Prodigy
 Icefall Regent
@@ -39,7 +40,6 @@ Stratus Dancer
 Talrand, Sky Summoner
 Thassa, God of the Sea
 Thousand Winds
-Trinket Mage
 Vendilion Clique
 Venser, Shaper Savant
 Vesuvan Shapeshifter
@@ -67,7 +67,6 @@ Exclude
 Fact or Fiction
 Force of Will
 Gifts Ungiven
-Hinder
 Into the Roil
 Intuition
 Jace's Ingenuity
@@ -76,6 +75,7 @@ Mana Leak
 Opportunity
 Remand
 Remove Soul
+Scatter to the Winds
 Thirst for Knowledge
 Time Stop
 Jace, Architect of Thought
@@ -88,7 +88,6 @@ Ancestral Vision
 Bribery
 Compulsive Research
 Deep Analysis
-Foresee
 Ponder
 Preordain
 Sleep
@@ -96,5 +95,6 @@ Temporal Mastery
 Time Walk
 Time Warp
 Treasure Cruise
+Ugin's Insight
 Upheaval
 Whelming Wave

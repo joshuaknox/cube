@@ -11,7 +11,6 @@ Baneslayer Angel
 Banisher Priest
 Blade Splicer
 Brimaz, King of Oreskos
-Captain of the Watch
 Celestial Archon
 Cloudgoat Ranger
 Consul's Lieutenant
@@ -64,9 +63,7 @@ Whipcorder
 Windborn Muse
 Wingmate Roc
 Yosei, the Morning Star
-Arrest
 Banishing Light
-Faith's Fetters
 Journey to Nowhere
 Land Tax
 Martial Law
@@ -74,7 +71,9 @@ Mastery of the Unseen
 Oblivion Ring
 Pacifism
 Prison Term
+Quarantine Field
 Spirit Bonds
+Stasis Snare
 Condemn
 Enlightened Tutor
 Path to Exile
@@ -85,6 +84,7 @@ Ajani Steadfast
 Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Elspeth Tirel
+Gideon, Ally of Zendikar
 Gideon Jura
 Armageddon
 Balance
@@ -93,7 +93,7 @@ Entreat the Angels
 Hallowed Burial
 Increasing Devotion
 Lingering Souls
-Martial Coup
+Planar Outburst
 Spectral Procession
 Terminus
 Tragic Arrogance

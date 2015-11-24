@@ -22,13 +22,13 @@ Kolaghan, the Storm's Fury
 Lotleth Troll
 Master Biomancer
 Mercurial Chemister
-Mystic Snake
 Narset, Enlightened Master
 New Prahv Guildmage
 Niv-Mizzet, Dracogenius
 Niv-Mizzet, the Firemind
 Obzedat, Ghost Council
 Olivia Voldaren
+Omnath, Locus of Rage
 Oona, Queen of the Fae
 Prime Speaker Zegana
 Progenitor Mimic
@@ -73,6 +73,7 @@ Ajani Vengeant
 Domri Rade
 Garruk, Apex Predator
 Kiora, the Crashing Wave
+Kiora, Master of the Depths
 Narset Transcendent
 Nicol Bolas, Planeswalker
 Ral Zarek
@@ -85,7 +86,6 @@ Vraska the Unseen
 Xenagos, the Reveler
 Xenagos, God of Revels
 Blightning
-Clan Defiance
 Cruel Ultimatum
 Dreadbore
 Duneblast

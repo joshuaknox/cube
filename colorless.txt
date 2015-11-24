@@ -25,6 +25,7 @@ Golgari Signet
 Grim Monolith
 Grimoire of the Dead
 Gruul Signet
+Hedron Archive
 Icy Manipulator
 Izzet Signet
 Loxodon Warhammer
@@ -43,7 +44,6 @@ Mox Pearl
 Mox Ruby
 Mox Sapphire
 Nevinyrral's Disk
-Obelisk of Alara
 Orzhov Signet
 Perilous Vault
 Rakdos Signet

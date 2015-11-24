@@ -1,5 +1,6 @@
 Hammer of Purphoros
 Abbot of Keral Keep
+Akoum Stonewaker
 Akroma, Angel of Fury
 Arms Dealer
 Ashcloud Phoenix
@@ -48,7 +49,6 @@ Siege-Gang Commander
 Skinbrand Goblin
 Soul of Shandalar
 Spikeshot Elder
-Stormblood Berserker
 Stormbreath Dragon
 Taurean Mauler
 Thunderblust

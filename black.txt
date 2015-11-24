@@ -59,7 +59,6 @@ Phyrexian Arena
 Recurring Nightmare
 Underworld Connections
 Bile Blight
-Dismember
 Doom Blade
 Entomb
 Go for the Throat
@@ -73,6 +72,7 @@ Ultimate Price
 Vampiric Tutor
 Liliana Vess
 Liliana of the Veil
+Ob Nixilis Reignited
 Sorin Markov
 Beacon of Unrest
 Black Sun's Zenith
@@ -92,9 +92,9 @@ Night's Whisper
 Profane Command
 Read the Bones
 Reanimate
+Ruinous Path
 Sever the Bloodline
 Sign in Blood
 Unburial Rites
-Undercity Plague
 Yawgmoth's Will
 Zombify
