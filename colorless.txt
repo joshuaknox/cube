@@ -25,6 +25,7 @@ Golgari Signet
 Grim Monolith
 Grimoire of the Dead
 Gruul Signet
+Hangarback Walker
 Hedron Archive
 Icy Manipulator
 Izzet Signet
@@ -57,7 +58,6 @@ Sky Diamond
 Skullclamp
 Smokestack
 Sol Ring
-Sphere of the Suns
 Spine of Ish Sah
 Staff of Domination
 Staff of Nin
