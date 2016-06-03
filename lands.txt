@@ -16,8 +16,8 @@ Crumbling Necropolis
 Dimir Aqueduct
 Dragonskull Summit
 Drowned Catacomb
+Dust Bowl
 Evolving Wilds
-Exotic Orchard
 Fetid Heath
 Fire-Lit Thicket
 Flooded Grove
@@ -82,7 +82,6 @@ Temple of Mystery
 Temple of Plenty
 Temple of Silence
 Temple of Triumph
-Terramorphic Expanse
 Thawing Glaciers
 Treetop Village
 Tropical Island
@@ -93,6 +92,7 @@ Urborg, Tomb of Yawgmoth
 Verdant Catacombs
 Volcanic Island
 Watery Grave
+Westvale Abbey
 Windbrisk Heights
 Windswept Heath
 Wooded Bastion

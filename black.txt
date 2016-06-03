@@ -1,6 +1,7 @@
 Whip of Erebos
 Anowon, the Ruin Sage
 Archfiend of Depravity
+Asylum Visitor
 Bloodgift Demon
 Bloodline Keeper
 Braids, Cabal Minion
@@ -11,16 +12,17 @@ Dark Confidant
 Disciple of Bolas
 Doomed Necromancer
 Drana, Kalastria Bloodchief
+Elusive Tormentor
 Erebos, God of the Dead
 Gatekeeper of Malakir
 Geth, Lord of the Vault
-Gilt-Leaf Winnower
 Grave Titan
 Graveborn Muse
 Gray Merchant of Asphodel
 Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
+Kalitas, Traitor of Ghet
 Kothophed, Soul Hoarder
 Kokusho, the Evening Star
 Lifebane Zombie
@@ -30,7 +32,6 @@ Magus of the Abyss
 Massacre Wurm
 Nekrataal
 Nezumi Graverobber
-Oona's Prowler
 Pack Rat
 Pain Seer
 Priest of the Blood Rite
@@ -44,7 +45,6 @@ Sidisi, Undead Vizier
 Silumgar Assassin
 Skinrender
 Tasigur, the Golden Fang
-Tombstalker
 Vampire Hexmage
 Vampire Nighthawk
 Animate Dead

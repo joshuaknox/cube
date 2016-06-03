@@ -3,7 +3,6 @@ Ainok Survivalist
 Ant Queen
 Arbor Colossus
 Arbor Elf
-Avacyn's Pilgrim
 Avenger of Zendikar
 Birds of Paradise
 Borderland Ranger
@@ -12,11 +11,11 @@ Chameleon Colossus
 Civic Wayfinder
 Conclave Naturalists
 Courser of Kruphix
-Dawntreader Elk
 Deadbridge Goliath
+Deathcap Cultivator
 Den Protector
+Duskwatch Recruiter
 Eternal Witness
-Elves of Deep Shadow
 Elvish Mystic
 Elvish Piper
 Farhaven Elf
@@ -56,6 +55,7 @@ Sylvan Caryatid
 Terastodon
 Thragtusk
 Thrun, the Last Troll
+Tireless Tracker
 Vengevine
 Vorapede
 Whisperwood Elemental
@@ -64,13 +64,13 @@ Wolfir Silverheart
 Woodfall Primus
 Worldspine Wurm
 Yavimaya Elder
-Yisan, the Wanderer Bard
 Doubling Season
 Exploration
 Fastbond
 Fertile Ground
 Greater Good
 Into the Wilds
+Oath of Nissa
 Primeval Bounty
 Survival of the Fittest
 Chord of Calling
@@ -84,7 +84,6 @@ Bramblecrush
 Cultivate
 Explore
 Farseek
-Gelatinous Genesis
 Genesis Wave
 Green Sun's Zenith
 Growth Spasm
@@ -92,9 +91,10 @@ Harmonize
 Kodama's Reach
 Natural Order
 Primal Command
-Rain of Thorns
 Rampant Growth
 Regrowth
 Search for Tomorrow
+Seasons Past
 Shamanic Revelation
+Sylvan Scrying
 Tooth and Nail

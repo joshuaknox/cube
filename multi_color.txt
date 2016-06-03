@@ -1,7 +1,6 @@
 Angel of Despair
 Armada Wurm
 Ashiok, Nightmare Weaver
-Bloodbraid Elf
 Boros Reckoner
 Broodmate Dragon
 Carnival Hellsteed
@@ -13,7 +12,6 @@ Dragonlord Silumgar
 Evil Twin
 Figure of Destiny
 Firemane Avenger
-Foundry Champion
 Ghor-Clan Rampager
 Hellkite Overlord
 Huntmaster of the Fells
@@ -51,6 +49,7 @@ Assemble the Legion
 Detention Sphere
 Glare of Subdual
 Mardu Ascendancy
+Anguished Unmaking
 Aurelia's Fury
 Bant Charm
 Counterflux
@@ -60,7 +59,6 @@ Izzet Charm
 Jeskai Charm
 Kolaghan's Command
 Lightning Helix
-Mortify
 Mystic Genesis
 Ojutai's Command
 Putrefy
@@ -70,15 +68,18 @@ Sphinx's Revelation
 Turn // Burn
 Ajani, Mentor of Heroes
 Ajani Vengeant
+Arlinn Kord
 Domri Rade
 Garruk, Apex Predator
 Kiora, the Crashing Wave
 Kiora, Master of the Depths
+Nahiri, the Harbinger
 Narset Transcendent
 Nicol Bolas, Planeswalker
 Ral Zarek
 Sarkhan the Mad
 Sarkhan Unbroken
+Sorin, Grim Nemesis
 Sorin, Lord of Innistrad
 Sorin, Solemn Visitor
 Venser, the Sojourner
@@ -91,7 +92,6 @@ Dreadbore
 Duneblast
 Gaze of Granite
 Maelstrom Pulse
-Merciless Eviction
 Obzedat's Aid
 Rakdos's Return
 Supreme Verdict

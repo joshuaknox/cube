@@ -39,6 +39,7 @@ Sphinx of Uthuun
 Stratus Dancer
 Talrand, Sky Summoner
 Thassa, God of the Sea
+Thing in the Ice
 Thousand Winds
 Vendilion Clique
 Venser, Shaper Savant
@@ -47,7 +48,6 @@ Voidmage Prodigy
 Control Magic
 Future Sight
 Persuasion
-Quiet Contemplation
 Treachery
 Volition Reins
 AEtherspouts
@@ -80,13 +80,14 @@ Thirst for Knowledge
 Time Stop
 Jace, Architect of Thought
 Jace Beleren
-Jace, the Living Guildpact
 Jace, the Mind Sculptor
+Jace, Unraveler of Secrets
 Tamiyo, the Moon Sage
 Tezzeret the Seeker
 Ancestral Vision
 Bribery
 Compulsive Research
+Crush of Tentacles
 Deep Analysis
 Ponder
 Preordain
@@ -96,5 +97,4 @@ Time Walk
 Time Warp
 Treasure Cruise
 Ugin's Insight
-Upheaval
 Whelming Wave

@@ -4,6 +4,8 @@ Akoum Stonewaker
 Akroma, Angel of Fury
 Arms Dealer
 Ashcloud Phoenix
+Breakneck Rider
+Chandra, Fire of Kaladesh
 Chandra's Phoenix
 Conquering Manticore
 Cunning Sparkmage
@@ -19,6 +21,7 @@ Furystoke Giant
 Generator Servant
 Ghirapur Gearcrafter
 Goblin Chieftain
+Goblin Dark-Dwellers
 Goblin Rabblemaster
 Goblin Wardriver
 Grim Lavamancer
@@ -46,23 +49,21 @@ Prophetic Flamespeaker
 Purphoros, God of the Forge
 Rakka Mar
 Siege-Gang Commander
+Sin Prodder
 Skinbrand Goblin
 Soul of Shandalar
 Spikeshot Elder
 Stormbreath Dragon
 Taurean Mauler
-Thunderblust
 Thundermaw Hellkite
 Tin Street Hooligan
 Voracious Dragon
 Wrecking Ogre
 Young Pyromancer
 Zealous Conscripts
-Aggressive Mining
 Goblin Assault
 Goblinslide
 Beacon of Destruction
-Blind with Anger
 Brimstone Volley
 Burst Lightning
 Comet Storm
@@ -78,6 +79,7 @@ Thunderous Wrath
 Word of Seizing
 Chandra Nalaar
 Chandra, the Firebrand
+Chandra, Flamecaller
 Chandra, Pyromaster
 Koth of the Hammer
 Sarkhan, the Dragonspeaker
@@ -85,8 +87,6 @@ Act on Impulse
 Arc Trail
 Chain Lightning
 Devil's Play
-Dragon Fodder
-Earthquake
 Exquisite Firecraft
 Firebolt
 Flames of the Firebrand

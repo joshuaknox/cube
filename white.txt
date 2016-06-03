@@ -3,17 +3,17 @@ Accorder Paladin
 Admonition Angel
 Anafenza, Kin-Tree Spirit
 Angel of Serenity
+Archangel Avacyn
 Archangel of Thune
 Attended Knight
-Avacyn, Guardian Angel
 Azorius Arrester
 Baneslayer Angel
 Banisher Priest
 Blade Splicer
 Brimaz, King of Oreskos
+Bygone Bishop
 Celestial Archon
 Cloudgoat Ranger
-Consul's Lieutenant
 Daring Skyjek
 Dawnglare Invoker
 Eidolon of Countless Battles
@@ -29,7 +29,6 @@ Heliod, God of the Sun
 Herald of Anafenza
 Hero of Bladehold
 Hidden Dragonslayer
-Hokori, Dust Drinker
 Imposing Sovereign
 Isamaru, Hound of Konda
 Knight of Glory
@@ -37,7 +36,7 @@ Knight of the White Orchid
 Kytheon, Hero of Akros
 Kytheon's Irregulars
 Leonin Relic-Warder
-Linvala, Keeper of Silence
+Linvala, the Preserver
 Mangara of Corondor
 Mardu Woe-Reaper
 Master of Pearls
@@ -46,7 +45,6 @@ Monastery Mentor
 Mother of Runes
 Precinct Captain
 Ranger of Eos
-Relic Seeker
 Restoration Angel
 Reveillark
 Ronom Unicorn
@@ -57,6 +55,7 @@ Sublime Archangel
 Sunblast Angel
 Sun Titan
 Thalia, Guardian of Thraben
+Thalia's Lieutenant
 War Priest of Thune
 Weathered Wayfarer
 Whipcorder
@@ -89,7 +88,8 @@ Gideon Jura
 Armageddon
 Balance
 Day of Judgment
-Entreat the Angels
+Declaration in Stone
+Descend upon the Sinful
 Hallowed Burial
 Increasing Devotion
 Lingering Souls

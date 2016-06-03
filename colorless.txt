@@ -1,3 +1,4 @@
+Alhammarret's Archive
 Azorius Signet
 Basilisk Collar
 Batterskull
@@ -45,6 +46,7 @@ Mox Pearl
 Mox Ruby
 Mox Sapphire
 Nevinyrral's Disk
+Oblivion Stone
 Orzhov Signet
 Perilous Vault
 Rakdos Signet
@@ -67,11 +69,7 @@ Sword of Fire and Ice
 Sword of Light and Shadow
 Sword of Vengeance
 Sword of War and Peace
-Talisman of Dominance
-Talisman of Impulse
-Talisman of Indulgence
-Talisman of Progress
-Talisman of Unity
+Tamiyo's Journal
 Thran Dynamo
 Umezawa's Jitte
 Copper Myr
@@ -93,6 +91,8 @@ Triskelion
 Worn Powerstone
 Wurmcoil Engine
 Kozilek, Butcher of Truth
+Kozilek, the Great Distortion
+Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
 Karn Liberated
 Ugin, the Spirit Dragon
