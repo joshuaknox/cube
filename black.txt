@@ -5,7 +5,6 @@ Asylum Visitor
 Bloodgift Demon
 Bloodline Keeper
 Braids, Cabal Minion
-Cruel Sadist
 Crypt Ghast
 Coffin Queen
 Dark Confidant
@@ -52,7 +51,6 @@ Bitterblossom
 Dance of the Dead
 Demonic Pact
 Diabolic Servitude
-Necromancer's Stockpile
 Necromancy
 Palace Siege
 Phyrexian Arena
@@ -72,12 +70,14 @@ Ultimate Price
 Vampiric Tutor
 Liliana Vess
 Liliana of the Veil
+Liliana, the Last Hope
 Ob Nixilis Reignited
 Sorin Markov
 Beacon of Unrest
 Black Sun's Zenith
 Buried Alive
 Consuming Vapors
+Crux of Fate
 Damnable Pact
 Damnation
 Demonic Tutor

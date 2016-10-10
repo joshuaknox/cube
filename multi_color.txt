@@ -13,15 +13,13 @@ Evil Twin
 Figure of Destiny
 Firemane Avenger
 Ghor-Clan Rampager
+Grim Flayer
 Hellkite Overlord
-Huntmaster of the Fells
 Jhoira of the Ghitu
 Kolaghan, the Storm's Fury
-Lotleth Troll
 Master Biomancer
 Mercurial Chemister
 Narset, Enlightened Master
-New Prahv Guildmage
 Niv-Mizzet, Dracogenius
 Niv-Mizzet, the Firemind
 Obzedat, Ghost Council
@@ -31,15 +29,16 @@ Oona, Queen of the Fae
 Prime Speaker Zegana
 Progenitor Mimic
 Qasali Pridemage
-Rafiq of the Many
 Realm Razer
 Savage Knuckleblade
 Shadowmage Infiltrator
 Sidisi, Brood Tyrant
 Siege Rhino
+Spell Queller
 Sphinx of the Steel Wind
 Sphinx Sovereign
 Trostani, Selesnya's Voice
+Ulrich of the Krallenhorde
 Varolz, the Scar-Striped
 Vitu-Ghazi Guildmage
 Woolly Thoctar
@@ -82,6 +81,7 @@ Sarkhan Unbroken
 Sorin, Grim Nemesis
 Sorin, Lord of Innistrad
 Sorin, Solemn Visitor
+Tamiyo, Field Researcher
 Venser, the Sojourner
 Vraska the Unseen
 Xenagos, the Reveler

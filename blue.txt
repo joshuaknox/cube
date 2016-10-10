@@ -4,8 +4,8 @@ Arbiter of the Ideal
 Azure Mage
 Chasm Skulker
 Clever Impersonator
-Dakra Mystic
 Djinn of Wishes
+Docent of Perfection
 Draining Whelk
 Dungeon Geists
 Enclave Cryptologist
@@ -21,9 +21,9 @@ Magus of the Future
 Man-o'-War
 Master of Predicaments
 Master Transmuter
-Meloku the Clouded Mirror
 Mist Raven
 Mulldrifter
+Nibilis of Frost
 Pearl Lake Ancient
 Phantasmal Image
 Riftwing Cloudskate
@@ -34,7 +34,6 @@ Simic Manipulator
 Snapcaster Mage
 Sower of Temptation
 Sphinx of Lost Truths
-Sphinx of Magosi
 Sphinx of Uthuun
 Stratus Dancer
 Talrand, Sky Summoner
@@ -45,15 +44,16 @@ Vendilion Clique
 Venser, Shaper Savant
 Vesuvan Shapeshifter
 Voidmage Prodigy
+Wharf Infiltrator
 Control Magic
 Future Sight
+Imprisoned in the Moon
 Persuasion
 Treachery
 Volition Reins
 AEtherspouts
 Ancestral Recall
 Brainstorm
-Blue Sun's Zenith
 Capsize
 Counterspell
 Cryptic Command

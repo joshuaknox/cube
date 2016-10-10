@@ -38,7 +38,6 @@ Memory Jar
 Mimic Vat
 Mind Stone
 Mindslaver
-Mortarpod
 Moss Diamond
 Mox Emerald
 Mox Jet
@@ -74,6 +73,7 @@ Thran Dynamo
 Umezawa's Jitte
 Copper Myr
 Duplicant
+Emrakul, the Promised End
 Iron Myr
 Gold Myr
 Grim Poppet

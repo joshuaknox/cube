@@ -25,7 +25,7 @@ Goblin Dark-Dwellers
 Goblin Rabblemaster
 Goblin Wardriver
 Grim Lavamancer
-Guttersnipe
+Hanweir Garrison
 Hellrider
 Hero of Oxid Ridge
 Inferno Titan
@@ -54,6 +54,7 @@ Skinbrand Goblin
 Soul of Shandalar
 Spikeshot Elder
 Stormbreath Dragon
+Stromkirk Occultist
 Taurean Mauler
 Thundermaw Hellkite
 Tin Street Hooligan
@@ -70,7 +71,6 @@ Comet Storm
 Flame Javelin
 Incinerate
 Lightning Bolt
-Magma Jet
 Searing Spear
 Staggershock
 Stoke the Flames
@@ -83,9 +83,8 @@ Chandra, Flamecaller
 Chandra, Pyromaster
 Koth of the Hammer
 Sarkhan, the Dragonspeaker
-Act on Impulse
-Arc Trail
 Chain Lightning
+Collective Defiance
 Devil's Play
 Exquisite Firecraft
 Firebolt
@@ -94,6 +93,7 @@ Gamble
 Hammer of Bogardan
 Hordeling Outburst
 Mizzium Mortars
+Nahiri's Wrath
 Red Sun's Zenith
 Rift Bolt
 Roast

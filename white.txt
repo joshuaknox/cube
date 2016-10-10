@@ -14,7 +14,6 @@ Brimaz, King of Oreskos
 Bygone Bishop
 Celestial Archon
 Cloudgoat Ranger
-Daring Skyjek
 Dawnglare Invoker
 Eidolon of Countless Battles
 Eight-and-a-Half-Tails
@@ -25,11 +24,11 @@ Flickerwisp
 Galepowder Mage
 Geist-Honored Monk
 Gideon's Lawkeeper
+Gisela, the Broken Blade
 Heliod, God of the Sun
 Herald of Anafenza
 Hero of Bladehold
 Hidden Dragonslayer
-Imposing Sovereign
 Isamaru, Hound of Konda
 Knight of Glory
 Knight of the White Orchid
@@ -48,6 +47,7 @@ Ranger of Eos
 Restoration Angel
 Reveillark
 Ronom Unicorn
+Selfless Spirit
 Soldier of the Pantheon
 Stoneforge Mystic
 Student of Warfare
@@ -55,7 +55,7 @@ Sublime Archangel
 Sunblast Angel
 Sun Titan
 Thalia, Guardian of Thraben
-Thalia's Lieutenant
+Thalia, Heretic Cathar
 War Priest of Thune
 Weathered Wayfarer
 Whipcorder
@@ -87,12 +87,12 @@ Gideon, Ally of Zendikar
 Gideon Jura
 Armageddon
 Balance
+Collective Effort
 Day of Judgment
 Declaration in Stone
 Descend upon the Sinful
 Hallowed Burial
 Increasing Devotion
-Lingering Souls
 Planar Outburst
 Spectral Procession
 Terminus
