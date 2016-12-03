@@ -5,13 +5,13 @@ Batterskull
 Black Lotus
 Boros Signet
 Bottled Cloister
-Brittle Effigy
 Charcoal Diamond
 Chromatic Lantern
 Chrome Mox
 Coalition Relic
 Coldsteel Heart
 Crystal Ball
+Cultivator's Caravan
 Cursed Scroll
 Darksteel Axe
 Dimir Signet
@@ -19,7 +19,6 @@ Druidic Satchel
 Eldrazi Monument
 Elixir of Immortality
 Everflowing Chalice
-Fellwar Stone
 Fire Diamond
 Gilded Lotus
 Golgari Signet
@@ -50,14 +49,15 @@ Orzhov Signet
 Perilous Vault
 Rakdos Signet
 Ratchet Bomb
-Ring of Three Wishes
 Scroll Rack
 Selesnya Signet
 Sensei's Divining Top
 Simic Signet
 Sky Diamond
+Skysovereign, Consul Flagship
 Skullclamp
 Smokestack
+Smuggler's Copter
 Sol Ring
 Spine of Ish Sah
 Staff of Domination

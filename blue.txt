@@ -40,6 +40,7 @@ Talrand, Sky Summoner
 Thassa, God of the Sea
 Thing in the Ice
 Thousand Winds
+Torrential Gearhulk
 Vendilion Clique
 Venser, Shaper Savant
 Vesuvan Shapeshifter
@@ -97,4 +98,3 @@ Time Walk
 Time Warp
 Treasure Cruise
 Ugin's Insight
-Whelming Wave

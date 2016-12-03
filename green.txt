@@ -1,3 +1,4 @@
+Verdurous Gearhulk
 Acidic Slime
 Ainok Survivalist
 Ant Queen
@@ -34,12 +35,12 @@ Masked Admirers
 Master of the Wild Hunt
 Mold Shambler
 Noble Hierarch
-Nessian Wilds Ravager
 Nissa, Vastwood Seer
 Nylea, God of the Hunt
 Obstinate Baloth
 Ohran Viper
 Oracle of Mul Daya
+Oviya Pashiri, Sage Lifecrafter
 Pelakka Wurm
 Polukranos, World Eater
 Primeval Titan
@@ -57,7 +58,6 @@ Thragtusk
 Thrun, the Last Troll
 Tireless Tracker
 Vengevine
-Vorapede
 Whisperwood Elemental
 Wickerbough Elder
 Wolfir Silverheart
@@ -68,7 +68,6 @@ Doubling Season
 Exploration
 Fastbond
 Fertile Ground
-Greater Good
 Into the Wilds
 Oath of Nissa
 Primeval Bounty
@@ -79,6 +78,7 @@ Garruk, Caller of Beasts
 Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
+Nissa, Vital Force
 Nissa, Worldwaker
 Bramblecrush
 Cultivate

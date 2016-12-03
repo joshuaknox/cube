@@ -1,4 +1,5 @@
 Hammer of Purphoros
+Combustible Gearhulk
 Abbot of Keral Keep
 Akoum Stonewaker
 Akroma, Angel of Fury
@@ -36,7 +37,6 @@ Jeering Instigator
 Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
-Lightning Mauler
 Magus of the Scroll
 Mardu Heart-Piercer
 Mardu Scout
@@ -44,6 +44,7 @@ Mogg War Marshal
 Obsidian Fireheart
 Ogre Battledriver
 Oracle of Bones
+Pia Nalaar
 Pia and Kiran Nalaar
 Prophetic Flamespeaker
 Purphoros, God of the Forge
@@ -78,9 +79,8 @@ Through the Breach
 Thunderous Wrath
 Word of Seizing
 Chandra Nalaar
-Chandra, the Firebrand
-Chandra, Flamecaller
 Chandra, Pyromaster
+Chandra, Torch of Defiance
 Koth of the Hammer
 Sarkhan, the Dragonspeaker
 Chain Lightning

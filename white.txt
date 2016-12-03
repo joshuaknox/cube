@@ -1,7 +1,9 @@
 Spear of Heliod
+Cataclysmic Gearhulk
 Accorder Paladin
 Admonition Angel
 Anafenza, Kin-Tree Spirit
+Angel of Invention
 Angel of Serenity
 Archangel Avacyn
 Archangel of Thune
@@ -48,7 +50,6 @@ Restoration Angel
 Reveillark
 Ronom Unicorn
 Selfless Spirit
-Soldier of the Pantheon
 Stoneforge Mystic
 Student of Warfare
 Sublime Archangel
@@ -66,12 +67,10 @@ Banishing Light
 Journey to Nowhere
 Land Tax
 Martial Law
-Mastery of the Unseen
 Oblivion Ring
 Pacifism
 Prison Term
 Quarantine Field
-Spirit Bonds
 Stasis Snare
 Condemn
 Enlightened Tutor
@@ -91,6 +90,7 @@ Collective Effort
 Day of Judgment
 Declaration in Stone
 Descend upon the Sinful
+Fumigate
 Hallowed Burial
 Increasing Devotion
 Planar Outburst

@@ -17,7 +17,6 @@ Grim Flayer
 Hellkite Overlord
 Jhoira of the Ghitu
 Kolaghan, the Storm's Fury
-Master Biomancer
 Mercurial Chemister
 Narset, Enlightened Master
 Niv-Mizzet, Dracogenius
@@ -29,6 +28,7 @@ Oona, Queen of the Fae
 Prime Speaker Zegana
 Progenitor Mimic
 Qasali Pridemage
+Rashmi, Eternities Crafter
 Realm Razer
 Savage Knuckleblade
 Shadowmage Infiltrator
@@ -36,7 +36,6 @@ Sidisi, Brood Tyrant
 Siege Rhino
 Spell Queller
 Sphinx of the Steel Wind
-Sphinx Sovereign
 Trostani, Selesnya's Voice
 Ulrich of the Krallenhorde
 Varolz, the Scar-Striped
@@ -69,6 +68,7 @@ Ajani, Mentor of Heroes
 Ajani Vengeant
 Arlinn Kord
 Domri Rade
+Dovin Baan
 Garruk, Apex Predator
 Kiora, the Crashing Wave
 Kiora, Master of the Depths
