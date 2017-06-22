@@ -52,7 +52,6 @@ Dance of the Dead
 Demonic Pact
 Diabolic Servitude
 Necromancy
-Palace Siege
 Phyrexian Arena
 Recurring Nightmare
 Underworld Connections
@@ -68,6 +67,7 @@ Seize the Soul
 Terror
 Ultimate Price
 Vampiric Tutor
+Liliana, Death's Majesty
 Liliana Vess
 Liliana of the Veil
 Liliana, the Last Hope
@@ -87,7 +87,7 @@ Imperial Seal
 Languish
 Life's Finale
 Living Death
-Necromantic Summons
+Never // Return
 Night's Whisper
 Profane Command
 Read the Bones

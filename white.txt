@@ -4,6 +4,7 @@ Accorder Paladin
 Admonition Angel
 Anafenza, Kin-Tree Spirit
 Angel of Invention
+Angel of Sanctions
 Angel of Serenity
 Archangel Avacyn
 Archangel of Thune
@@ -38,7 +39,6 @@ Kytheon's Irregulars
 Leonin Relic-Warder
 Linvala, the Preserver
 Mangara of Corondor
-Mardu Woe-Reaper
 Master of Pearls
 Mikaeus, the Lunarch
 Monastery Mentor
@@ -78,11 +78,11 @@ Path to Exile
 Secure the Wastes
 Swords to Plowshares
 Ajani Goldmane
-Ajani Steadfast
 Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Elspeth Tirel
 Gideon, Ally of Zendikar
+Gideon of the Trials
 Gideon Jura
 Armageddon
 Balance

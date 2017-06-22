@@ -30,7 +30,6 @@ Progenitor Mimic
 Qasali Pridemage
 Rashmi, Eternities Crafter
 Realm Razer
-Savage Knuckleblade
 Shadowmage Infiltrator
 Sidisi, Brood Tyrant
 Siege Rhino
@@ -44,12 +43,12 @@ Woolly Thoctar
 Wrexial, the Risen Deep
 Zurgo Helmsmasher
 Assemble the Legion
+Bounty of the Luxa
 Detention Sphere
 Glare of Subdual
 Mardu Ascendancy
 Anguished Unmaking
 Aurelia's Fury
-Bant Charm
 Counterflux
 Dromoka's Command
 Far // Away
@@ -75,6 +74,7 @@ Kiora, Master of the Depths
 Nahiri, the Harbinger
 Narset Transcendent
 Nicol Bolas, Planeswalker
+Nissa, Steward of Elements
 Ral Zarek
 Sarkhan the Mad
 Sarkhan Unbroken

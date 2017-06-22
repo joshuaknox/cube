@@ -15,7 +15,6 @@ Cultivator's Caravan
 Cursed Scroll
 Darksteel Axe
 Dimir Signet
-Druidic Satchel
 Eldrazi Monument
 Everflowing Chalice
 Fire Diamond
@@ -44,6 +43,7 @@ Mox Ruby
 Mox Sapphire
 Nevinyrral's Disk
 Oblivion Stone
+Oracle's Vault
 Orzhov Signet
 Perilous Vault
 Rakdos Signet

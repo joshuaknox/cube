@@ -21,12 +21,14 @@ Flametongue Kavu
 Furystoke Giant
 Generator Servant
 Ghirapur Gearcrafter
+Glorybringer
 Goblin Chieftain
 Goblin Dark-Dwellers
 Goblin Rabblemaster
 Goblin Wardriver
 Grim Lavamancer
 Hanweir Garrison
+Heart-Piercer Manticore
 Hellrider
 Hero of Oxid Ridge
 Inferno Titan
@@ -38,7 +40,6 @@ Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
 Magus of the Scroll
-Mardu Heart-Piercer
 Mardu Scout
 Mogg War Marshal
 Obsidian Fireheart
@@ -64,7 +65,6 @@ Wrecking Ogre
 Young Pyromancer
 Zealous Conscripts
 Goblin Assault
-Goblinslide
 Beacon of Destruction
 Brimstone Volley
 Burst Lightning

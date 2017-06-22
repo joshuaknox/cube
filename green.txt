@@ -58,6 +58,7 @@ Thragtusk
 Thrun, the Last Troll
 Tireless Tracker
 Vengevine
+Vizier of the Menagerie
 Whisperwood Elemental
 Wickerbough Elder
 Wolfir Silverheart
@@ -68,7 +69,6 @@ Doubling Season
 Exploration
 Fastbond
 Fertile Ground
-Into the Wilds
 Oath of Nissa
 Primeval Bounty
 Survival of the Fittest

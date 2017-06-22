@@ -4,6 +4,7 @@ Arbiter of the Ideal
 Azure Mage
 Chasm Skulker
 Clever Impersonator
+Curator of Mysteries
 Djinn of Wishes
 Docent of Perfection
 Draining Whelk
@@ -44,6 +45,7 @@ Torrential Gearhulk
 Vendilion Clique
 Venser, Shaper Savant
 Vesuvan Shapeshifter
+Vizier of Many Faces
 Voidmage Prodigy
 Wharf Infiltrator
 Control Magic
@@ -52,10 +54,10 @@ Imprisoned in the Moon
 Persuasion
 Treachery
 Volition Reins
-AEtherspouts
 Ancestral Recall
 Brainstorm
 Capsize
+Commit // Memory
 Counterspell
 Cryptic Command
 Curse of the Swine
@@ -68,7 +70,6 @@ Exclude
 Fact or Fiction
 Force of Will
 Gifts Ungiven
-Into the Roil
 Intuition
 Jace's Ingenuity
 Mana Drain
@@ -84,7 +85,6 @@ Jace Beleren
 Jace, the Mind Sculptor
 Jace, Unraveler of Secrets
 Tamiyo, the Moon Sage
-Tezzeret the Seeker
 Ancestral Vision
 Baral's Expertise
 Bribery
