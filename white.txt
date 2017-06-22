@@ -7,7 +7,6 @@ Angel of Invention
 Angel of Serenity
 Archangel Avacyn
 Archangel of Thune
-Attended Knight
 Azorius Arrester
 Baneslayer Angel
 Banisher Priest
@@ -50,6 +49,7 @@ Restoration Angel
 Reveillark
 Ronom Unicorn
 Selfless Spirit
+Solemn Recruit
 Stoneforge Mystic
 Student of Warfare
 Sublime Archangel

@@ -61,8 +61,8 @@ Cryptic Command
 Curse of the Swine
 Cyclonic Rift
 Dig Through Time
+Disallow
 Dismiss
-Dissipate
 Dissolve
 Exclude
 Fact or Fiction
@@ -86,13 +86,13 @@ Jace, Unraveler of Secrets
 Tamiyo, the Moon Sage
 Tezzeret the Seeker
 Ancestral Vision
+Baral's Expertise
 Bribery
 Compulsive Research
 Crush of Tentacles
 Deep Analysis
 Ponder
 Preordain
-Sleep
 Temporal Mastery
 Time Walk
 Time Warp

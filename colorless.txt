@@ -17,7 +17,6 @@ Darksteel Axe
 Dimir Signet
 Druidic Satchel
 Eldrazi Monument
-Elixir of Immortality
 Everflowing Chalice
 Fire Diamond
 Gilded Lotus
@@ -88,6 +87,7 @@ Solemn Simulacrum
 Steel Hellkite
 Triskelavus
 Triskelion
+Walking Ballista
 Worn Powerstone
 Wurmcoil Engine
 Kozilek, Butcher of Truth
