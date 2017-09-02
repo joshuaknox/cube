@@ -11,6 +11,7 @@ Chandra's Phoenix
 Conquering Manticore
 Cunning Sparkmage
 Dragon Whisperer
+Earthshaker Khenra
 Ember Hauler
 Ember Swallower
 Felhide Spiritbinder
@@ -57,20 +58,18 @@ Soul of Shandalar
 Spikeshot Elder
 Stormbreath Dragon
 Stromkirk Occultist
-Taurean Mauler
 Thundermaw Hellkite
-Tin Street Hooligan
 Voracious Dragon
 Wrecking Ogre
 Young Pyromancer
 Zealous Conscripts
 Goblin Assault
+Abrade
 Beacon of Destruction
 Brimstone Volley
 Burst Lightning
 Comet Storm
 Flame Javelin
-Incinerate
 Lightning Bolt
 Searing Spear
 Staggershock
@@ -91,6 +90,7 @@ Firebolt
 Flames of the Firebrand
 Gamble
 Hammer of Bogardan
+Hour of Devastation
 Hordeling Outburst
 Mizzium Mortars
 Nahiri's Wrath

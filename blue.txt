@@ -2,7 +2,7 @@ Aether Adept
 Aetherling
 Arbiter of the Ideal
 Azure Mage
-Chasm Skulker
+Champion of Wits
 Clever Impersonator
 Curator of Mysteries
 Djinn of Wishes
@@ -78,7 +78,7 @@ Opportunity
 Remand
 Remove Soul
 Scatter to the Winds
-Thirst for Knowledge
+Supreme Will
 Time Stop
 Jace, Architect of Thought
 Jace Beleren

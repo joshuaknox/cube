@@ -2,7 +2,9 @@ Spear of Heliod
 Cataclysmic Gearhulk
 Accorder Paladin
 Admonition Angel
+Adorned Pouncer
 Anafenza, Kin-Tree Spirit
+Angel of Condemnation
 Angel of Invention
 Angel of Sanctions
 Angel of Serenity
@@ -23,7 +25,6 @@ Emeria Angel
 Exalted Angel
 Fiend Hunter
 Flickerwisp
-Galepowder Mage
 Geist-Honored Monk
 Gideon's Lawkeeper
 Gisela, the Broken Blade
@@ -50,6 +51,7 @@ Reveillark
 Ronom Unicorn
 Selfless Spirit
 Solemn Recruit
+Steward of Solidarity
 Stoneforge Mystic
 Student of Warfare
 Sublime Archangel
@@ -57,12 +59,10 @@ Sunblast Angel
 Sun Titan
 Thalia, Guardian of Thraben
 Thalia, Heretic Cathar
-War Priest of Thune
 Weathered Wayfarer
 Whipcorder
 Windborn Muse
 Wingmate Roc
-Yosei, the Morning Star
 Banishing Light
 Journey to Nowhere
 Land Tax

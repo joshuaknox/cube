@@ -12,6 +12,7 @@ Dark Confidant
 Disciple of Bolas
 Doomed Necromancer
 Drana, Kalastria Bloodchief
+Dreamstealer
 Elusive Tormentor
 Erebos, God of the Dead
 Geth, Lord of the Vault
@@ -23,7 +24,6 @@ Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
 Kalitas, Traitor of Ghet
-Kothophed, Soul Hoarder
 Kokusho, the Evening Star
 Lifebane Zombie
 Liliana, Heretical Healer

@@ -3,7 +3,6 @@ Armada Wurm
 Ashiok, Nightmare Weaver
 Boros Reckoner
 Broodmate Dragon
-Carnival Hellsteed
 Deathrite Shaman
 Dinrova Horror
 Dragonlord Atarka
@@ -35,12 +34,13 @@ Sidisi, Brood Tyrant
 Siege Rhino
 Spell Queller
 Sphinx of the Steel Wind
+The Locust God
+The Scarab God
 Trostani, Selesnya's Voice
 Ulrich of the Krallenhorde
 Varolz, the Scar-Striped
 Vitu-Ghazi Guildmage
 Woolly Thoctar
-Wrexial, the Risen Deep
 Zurgo Helmsmasher
 Assemble the Legion
 Bounty of the Luxa
@@ -49,7 +49,6 @@ Glare of Subdual
 Mardu Ascendancy
 Anguished Unmaking
 Aurelia's Fury
-Counterflux
 Dromoka's Command
 Far // Away
 Izzet Charm
@@ -73,6 +72,7 @@ Kiora, the Crashing Wave
 Kiora, Master of the Depths
 Nahiri, the Harbinger
 Narset Transcendent
+Nicol Bolas, God-Pharaoh
 Nicol Bolas, Planeswalker
 Nissa, Steward of Elements
 Ral Zarek
