@@ -5,6 +5,7 @@ Azure Mage
 Champion of Wits
 Clever Impersonator
 Curator of Mysteries
+Daring Saboteur
 Djinn of Wishes
 Docent of Perfection
 Draining Whelk
@@ -18,7 +19,6 @@ Icefall Regent
 Keiga, the Tide Star
 Kheru Spellsnatcher
 Looter il-Kor
-Magus of the Future
 Man-o'-War
 Master of Predicaments
 Master Transmuter
@@ -52,6 +52,7 @@ Control Magic
 Future Sight
 Imprisoned in the Moon
 Persuasion
+Search for Azcanta
 Treachery
 Volition Reins
 Ancestral Recall
@@ -70,7 +71,6 @@ Exclude
 Fact or Fiction
 Force of Will
 Gifts Ungiven
-Intuition
 Jace's Ingenuity
 Mana Drain
 Mana Leak

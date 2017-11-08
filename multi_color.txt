@@ -4,7 +4,6 @@ Ashiok, Nightmare Weaver
 Boros Reckoner
 Broodmate Dragon
 Deathrite Shaman
-Dinrova Horror
 Dragonlord Atarka
 Dragonlord Ojutai
 Dragonlord Silumgar
@@ -14,6 +13,7 @@ Firemane Avenger
 Ghor-Clan Rampager
 Grim Flayer
 Hellkite Overlord
+Hostage Taker
 Jhoira of the Ghitu
 Kolaghan, the Storm's Fury
 Mercurial Chemister
@@ -41,7 +41,6 @@ Ulrich of the Krallenhorde
 Varolz, the Scar-Striped
 Vitu-Ghazi Guildmage
 Woolly Thoctar
-Zurgo Helmsmasher
 Assemble the Legion
 Bounty of the Luxa
 Detention Sphere
@@ -68,6 +67,7 @@ Arlinn Kord
 Domri Rade
 Dovin Baan
 Garruk, Apex Predator
+Huatli, Warrior Poet
 Kiora, the Crashing Wave
 Kiora, Master of the Depths
 Nahiri, the Harbinger
@@ -83,13 +83,13 @@ Sorin, Lord of Innistrad
 Sorin, Solemn Visitor
 Tamiyo, Field Researcher
 Venser, the Sojourner
-Vraska the Unseen
+Vona, Butcher of Magan
+Vraska, Relic Seeker
 Xenagos, the Reveler
 Xenagos, God of Revels
 Blightning
 Cruel Ultimatum
 Dreadbore
-Duneblast
 Gaze of Granite
 Maelstrom Pulse
 Obzedat's Aid

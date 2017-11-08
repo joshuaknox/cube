@@ -32,7 +32,6 @@ Heliod, God of the Sun
 Herald of Anafenza
 Hero of Bladehold
 Hidden Dragonslayer
-Isamaru, Hound of Konda
 Knight of Glory
 Knight of the White Orchid
 Kytheon, Hero of Akros
@@ -66,6 +65,7 @@ Wingmate Roc
 Banishing Light
 Journey to Nowhere
 Land Tax
+Legion's Landing
 Martial Law
 Oblivion Ring
 Pacifism

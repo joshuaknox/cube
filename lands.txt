@@ -1,4 +1,3 @@
-Academy Ruins
 Arcane Sanctum
 Arid Mesa
 Azorius Chancery
@@ -30,11 +29,13 @@ Graven Cairns
 Gruul Turf
 Hallowed Fountain
 Hinterland Harbor
+Hissing Quagmire
 Isolated Chapel
 Izzet Boilerworks
 Jungle Shrine
 Lavaclaw Reaches
 Library of Alexandria
+Lumbering Falls
 Marsh Flats
 Mishra's Factory
 Misty Rainforest
@@ -42,6 +43,7 @@ Mystic Gate
 Mystic Monastery
 Mystifying Maze
 Mutavault
+Needle Spires
 Nomad Outpost
 Opulent Palace
 Orzhov Basilica
@@ -61,8 +63,8 @@ Scalding Tarn
 Scrubland
 Seaside Citadel
 Selesnya Sanctuary
+Shambling Vent
 Simic Growth Chamber
-Spinerock Knoll
 Steam Vents
 Stirring Wildwood
 Stomping Ground
@@ -84,16 +86,14 @@ Temple of Silence
 Temple of Triumph
 Thawing Glaciers
 Treetop Village
-Tropical Island
 Tundra
 Twilight Mire
 Underground Sea
-Urborg, Tomb of Yawgmoth
 Verdant Catacombs
 Volcanic Island
 Watery Grave
+Wandering Fumarole
 Westvale Abbey
-Windbrisk Heights
 Windswept Heath
 Wooded Bastion
 Wooded Foothills

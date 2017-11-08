@@ -2,7 +2,6 @@ Whip of Erebos
 Noxious Gearhulk
 Anowon, the Ruin Sage
 Archfiend of Depravity
-Asylum Visitor
 Bloodgift Demon
 Bloodline Keeper
 Braids, Cabal Minion
@@ -36,6 +35,7 @@ Pack Rat
 Priest of the Blood Rite
 Puppeteer Clique
 Royal Assassin
+Ruin Raider
 Rune-Scarred Demon
 Shadowborn Demon
 Sheoldred, Whispering One
@@ -67,6 +67,7 @@ Seize the Soul
 Terror
 Ultimate Price
 Vampiric Tutor
+Vraska's Contempt
 Liliana, Death's Majesty
 Liliana Vess
 Liliana of the Veil
@@ -82,7 +83,6 @@ Damnable Pact
 Damnation
 Demonic Tutor
 Dread Return
-Endless Obedience
 Imperial Seal
 Languish
 Life's Finale
