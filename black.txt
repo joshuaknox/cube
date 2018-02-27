@@ -5,6 +5,7 @@ Archfiend of Depravity
 Bloodgift Demon
 Bloodline Keeper
 Braids, Cabal Minion
+Champion of Dusk
 Crypt Ghast
 Coffin Queen
 Dark Confidant
@@ -23,7 +24,6 @@ Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
 Kalitas, Traitor of Ghet
-Kokusho, the Evening Star
 Lifebane Zombie
 Liliana, Heretical Healer
 Liliana's Specter
@@ -32,18 +32,19 @@ Massacre Wurm
 Nekrataal
 Nezumi Graverobber
 Pack Rat
-Priest of the Blood Rite
 Puppeteer Clique
+Ravenous Chupacabra
 Royal Assassin
 Ruin Raider
 Rune-Scarred Demon
-Shadowborn Demon
 Sheoldred, Whispering One
 Shriekmaw
 Sidisi, Undead Vizier
 Silumgar Assassin
 Skinrender
 Tasigur, the Golden Fang
+Tetzimoc, Primal Death
+Twilight Prophet
 Vampire Hexmage
 Vampire Nighthawk
 Animate Dead
@@ -61,7 +62,6 @@ Entomb
 Go for the Throat
 Hero's Downfall
 Makeshift Mannequin
-Murder
 Murderous Cut
 Seize the Soul
 Terror

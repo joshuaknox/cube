@@ -2,7 +2,6 @@ Hammer of Purphoros
 Combustible Gearhulk
 Abbot of Keral Keep
 Akoum Stonewaker
-Akroma, Angel of Fury
 Arms Dealer
 Ashcloud Phoenix
 Breakneck Rider
@@ -10,6 +9,7 @@ Chandra, Fire of Kaladesh
 Chandra's Phoenix
 Conquering Manticore
 Cunning Sparkmage
+Dire Fleet Daredevil
 Dragon Whisperer
 Earthshaker Khenra
 Ember Hauler
@@ -43,14 +43,13 @@ Krenko, Mob Boss
 Magus of the Scroll
 Mardu Scout
 Mogg War Marshal
-Obsidian Fireheart
 Ogre Battledriver
-Oracle of Bones
 Pia Nalaar
 Pia and Kiran Nalaar
 Prophetic Flamespeaker
 Purphoros, God of the Forge
 Rakka Mar
+Rekindling Phoenix
 Siege-Gang Commander
 Sin Prodder
 Skinbrand Goblin
@@ -59,6 +58,7 @@ Spikeshot Elder
 Stormbreath Dragon
 Stromkirk Occultist
 Thundermaw Hellkite
+Tilonalli's Summoner
 Voracious Dragon
 Wrecking Ogre
 Young Pyromancer

@@ -58,7 +58,6 @@ Smuggler's Copter
 Sol Ring
 Spine of Ish Sah
 Staff of Domination
-Staff of Nin
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
@@ -67,6 +66,7 @@ Sword of Vengeance
 Sword of War and Peace
 Tamiyo's Journal
 Thaumatic Compass
+The Immortal Sun
 Thran Dynamo
 Treasure Map
 Umezawa's Jitte

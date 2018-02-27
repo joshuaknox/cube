@@ -2,11 +2,9 @@ Verdurous Gearhulk
 Acidic Slime
 Ainok Survivalist
 Ant Queen
-Arbor Colossus
 Arbor Elf
 Avenger of Zendikar
 Birds of Paradise
-Borderland Ranger
 Brooding Saurian
 Chameleon Colossus
 Civic Wayfinder
@@ -26,6 +24,7 @@ Genesis Hydra
 Greenwarden of Murasa
 Gyre Sage
 Imperious Perfect
+Jadelight Ranger
 Jade Mage
 Joraga Treespeaker
 Krosan Tusker
@@ -33,7 +32,6 @@ Llanowar Elves
 Lotus Cobra
 Masked Admirers
 Master of the Wild Hunt
-Mold Shambler
 Noble Hierarch
 Nissa, Vastwood Seer
 Nylea, God of the Hunt
@@ -53,8 +51,10 @@ Scavenging Ooze
 Shaman of Forgotten Ways
 Sylvan Ranger
 Sylvan Caryatid
+Tendershoot Dryad
 Terastodon
 Thragtusk
+Thrashing Brontodon
 Thrun, the Last Troll
 Tireless Tracker
 Vengevine

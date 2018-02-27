@@ -1,6 +1,7 @@
 Angel of Despair
 Armada Wurm
 Ashiok, Nightmare Weaver
+Azor, the Lawbringer
 Boros Reckoner
 Broodmate Dragon
 Deathrite Shaman
@@ -40,7 +41,7 @@ Trostani, Selesnya's Voice
 Ulrich of the Krallenhorde
 Varolz, the Scar-Striped
 Vitu-Ghazi Guildmage
-Woolly Thoctar
+Zacama, Primal Calamity
 Assemble the Legion
 Bounty of the Luxa
 Detention Sphere
@@ -51,7 +52,6 @@ Aurelia's Fury
 Dromoka's Command
 Far // Away
 Izzet Charm
-Jeskai Charm
 Kolaghan's Command
 Lightning Helix
 Mystic Genesis
