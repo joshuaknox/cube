@@ -8,7 +8,6 @@ Breakneck Rider
 Chandra, Fire of Kaladesh
 Chandra's Phoenix
 Conquering Manticore
-Cunning Sparkmage
 Dire Fleet Daredevil
 Dragon Whisperer
 Earthshaker Khenra
@@ -23,6 +22,7 @@ Furystoke Giant
 Generator Servant
 Ghirapur Gearcrafter
 Glorybringer
+Goblin Chainwhirler
 Goblin Chieftain
 Goblin Dark-Dwellers
 Goblin Rabblemaster
@@ -53,12 +53,12 @@ Rekindling Phoenix
 Siege-Gang Commander
 Sin Prodder
 Skinbrand Goblin
-Soul of Shandalar
 Spikeshot Elder
 Stormbreath Dragon
 Stromkirk Occultist
 Thundermaw Hellkite
 Tilonalli's Summoner
+Verix Bladewing
 Voracious Dragon
 Wrecking Ogre
 Young Pyromancer
@@ -86,6 +86,7 @@ Chain Lightning
 Collective Defiance
 Devil's Play
 Exquisite Firecraft
+Fight with Fire
 Firebolt
 Flames of the Firebrand
 Gamble
@@ -96,5 +97,4 @@ Mizzium Mortars
 Nahiri's Wrath
 Red Sun's Zenith
 Rift Bolt
-Roast
 Slagstorm

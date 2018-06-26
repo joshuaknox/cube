@@ -16,10 +16,8 @@ Banisher Priest
 Blade Splicer
 Brimaz, King of Oreskos
 Bygone Bishop
-Celestial Archon
 Cloudgoat Ranger
 Dawnglare Invoker
-Eidolon of Countless Battles
 Eight-and-a-Half-Tails
 Emeria Angel
 Exalted Angel
@@ -63,6 +61,7 @@ Whipcorder
 Windborn Muse
 Wingmate Roc
 Banishing Light
+History of Benalia
 Journey to Nowhere
 Land Tax
 Legion's Landing
@@ -71,6 +70,7 @@ Oblivion Ring
 Pacifism
 Prison Term
 Quarantine Field
+Seal Away
 Stasis Snare
 Condemn
 Enlightened Tutor

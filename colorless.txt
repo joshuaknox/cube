@@ -75,7 +75,6 @@ Duplicant
 Emrakul, the Promised End
 Iron Myr
 Gold Myr
-Grim Poppet
 Leaden Myr
 Molten-Tail Masticore
 Myr Battlesphere
@@ -85,15 +84,16 @@ Platinum Angel
 Silver Myr
 Solemn Simulacrum
 Steel Hellkite
-Triskelavus
 Triskelion
 Walking Ballista
+Weatherlight
 Worn Powerstone
 Wurmcoil Engine
 Kozilek, Butcher of Truth
 Kozilek, the Great Distortion
 Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
+Karn, Scion of Urza
 Karn Liberated
 Ugin, the Spirit Dragon
 All Is Dust

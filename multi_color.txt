@@ -34,7 +34,6 @@ Shadowmage Infiltrator
 Sidisi, Brood Tyrant
 Siege Rhino
 Spell Queller
-Sphinx of the Steel Wind
 The Locust God
 The Scarab God
 Trostani, Selesnya's Voice
@@ -82,6 +81,7 @@ Sorin, Grim Nemesis
 Sorin, Lord of Innistrad
 Sorin, Solemn Visitor
 Tamiyo, Field Researcher
+Teferi, Hero of Dominaria
 Venser, the Sojourner
 Vona, Butcher of Magan
 Vraska, Relic Seeker

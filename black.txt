@@ -6,9 +6,9 @@ Bloodgift Demon
 Bloodline Keeper
 Braids, Cabal Minion
 Champion of Dusk
-Crypt Ghast
 Coffin Queen
 Dark Confidant
+Demonlord Belzenlok
 Disciple of Bolas
 Doomed Necromancer
 Drana, Kalastria Bloodchief
@@ -49,19 +49,19 @@ Vampire Hexmage
 Vampire Nighthawk
 Animate Dead
 Bitterblossom
-Dance of the Dead
 Demonic Pact
 Diabolic Servitude
 Necromancy
 Phyrexian Arena
 Recurring Nightmare
+The Eldest Reborn
 Underworld Connections
 Bile Blight
+Cast Down
 Doom Blade
 Entomb
 Go for the Throat
 Hero's Downfall
-Makeshift Mannequin
 Murderous Cut
 Seize the Soul
 Terror
@@ -76,7 +76,6 @@ Ob Nixilis Reignited
 Sorin Markov
 Beacon of Unrest
 Black Sun's Zenith
-Buried Alive
 Consuming Vapors
 Crux of Fate
 Damnable Pact
@@ -97,4 +96,5 @@ Sever the Bloodline
 Sign in Blood
 Unburial Rites
 Yawgmoth's Will
+Yawgmoth's Vile Offering
 Zombify
