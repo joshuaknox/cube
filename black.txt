@@ -19,10 +19,12 @@ Geth, Lord of the Vault
 Gonti, Lord of Luxury
 Grave Titan
 Graveborn Muse
-Gray Merchant of Asphodel
+Graveyard Marshal
 Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
+Isareth the Awakener
+Josu Vess, Lich Knight
 Kalitas, Traitor of Ghet
 Lifebane Zombie
 Liliana, Heretical Healer
@@ -49,7 +51,6 @@ Vampire Hexmage
 Vampire Nighthawk
 Animate Dead
 Bitterblossom
-Demonic Pact
 Diabolic Servitude
 Necromancy
 Phyrexian Arena
@@ -97,4 +98,3 @@ Sign in Blood
 Unburial Rites
 Yawgmoth's Will
 Yawgmoth's Vile Offering
-Zombify

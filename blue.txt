@@ -11,6 +11,7 @@ Docent of Perfection
 Draining Whelk
 Dungeon Geists
 Enclave Cryptologist
+Exclusion Mage
 Frost Titan
 Guardian of Tazeem
 Harbinger of the Tides
@@ -30,7 +31,6 @@ Phantasmal Image
 Riftwing Cloudskate
 Sakashima the Impostor
 Sea Gate Oracle
-Shipbreaker Kraken
 Simic Manipulator
 Snapcaster Mage
 Sower of Temptation
@@ -71,7 +71,7 @@ Exclude
 Fact or Fiction
 Force of Will
 Gifts Ungiven
-Jace's Ingenuity
+Impulse
 Mana Drain
 Mana Leak
 Opportunity

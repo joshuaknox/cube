@@ -73,13 +73,13 @@ Oath of Nissa
 Primeval Bounty
 Survival of the Fittest
 Chord of Calling
-Naturalize
 Garruk, Caller of Beasts
 Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
 Nissa, Vital Force
 Nissa, Worldwaker
+Vivien Reid
 Bramblecrush
 Cultivate
 Explore

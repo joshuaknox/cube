@@ -1,7 +1,6 @@
 Spear of Heliod
 Cataclysmic Gearhulk
 Accorder Paladin
-Admonition Angel
 Adorned Pouncer
 Anafenza, Kin-Tree Spirit
 Angel of Condemnation
@@ -35,7 +34,8 @@ Knight of the White Orchid
 Kytheon, Hero of Akros
 Kytheon's Irregulars
 Leonin Relic-Warder
-Linvala, the Preserver
+Leonin Warleader
+Lyra Dawnbringer
 Mangara of Corondor
 Master of Pearls
 Mikaeus, the Lunarch
@@ -43,6 +43,7 @@ Monastery Mentor
 Mother of Runes
 Precinct Captain
 Ranger of Eos
+Resplendent Angel
 Restoration Angel
 Reveillark
 Ronom Unicorn
@@ -59,7 +60,6 @@ Thalia, Heretic Cathar
 Weathered Wayfarer
 Whipcorder
 Windborn Muse
-Wingmate Roc
 Banishing Light
 History of Benalia
 Journey to Nowhere
