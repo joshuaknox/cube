@@ -1,6 +1,7 @@
 Angel of Despair
 Armada Wurm
 Ashiok, Nightmare Weaver
+Aurelia, Exemplar of Justice
 Azor, the Lawbringer
 Boros Reckoner
 Broodmate Dragon
@@ -29,16 +30,14 @@ Prime Speaker Zegana
 Progenitor Mimic
 Qasali Pridemage
 Rashmi, Eternities Crafter
-Realm Razer
 Shadowmage Infiltrator
-Sidisi, Brood Tyrant
 Siege Rhino
 Spell Queller
 The Locust God
 The Scarab God
+Thief of Sanity
 Trostani, Selesnya's Voice
 Ulrich of the Krallenhorde
-Varolz, the Scar-Striped
 Vitu-Ghazi Guildmage
 Zacama, Primal Calamity
 Assemble the Legion
@@ -47,26 +46,26 @@ Detention Sphere
 Glare of Subdual
 Mardu Ascendancy
 Anguished Unmaking
+Assassin's Trophy
 Aurelia's Fury
 Dromoka's Command
-Far // Away
+Expansion // Explosion
 Izzet Charm
 Kolaghan's Command
 Lightning Helix
+March of the Multitudes
 Mystic Genesis
 Ojutai's Command
 Putrefy
 Selesnya Charm
 Simic Charm
 Sphinx's Revelation
-Turn // Burn
 Ajani Unyielding
 Ajani Vengeant
 Arlinn Kord
 Domri Rade
 Dovin Baan
 Garruk, Apex Predator
-Huatli, Warrior Poet
 Kiora, the Crashing Wave
 Kiora, Master of the Depths
 Nahiri, the Harbinger
@@ -84,6 +83,7 @@ Tamiyo, Field Researcher
 Teferi, Hero of Dominaria
 Venser, the Sojourner
 Vona, Butcher of Magan
+Vraska, Golgari Queen
 Vraska, Relic Seeker
 Xenagos, the Reveler
 Xenagos, God of Revels

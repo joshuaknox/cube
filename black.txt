@@ -9,8 +9,8 @@ Champion of Dusk
 Coffin Queen
 Dark Confidant
 Demonlord Belzenlok
-Disciple of Bolas
 Doomed Necromancer
+Doom Whisperer
 Drana, Kalastria Bloodchief
 Dreamstealer
 Elusive Tormentor
@@ -31,6 +31,7 @@ Liliana, Heretical Healer
 Liliana's Specter
 Magus of the Abyss
 Massacre Wurm
+Midnight Reaper
 Nekrataal
 Nezumi Graverobber
 Pack Rat
@@ -97,4 +98,3 @@ Sever the Bloodline
 Sign in Blood
 Unburial Rites
 Yawgmoth's Will
-Yawgmoth's Vile Offering

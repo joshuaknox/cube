@@ -24,6 +24,7 @@ Ghirapur Gearcrafter
 Glorybringer
 Goblin Chainwhirler
 Goblin Chieftain
+Goblin Cratermaker
 Goblin Dark-Dwellers
 Goblin Rabblemaster
 Goblin Wardriver
@@ -40,9 +41,9 @@ Jeering Instigator
 Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
+Legion Warboss
 Magus of the Scroll
 Mardu Scout
-Mogg War Marshal
 Ogre Battledriver
 Pia Nalaar
 Pia and Kiran Nalaar
@@ -63,7 +64,7 @@ Voracious Dragon
 Wrecking Ogre
 Young Pyromancer
 Zealous Conscripts
-Goblin Assault
+Experimental Frenzy
 Abrade
 Beacon of Destruction
 Brimstone Volley
@@ -97,4 +98,3 @@ Mizzium Mortars
 Nahiri's Wrath
 Red Sun's Zenith
 Rift Bolt
-Slagstorm

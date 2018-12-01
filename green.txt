@@ -4,6 +4,7 @@ Ainok Survivalist
 Ant Queen
 Arbor Elf
 Avenger of Zendikar
+Beast Whisperer
 Birds of Paradise
 Brooding Saurian
 Chameleon Colossus
@@ -30,7 +31,6 @@ Joraga Treespeaker
 Krosan Tusker
 Llanowar Elves
 Lotus Cobra
-Masked Admirers
 Master of the Wild Hunt
 Noble Hierarch
 Nissa, Vastwood Seer

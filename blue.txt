@@ -9,6 +9,7 @@ Daring Saboteur
 Djinn of Wishes
 Docent of Perfection
 Draining Whelk
+Dream Eater
 Dungeon Geists
 Enclave Cryptologist
 Exclusion Mage
@@ -64,7 +65,6 @@ Cryptic Command
 Curse of the Swine
 Cyclonic Rift
 Dig Through Time
-Disallow
 Dismiss
 Dissolve
 Exclude
@@ -78,6 +78,7 @@ Opportunity
 Remand
 Remove Soul
 Scatter to the Winds
+Sinister Sabotage
 Supreme Will
 Time Stop
 Jace, Architect of Thought
@@ -86,7 +87,6 @@ Jace, the Mind Sculptor
 Jace, Unraveler of Secrets
 Tamiyo, the Moon Sage
 Ancestral Vision
-Baral's Expertise
 Bribery
 Compulsive Research
 Crush of Tentacles

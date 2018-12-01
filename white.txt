@@ -29,7 +29,6 @@ Heliod, God of the Sun
 Herald of Anafenza
 Hero of Bladehold
 Hidden Dragonslayer
-Knight of Glory
 Knight of the White Orchid
 Kytheon, Hero of Akros
 Kytheon's Irregulars
@@ -53,6 +52,7 @@ Steward of Solidarity
 Stoneforge Mystic
 Student of Warfare
 Sublime Archangel
+Sunhome Stalwart
 Sunblast Angel
 Sun Titan
 Thalia, Guardian of Thraben
@@ -61,6 +61,7 @@ Weathered Wayfarer
 Whipcorder
 Windborn Muse
 Banishing Light
+Conclave Tribunal
 History of Benalia
 Journey to Nowhere
 Land Tax
@@ -71,7 +72,6 @@ Pacifism
 Prison Term
 Quarantine Field
 Seal Away
-Stasis Snare
 Condemn
 Enlightened Tutor
 Path to Exile
