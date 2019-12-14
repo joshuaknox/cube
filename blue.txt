@@ -1,7 +1,7 @@
 Aether Adept
 Aetherling
-Arbiter of the Ideal
 Azure Mage
+Brazen Borrower
 Champion of Wits
 Clever Impersonator
 Curator of Mysteries
@@ -14,6 +14,8 @@ Dungeon Geists
 Enclave Cryptologist
 Exclusion Mage
 Frost Titan
+Gadwick, the Wizened
+God-Eternal Kefnet
 Guardian of Tazeem
 Harbinger of the Tides
 Jace, Vryn's Prodigy
@@ -22,7 +24,6 @@ Keiga, the Tide Star
 Kheru Spellsnatcher
 Looter il-Kor
 Man-o'-War
-Master of Predicaments
 Master Transmuter
 Mist Raven
 Mulldrifter
@@ -35,6 +36,7 @@ Sea Gate Oracle
 Simic Manipulator
 Snapcaster Mage
 Sower of Temptation
+Sphinx of Foresight
 Sphinx of Lost Truths
 Sphinx of Uthuun
 Stratus Dancer
@@ -62,7 +64,6 @@ Capsize
 Commit // Memory
 Counterspell
 Cryptic Command
-Curse of the Swine
 Cyclonic Rift
 Dig Through Time
 Dismiss
@@ -74,7 +75,6 @@ Gifts Ungiven
 Impulse
 Mana Drain
 Mana Leak
-Opportunity
 Remand
 Remove Soul
 Scatter to the Winds

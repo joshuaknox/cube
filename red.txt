@@ -3,23 +3,22 @@ Abbot of Keral Keep
 Akoum Stonewaker
 Arms Dealer
 Ashcloud Phoenix
+Bonecrusher Giant
 Breakneck Rider
 Chandra, Fire of Kaladesh
 Chandra's Phoenix
-Conquering Manticore
 Dire Fleet Daredevil
 Dismissive Pyromancer
 Dragon Whisperer
 Earthshaker Khenra
 Ember Hauler
 Ember Swallower
-Felhide Spiritbinder
+Embereth Shieldbreaker
 Fire Imp
 Flameblast Dragon
 Flamerush Rider
 Flametongue Kavu
 Furystoke Giant
-Generator Servant
 Ghirapur Gearcrafter
 Glorybringer
 Goblin Chainwhirler
@@ -53,6 +52,7 @@ Rakka Mar
 Rekindling Phoenix
 Siege-Gang Commander
 Sin Prodder
+Skarrgan Hellkite
 Skinbrand Goblin
 Spikeshot Elder
 Stormbreath Dragon

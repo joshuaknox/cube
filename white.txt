@@ -23,7 +23,7 @@ Exalted Angel
 Fiend Hunter
 Flickerwisp
 Geist-Honored Monk
-Gideon's Lawkeeper
+Giant Killer
 Gisela, the Broken Blade
 Heliod, God of the Sun
 Herald of Anafenza
@@ -42,6 +42,7 @@ Monastery Mentor
 Mother of Runes
 Precinct Captain
 Ranger of Eos
+Realm-Cloaked Giant
 Resplendent Angel
 Restoration Angel
 Reveillark
@@ -91,7 +92,6 @@ Day of Judgment
 Declaration in Stone
 Descend upon the Sinful
 Fumigate
-Hallowed Burial
 Increasing Devotion
 Planar Outburst
 Spectral Procession

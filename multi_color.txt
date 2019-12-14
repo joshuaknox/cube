@@ -5,7 +5,6 @@ Aurelia, Exemplar of Justice
 Azor, the Lawbringer
 Boros Reckoner
 Broodmate Dragon
-Deathrite Shaman
 Dragonlord Atarka
 Dragonlord Ojutai
 Dragonlord Silumgar
@@ -16,9 +15,9 @@ Ghor-Clan Rampager
 Grim Flayer
 Hellkite Overlord
 Hostage Taker
+Hydroid Krasis
 Jhoira of the Ghitu
 Kolaghan, the Storm's Fury
-Mercurial Chemister
 Narset, Enlightened Master
 Niv-Mizzet, Dracogenius
 Niv-Mizzet, the Firemind
@@ -58,21 +57,22 @@ Mystic Genesis
 Ojutai's Command
 Putrefy
 Selesnya Charm
-Simic Charm
 Sphinx's Revelation
 Ajani Unyielding
 Ajani Vengeant
 Arlinn Kord
 Domri Rade
+Domri, Chaos Bringer
 Dovin Baan
 Garruk, Apex Predator
+Garruk, Cursed Huntsman
 Kiora, the Crashing Wave
-Kiora, Master of the Depths
 Nahiri, the Harbinger
 Narset Transcendent
 Nicol Bolas, God-Pharaoh
 Nicol Bolas, Planeswalker
 Nissa, Steward of Elements
+Oko, Thief of Crowns
 Ral Zarek
 Sarkhan the Mad
 Sarkhan Unbroken
@@ -81,12 +81,12 @@ Sorin, Lord of Innistrad
 Sorin, Solemn Visitor
 Tamiyo, Field Researcher
 Teferi, Hero of Dominaria
+The Royal Scions
 Venser, the Sojourner
 Vona, Butcher of Magan
 Vraska, Golgari Queen
 Vraska, Relic Seeker
 Xenagos, the Reveler
-Xenagos, God of Revels
 Blightning
 Cruel Ultimatum
 Dreadbore
