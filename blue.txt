@@ -54,7 +54,6 @@ Wharf Infiltrator
 Control Magic
 Future Sight
 Imprisoned in the Moon
-Persuasion
 Search for Azcanta
 Treachery
 Volition Reins
@@ -85,6 +84,7 @@ Jace, Architect of Thought
 Jace Beleren
 Jace, the Mind Sculptor
 Jace, Unraveler of Secrets
+Narset, Parter of Veils
 Tamiyo, the Moon Sage
 Ancestral Vision
 Bribery

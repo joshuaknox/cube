@@ -17,6 +17,7 @@ Elusive Tormentor
 Erebos, God of the Dead
 Geth, Lord of the Vault
 Gonti, Lord of Luxury
+God-Eternal Bontu
 Grave Titan
 Graveborn Muse
 Graveyard Marshal
@@ -24,7 +25,6 @@ Griselbrand
 Guul Draz Assassin
 Hypnotic Specter
 Isareth the Awakener
-Josu Vess, Lich Knight
 Kalitas, Traitor of Ghet
 Liliana, Heretical Healer
 Magus of the Abyss
@@ -47,7 +47,6 @@ Silumgar Assassin
 Skinrender
 Tasigur, the Golden Fang
 Tetzimoc, Primal Death
-Twilight Prophet
 Vampire Hexmage
 Vampire Nighthawk
 Animate Dead
@@ -71,6 +70,7 @@ Ultimate Price
 Vampiric Tutor
 Vraska's Contempt
 Liliana, Death's Majesty
+Liliana, Dreadhorde General
 Liliana Vess
 Liliana of the Veil
 Liliana, the Last Hope

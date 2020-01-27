@@ -69,6 +69,7 @@ Garruk, Cursed Huntsman
 Kiora, the Crashing Wave
 Nahiri, the Harbinger
 Narset Transcendent
+Nicol Bolas, Dragon-God
 Nicol Bolas, God-Pharaoh
 Nicol Bolas, Planeswalker
 Nissa, Steward of Elements
@@ -87,7 +88,6 @@ Vona, Butcher of Magan
 Vraska, Golgari Queen
 Vraska, Relic Seeker
 Xenagos, the Reveler
-Blightning
 Cruel Ultimatum
 Dreadbore
 Gaze of Granite

@@ -32,6 +32,7 @@ Hanweir Garrison
 Heart-Piercer Manticore
 Hellrider
 Hero of Oxid Ridge
+Ilharg, the Raze-Boar
 Inferno Titan
 Instigator Gang
 Ire Shaman
@@ -92,7 +93,6 @@ Firebolt
 Flames of the Firebrand
 Gamble
 Hammer of Bogardan
-Hour of Devastation
 Hordeling Outburst
 Mizzium Mortars
 Nahiri's Wrath

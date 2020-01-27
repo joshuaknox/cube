@@ -2,7 +2,6 @@ Spear of Heliod
 Cataclysmic Gearhulk
 Accorder Paladin
 Adorned Pouncer
-Anafenza, Kin-Tree Spirit
 Angel of Condemnation
 Angel of Invention
 Angel of Sanctions
@@ -25,6 +24,7 @@ Flickerwisp
 Geist-Honored Monk
 Giant Killer
 Gisela, the Broken Blade
+God-Eternal Oketra
 Heliod, God of the Sun
 Herald of Anafenza
 Hero of Bladehold
@@ -60,7 +60,6 @@ Thalia, Guardian of Thraben
 Thalia, Heretic Cathar
 Weathered Wayfarer
 Whipcorder
-Windborn Muse
 Banishing Light
 Conclave Tribunal
 History of Benalia
@@ -83,6 +82,7 @@ Elspeth, Knight-Errant
 Elspeth, Sun's Champion
 Elspeth Tirel
 Gideon, Ally of Zendikar
+Gideon Blackblade
 Gideon of the Trials
 Gideon Jura
 Armageddon
