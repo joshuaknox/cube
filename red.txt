@@ -71,9 +71,9 @@ Beacon of Destruction
 Brimstone Volley
 Burst Lightning
 Comet Storm
-Flame Javelin
 Lightning Bolt
 Searing Spear
+Slaying Fire
 Staggershock
 Stoke the Flames
 Through the Breach
