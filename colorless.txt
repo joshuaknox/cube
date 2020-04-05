@@ -1,5 +1,6 @@
 Azorius Signet
 Basilisk Collar
+Bag of Holding
 Batterskull
 Black Lotus
 Boros Signet
@@ -84,7 +85,6 @@ Platinum Angel
 Silver Myr
 Solemn Simulacrum
 Steel Hellkite
-Triskelion
 Walking Ballista
 Weatherlight
 Worn Powerstone

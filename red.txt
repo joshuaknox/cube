@@ -1,6 +1,8 @@
 Combustible Gearhulk
+Embercleave
 Abbot of Keral Keep
 Akoum Stonewaker
+Ana, Hardened in the Forge
 Arms Dealer
 Ashcloud Phoenix
 Bonecrusher Giant
@@ -21,10 +23,8 @@ Flametongue Kavu
 Furystoke Giant
 Ghirapur Gearcrafter
 Glorybringer
-Goblin Chainwhirler
 Goblin Chieftain
 Goblin Cratermaker
-Goblin Dark-Dwellers
 Goblin Rabblemaster
 Goblin Wardriver
 Grim Lavamancer
@@ -49,8 +49,8 @@ Pia Nalaar
 Pia and Kiran Nalaar
 Prophetic Flamespeaker
 Purphoros, God of the Forge
-Rakka Mar
 Rekindling Phoenix
+Robber of the Rich
 Siege-Gang Commander
 Sin Prodder
 Skarrgan Hellkite
@@ -58,14 +58,13 @@ Skinbrand Goblin
 Spikeshot Elder
 Stormbreath Dragon
 Stromkirk Occultist
+Tectonic Giant
 Thundermaw Hellkite
 Tilonalli's Summoner
 Verix Bladewing
 Voracious Dragon
-Wrecking Ogre
 Young Pyromancer
 Zealous Conscripts
-Experimental Frenzy
 Abrade
 Beacon of Destruction
 Brimstone Volley
@@ -79,6 +78,7 @@ Stoke the Flames
 Through the Breach
 Thunderous Wrath
 Word of Seizing
+Chandra, Acolyte of Flame
 Chandra Nalaar
 Chandra, Pyromaster
 Chandra, Torch of Defiance

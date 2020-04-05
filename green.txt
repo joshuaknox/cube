@@ -1,9 +1,11 @@
+The Great Henge
 Verdurous Gearhulk
 Acidic Slime
 Ainok Survivalist
 Ant Queen
 Arbor Elf
 Avenger of Zendikar
+Beanstalk Giant
 Beast Whisperer
 Birds of Paradise
 Brooding Saurian
@@ -35,7 +37,7 @@ Lotus Cobra
 Master of the Wild Hunt
 Noble Hierarch
 Nissa, Vastwood Seer
-Nylea, God of the Hunt
+Nylea, Keen-Eyed
 Obstinate Baloth
 Ohran Viper
 Oracle of Mul Daya
@@ -63,7 +65,6 @@ Vizier of the Menagerie
 Whisperwood Elemental
 Wickerbough Elder
 Woodfall Primus
-Worldspine Wurm
 Yavimaya Elder
 Doubling Season
 Exploration
@@ -86,7 +87,6 @@ Explore
 Farseek
 Finale of Devastation
 Genesis Wave
-Growth Spasm
 Harmonize
 Kodama's Reach
 Natural Order

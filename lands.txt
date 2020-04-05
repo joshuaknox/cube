@@ -9,6 +9,7 @@ Boros Garrison
 Breeding Pool
 Cascade Bluffs
 Celestial Colonnade
+City of Brass
 Clifftop Retreat
 Creeping Tar Pit
 Crumbling Necropolis
@@ -41,7 +42,6 @@ Mishra's Factory
 Misty Rainforest
 Mystic Gate
 Mystic Monastery
-Mystifying Maze
 Mutavault
 Needle Spires
 Nomad Outpost

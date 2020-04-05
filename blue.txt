@@ -27,8 +27,8 @@ Man-o'-War
 Master Transmuter
 Mist Raven
 Mulldrifter
+Nadir Kraken
 Nibilis of Frost
-Pearl Lake Ancient
 Phantasmal Image
 Riftwing Cloudskate
 Sakashima the Impostor
@@ -54,7 +54,7 @@ Wharf Infiltrator
 Control Magic
 Future Sight
 Imprisoned in the Moon
-Search for Azcanta
+Kiora Bests the Sea God
 Treachery
 Volition Reins
 Ancestral Recall

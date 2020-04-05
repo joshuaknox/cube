@@ -1,23 +1,24 @@
 Angel of Despair
 Armada Wurm
-Ashiok, Nightmare Weaver
+Ashiok, Nightmare Muse
+Atris, Oracle of Half-Truths
 Aurelia, Exemplar of Justice
 Azor, the Lawbringer
 Boros Reckoner
 Broodmate Dragon
 Dragonlord Atarka
-Dragonlord Ojutai
 Dragonlord Silumgar
+Dream Trawler
 Evil Twin
 Figure of Destiny
 Firemane Avenger
 Ghor-Clan Rampager
-Grim Flayer
 Hellkite Overlord
 Hostage Taker
 Hydroid Krasis
 Jhoira of the Ghitu
 Kolaghan, the Storm's Fury
+Kroxa, Titan of Death's Hunger
 Narset, Enlightened Master
 Niv-Mizzet, Dracogenius
 Niv-Mizzet, the Firemind
@@ -25,18 +26,19 @@ Obzedat, Ghost Council
 Olivia Voldaren
 Omnath, Locus of Rage
 Oona, Queen of the Fae
+Polukranos, Unchained
 Prime Speaker Zegana
 Progenitor Mimic
 Qasali Pridemage
 Rashmi, Eternities Crafter
 Shadowmage Infiltrator
 Siege Rhino
-Spell Queller
 The Locust God
 The Scarab God
 Thief of Sanity
 Trostani, Selesnya's Voice
 Ulrich of the Krallenhorde
+Uro, Titan of Nature's Wrath
 Vitu-Ghazi Guildmage
 Zacama, Primal Calamity
 Assemble the Legion
@@ -54,7 +56,6 @@ Kolaghan's Command
 Lightning Helix
 March of the Multitudes
 Mystic Genesis
-Ojutai's Command
 Putrefy
 Selesnya Charm
 Sphinx's Revelation
@@ -72,7 +73,6 @@ Narset Transcendent
 Nicol Bolas, Dragon-God
 Nicol Bolas, God-Pharaoh
 Nicol Bolas, Planeswalker
-Nissa, Steward of Elements
 Oko, Thief of Crowns
 Ral Zarek
 Sarkhan the Mad
