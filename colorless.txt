@@ -14,6 +14,7 @@ Cultivator's Caravan
 Cursed Scroll
 Darksteel Axe
 Dimir Signet
+Eldrazi Monument
 Everflowing Chalice
 Fire Diamond
 Gilded Lotus
@@ -28,6 +29,7 @@ Icy Manipulator
 Izzet Signet
 Loxodon Warhammer
 Lux Cannon
+Mana Crypt
 Mana Vault
 Marble Diamond
 Memory Jar
@@ -90,8 +92,6 @@ Weatherlight
 Worn Powerstone
 Wurmcoil Engine
 Kozilek, Butcher of Truth
-Kozilek, the Great Distortion
-Ulamog, the Ceaseless Hunger
 Ulamog, the Infinite Gyre
 Karn, Scion of Urza
 Karn Liberated
