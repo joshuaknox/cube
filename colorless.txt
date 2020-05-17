@@ -27,7 +27,6 @@ Hangarback Walker
 Hedron Archive
 Icy Manipulator
 Izzet Signet
-Loxodon Warhammer
 Lux Cannon
 Mana Crypt
 Mana Vault
@@ -52,6 +51,7 @@ Ratchet Bomb
 Scroll Rack
 Selesnya Signet
 Sensei's Divining Top
+Shadowspear
 Simic Signet
 Sky Diamond
 Skysovereign, Consul Flagship
