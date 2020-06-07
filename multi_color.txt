@@ -63,7 +63,6 @@ Ajani Vengeant
 Arlinn Kord
 Domri Rade
 Domri, Chaos Bringer
-Dovin Baan
 Garruk, Apex Predator
 Garruk, Cursed Huntsman
 Kiora, the Crashing Wave
@@ -81,6 +80,7 @@ Sorin, Lord of Innistrad
 Sorin, Solemn Visitor
 Tamiyo, Field Researcher
 Teferi, Hero of Dominaria
+Teferi, Time Raveler
 The Royal Scions
 Venser, the Sojourner
 Vona, Butcher of Magan

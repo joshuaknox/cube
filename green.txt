@@ -28,7 +28,6 @@ Greenwarden of Murasa
 Gyre Sage
 Imperious Perfect
 Jadelight Ranger
-Jade Mage
 Joraga Treespeaker
 Kogla, the Titan Ape
 Krosan Tusker
@@ -82,6 +81,7 @@ Nissa, Vital Force
 Nissa, Who Shakes the World
 Nissa, Worldwaker
 Vivien Reid
+Vivien, Monster's Advocate
 Bramblecrush
 Cultivate
 Explore
