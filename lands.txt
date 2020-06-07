@@ -22,7 +22,6 @@ Fetid Heath
 Fire-Lit Thicket
 Flooded Grove
 Flooded Strand
-Frontier Bivouac
 Glacial Fortress
 Godless Shrine
 Golgari Rot Farm
@@ -31,9 +30,11 @@ Gruul Turf
 Hallowed Fountain
 Hinterland Harbor
 Hissing Quagmire
+Indatha Triome
 Isolated Chapel
 Izzet Boilerworks
 Jungle Shrine
+Ketria Triome
 Lavaclaw Reaches
 Library of Alexandria
 Lumbering Falls
@@ -41,22 +42,20 @@ Marsh Flats
 Mishra's Factory
 Misty Rainforest
 Mystic Gate
-Mystic Monastery
 Mutavault
 Needle Spires
-Nomad Outpost
-Opulent Palace
 Orzhov Basilica
 Overgrown Tomb
 Plateau
 Polluted Delta
 Raging Ravine
 Rakdos Carnarium
+Raugrin Triome
 Reflecting Pool
 Rootbound Crag
 Rugged Prairie
 Sacred Foundry
-Sandsteppe Citadel
+Savai Triome
 Savage Lands
 Savannah
 Scalding Tarn
@@ -98,3 +97,4 @@ Windswept Heath
 Wooded Bastion
 Wooded Foothills
 Woodland Cemetery
+Zagoth Triome

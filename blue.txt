@@ -40,9 +40,7 @@ Sphinx of Foresight
 Sphinx of Lost Truths
 Sphinx of Uthuun
 Stratus Dancer
-Talrand, Sky Summoner
 Thassa, God of the Sea
-Thing in the Ice
 Thousand Winds
 Torrential Gearhulk
 Vendilion Clique
@@ -50,11 +48,13 @@ Venser, Shaper Savant
 Vesuvan Shapeshifter
 Vizier of Many Faces
 Voidmage Prodigy
+Voracious Greatshark
 Wharf Infiltrator
 Control Magic
 Future Sight
 Imprisoned in the Moon
 Kiora Bests the Sea God
+Shark Typhoon
 Treachery
 Volition Reins
 Ancestral Recall

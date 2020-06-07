@@ -11,7 +11,6 @@ Birds of Paradise
 Brooding Saurian
 Chameleon Colossus
 Civic Wayfinder
-Conclave Naturalists
 Courser of Kruphix
 Deadbridge Goliath
 Deathcap Cultivator
@@ -31,6 +30,7 @@ Imperious Perfect
 Jadelight Ranger
 Jade Mage
 Joraga Treespeaker
+Kogla, the Titan Ape
 Krosan Tusker
 Llanowar Elves
 Lotus Cobra
@@ -79,6 +79,7 @@ Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
 Nissa, Vital Force
+Nissa, Who Shakes the World
 Nissa, Worldwaker
 Vivien Reid
 Bramblecrush
@@ -96,5 +97,4 @@ Regrowth
 Search for Tomorrow
 Seasons Past
 Shamanic Revelation
-Sylvan Scrying
 Tooth and Nail

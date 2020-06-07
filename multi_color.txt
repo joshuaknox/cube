@@ -19,7 +19,6 @@ Hydroid Krasis
 Jhoira of the Ghitu
 Kolaghan, the Storm's Fury
 Kroxa, Titan of Death's Hunger
-Narset, Enlightened Master
 Niv-Mizzet, Dracogenius
 Niv-Mizzet, the Firemind
 Obzedat, Ghost Council
@@ -91,6 +90,7 @@ Xenagos, the Reveler
 Cruel Ultimatum
 Dreadbore
 Gaze of Granite
+Inspired Ultimatum
 Maelstrom Pulse
 Obzedat's Aid
 Rakdos's Return
