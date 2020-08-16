@@ -1,6 +1,7 @@
 Aether Adept
 Aetherling
 Azure Mage
+Barrin, Tolarian Archmage
 Brazen Borrower
 Champion of Wits
 Clever Impersonator
@@ -23,7 +24,6 @@ Icefall Regent
 Keiga, the Tide Star
 Kheru Spellsnatcher
 Looter il-Kor
-Man-o'-War
 Master Transmuter
 Mist Raven
 Mulldrifter
@@ -78,19 +78,19 @@ Remand
 Remove Soul
 Scatter to the Winds
 Sinister Sabotage
+Sublime Epiphany
 Supreme Will
-Time Stop
 Jace, Architect of Thought
 Jace Beleren
 Jace, the Mind Sculptor
 Jace, Unraveler of Secrets
 Narset, Parter of Veils
 Tamiyo, the Moon Sage
+Teferi, Master of Time
 Ancestral Vision
 Bribery
 Compulsive Research
 Crush of Tentacles
-Deep Analysis
 Ponder
 Preordain
 Temporal Mastery

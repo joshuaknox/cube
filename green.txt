@@ -17,15 +17,16 @@ Deathcap Cultivator
 Den Protector
 Duskwatch Recruiter
 Eternal Witness
+Elder Gargaroth
 Elvish Mystic
 Elvish Piper
 Farhaven Elf
 Fauna Shaman
+Garruk's Harbinger
 Garruk's Packleader
 Genesis Hydra
 God-Eternal Rhonas
 Greenwarden of Murasa
-Gyre Sage
 Imperious Perfect
 Jadelight Ranger
 Joraga Treespeaker
@@ -37,7 +38,6 @@ Master of the Wild Hunt
 Noble Hierarch
 Nissa, Vastwood Seer
 Nylea, Keen-Eyed
-Obstinate Baloth
 Ohran Viper
 Oracle of Mul Daya
 Pelakka Wurm
