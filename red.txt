@@ -19,13 +19,13 @@ Fire Imp
 Flameblast Dragon
 Flamerush Rider
 Flametongue Kavu
-Furystoke Giant
 Ghirapur Gearcrafter
 Glorybringer
 Goblin Chieftain
 Goblin Cratermaker
 Goblin Rabblemaster
 Goblin Wardriver
+Goldspan Dragon
 Grim Lavamancer
 Hanweir Garrison
 Heart-Piercer Manticore
@@ -41,6 +41,7 @@ Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
 Legion Warboss
+Leyline Tyrant
 Magus of the Scroll
 Mardu Scout
 Ogre Battledriver
@@ -61,6 +62,7 @@ Tectonic Giant
 Terror of the Peaks
 Thundermaw Hellkite
 Tilonalli's Summoner
+Toralf, God of Fury
 Verix Bladewing
 Voracious Dragon
 Young Pyromancer
@@ -77,7 +79,6 @@ Staggershock
 Stoke the Flames
 Through the Breach
 Thunderous Wrath
-Word of Seizing
 Chandra, Acolyte of Flame
 Chandra Nalaar
 Chandra, Pyromaster
@@ -92,7 +93,6 @@ Fight with Fire
 Firebolt
 Flames of the Firebrand
 Gamble
-Hammer of Bogardan
 Hordeling Outburst
 Mizzium Mortars
 Nahiri's Wrath

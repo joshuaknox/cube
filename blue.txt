@@ -18,7 +18,6 @@ Frost Titan
 Gadwick, the Wizened
 God-Eternal Kefnet
 Guardian of Tazeem
-Harbinger of the Tides
 Jace, Vryn's Prodigy
 Icefall Regent
 Keiga, the Tide Star
@@ -41,6 +40,7 @@ Sphinx of Lost Truths
 Sphinx of Uthuun
 Stratus Dancer
 Thassa, God of the Sea
+Thieving Skydiver
 Thousand Winds
 Torrential Gearhulk
 Vendilion Clique
@@ -71,9 +71,8 @@ Exclude
 Fact or Fiction
 Force of Will
 Gifts Ungiven
-Impulse
 Mana Drain
-Mana Leak
+Memory Lapse
 Remand
 Remove Soul
 Scatter to the Winds
@@ -91,6 +90,7 @@ Ancestral Vision
 Bribery
 Compulsive Research
 Crush of Tentacles
+Multiple Choice
 Ponder
 Preordain
 Temporal Mastery

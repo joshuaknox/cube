@@ -17,6 +17,7 @@ Dimir Aqueduct
 Dragonskull Summit
 Drowned Catacomb
 Dust Bowl
+Evolving Wilds
 Fabled Passage
 Fetid Heath
 Fire-Lit Thicket
@@ -92,7 +93,6 @@ Verdant Catacombs
 Volcanic Island
 Watery Grave
 Wandering Fumarole
-Westvale Abbey
 Windswept Heath
 Wooded Bastion
 Wooded Foothills

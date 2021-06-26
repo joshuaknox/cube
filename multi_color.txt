@@ -18,6 +18,7 @@ Hostage Taker
 Hydroid Krasis
 Jhoira of the Ghitu
 Kolaghan, the Storm's Fury
+Koma, Cosmos Serpent
 Kroxa, Titan of Death's Hunger
 Niv-Mizzet, Dracogenius
 Niv-Mizzet, the Firemind
@@ -41,7 +42,6 @@ Uro, Titan of Nature's Wrath
 Vitu-Ghazi Guildmage
 Zacama, Primal Calamity
 Assemble the Legion
-Bounty of the Luxa
 Detention Sphere
 Glare of Subdual
 Mardu Ascendancy
@@ -49,10 +49,10 @@ Anguished Unmaking
 Assassin's Trophy
 Aurelia's Fury
 Dromoka's Command
-Expansion // Explosion
 Izzet Charm
 Kolaghan's Command
 Lightning Helix
+Magma Opus
 March of the Multitudes
 Mystic Genesis
 Putrefy
@@ -65,6 +65,7 @@ Domri Rade
 Domri, Chaos Bringer
 Garruk, Apex Predator
 Garruk, Cursed Huntsman
+Kaya, the Inexorable
 Kiora, the Crashing Wave
 Nahiri, the Harbinger
 Narset Transcendent
@@ -77,7 +78,6 @@ Sarkhan the Mad
 Sarkhan Unbroken
 Sorin, Grim Nemesis
 Sorin, Lord of Innistrad
-Sorin, Solemn Visitor
 Tamiyo, Field Researcher
 Teferi, Hero of Dominaria
 Teferi, Time Raveler

@@ -76,7 +76,6 @@ Seal Away
 Condemn
 Enlightened Tutor
 Path to Exile
-Secure the Wastes
 Swords to Plowshares
 Ajani Goldmane
 Elspeth, Knight-Errant
@@ -92,9 +91,10 @@ Collective Effort
 Day of Judgment
 Declaration in Stone
 Descend upon the Sinful
+Doomskar
 Fumigate
 Increasing Devotion
 Planar Outburst
+Starnheim Unleashed
 Terminus
-Tragic Arrogance
 Wrath of God

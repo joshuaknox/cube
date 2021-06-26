@@ -5,6 +5,7 @@ Ainok Survivalist
 Ant Queen
 Arbor Elf
 Avenger of Zendikar
+Battle Mammoth
 Beanstalk Giant
 Beast Whisperer
 Birds of Paradise
@@ -12,7 +13,6 @@ Brooding Saurian
 Chameleon Colossus
 Civic Wayfinder
 Courser of Kruphix
-Deadbridge Goliath
 Deathcap Cultivator
 Den Protector
 Duskwatch Recruiter
