@@ -17,6 +17,7 @@ Bygone Bishop
 Cloudgoat Ranger
 Dawnglare Invoker
 Eight-and-a-Half-Tails
+Elite Spellbinder
 Emeria Angel
 Exalted Angel
 Fiend Hunter
@@ -25,31 +26,30 @@ Geist-Honored Monk
 Giant Killer
 Gisela, the Broken Blade
 God-Eternal Oketra
+Halvar, God of Battle
 Heliod, God of the Sun
 Herald of Anafenza
 Hero of Bladehold
 Hidden Dragonslayer
+Icingdeath, Frost Tyrant
 Knight of the White Orchid
 Kytheon, Hero of Akros
-Kytheon's Irregulars
 Leonin Relic-Warder
 Leonin Warleader
+Loyal Warhound
 Lyra Dawnbringer
-Mangara of Corondor
-Master of Pearls
 Mikaeus, the Lunarch
 Monastery Mentor
 Mother of Runes
 Precinct Captain
+Priest of Ancient Lore
 Ranger of Eos
 Realm-Cloaked Giant
 Resplendent Angel
 Restoration Angel
 Reveillark
-Ronom Unicorn
 Selfless Spirit
 Solemn Recruit
-Steward of Solidarity
 Stoneforge Mystic
 Student of Warfare
 Sublime Archangel
@@ -58,7 +58,7 @@ Sunblast Angel
 Sun Titan
 Taranika, Akroan Veteran
 Thalia, Guardian of Thraben
-Thalia, Heretic Cathar
+Usher of the Fallen
 Weathered Wayfarer
 Whipcorder
 Banishing Light

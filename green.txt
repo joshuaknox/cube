@@ -18,8 +18,8 @@ Den Protector
 Duskwatch Recruiter
 Eternal Witness
 Elder Gargaroth
-Elvish Mystic
 Elvish Piper
+Esika, God of the Tree
 Farhaven Elf
 Fauna Shaman
 Garruk's Harbinger
@@ -48,10 +48,10 @@ Rampaging Baloths
 Rattleclaw Mystic
 Reclamation Sage
 Resilient Khenra
+Rofellos, Llanowar Emissary
 Sakura-Tribe Elder
 Scavenging Ooze
 Shaman of Forgotten Ways
-Sylvan Ranger
 Sylvan Caryatid
 Tendershoot Dryad
 Terastodon
@@ -59,15 +59,16 @@ Thragtusk
 Thrashing Brontodon
 Thrun, the Last Troll
 Tireless Tracker
+Varis, Silverymoon Ranger
 Vengevine
 Vizier of the Menagerie
+Vorinclex, Monstrous Raider
 Whisperwood Elemental
 Wickerbough Elder
 Woodfall Primus
 Yavimaya Elder
 Doubling Season
 Exploration
-Fastbond
 Fertile Ground
 Oath of Nissa
 Primeval Bounty
@@ -87,7 +88,6 @@ Cultivate
 Explore
 Farseek
 Finale of Devastation
-Genesis Wave
 Harmonize
 Kodama's Reach
 Natural Order

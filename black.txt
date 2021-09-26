@@ -15,7 +15,8 @@ Drana, Kalastria Bloodchief
 Drana, the Last Bloodchief
 Dreamstealer
 Elusive Tormentor
-Erebos, God of the Dead
+Eradicator Valkyrie
+Gelatinous Cube
 Geth, Lord of the Vault
 Gonti, Lord of Luxury
 God-Eternal Bontu
@@ -39,7 +40,6 @@ Pack Rat
 Puppeteer Clique
 Rankle, Master of Pranks
 Ravenous Chupacabra
-Royal Assassin
 Ruin Raider
 Rune-Scarred Demon
 Sheoldred, Whispering One
@@ -48,8 +48,10 @@ Sidisi, Undead Vizier
 Silumgar Assassin
 Skinrender
 Tasigur, the Golden Fang
+Tergrid, God of Fright
 Tetzimoc, Primal Death
 Valki, God of Lies
+Varragoth, Bloodsky Sire
 Vampire Nighthawk
 Animate Dead
 Bitterblossom
@@ -58,7 +60,6 @@ Necromancy
 Phyrexian Arena
 Recurring Nightmare
 The Eldest Reborn
-Underworld Connections
 Cast Down
 Doom Blade
 Entomb
@@ -74,12 +75,12 @@ Liliana, Death's Majesty
 Liliana, Dreadhorde General
 Liliana Vess
 Liliana of the Veil
-Liliana, the Last Hope
+Lolth, Spider Queen
 Ob Nixilis Reignited
+Professor Onyx
 Sorin Markov
 Beacon of Unrest
 Black Sun's Zenith
-Consuming Vapors
 Crux of Fate
 Damnation
 Demonic Tutor
@@ -94,7 +95,6 @@ Profane Command
 Read the Bones
 Reanimate
 Ruinous Path
-Sever the Bloodline
 Sign in Blood
 Unburial Rites
 Yawgmoth's Will

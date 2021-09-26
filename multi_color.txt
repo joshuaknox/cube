@@ -40,6 +40,7 @@ Trostani, Selesnya's Voice
 Ulrich of the Krallenhorde
 Uro, Titan of Nature's Wrath
 Vitu-Ghazi Guildmage
+Volo, Guide to Monsters
 Zacama, Primal Calamity
 Assemble the Legion
 Detention Sphere
@@ -49,6 +50,7 @@ Anguished Unmaking
 Assassin's Trophy
 Aurelia's Fury
 Dromoka's Command
+Growth Spiral
 Izzet Charm
 Kolaghan's Command
 Lightning Helix
@@ -66,7 +68,6 @@ Domri, Chaos Bringer
 Garruk, Apex Predator
 Garruk, Cursed Huntsman
 Kaya, the Inexorable
-Kiora, the Crashing Wave
 Nahiri, the Harbinger
 Narset Transcendent
 Nicol Bolas, Dragon-God
@@ -95,6 +96,5 @@ Maelstrom Pulse
 Obzedat's Aid
 Rakdos's Return
 Supreme Verdict
-Urban Evolution
 Vindicate
 Villainous Wealth

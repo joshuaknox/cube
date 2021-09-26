@@ -1,16 +1,17 @@
 Combustible Gearhulk
 Embercleave
 Abbot of Keral Keep
-Akoum Stonewaker
 Anax, Hardened in the Forge
 Arms Dealer
 Ashcloud Phoenix
+Battle Cry Goblin
+Birgi, God of Storytelling
 Bonecrusher Giant
-Breakneck Rider
 Chandra, Fire of Kaladesh
 Chandra's Phoenix
 Dire Fleet Daredevil
 Dismissive Pyromancer
+Dragonkin Berserker
 Dragon Whisperer
 Earthshaker Khenra
 Ember Hauler
@@ -33,7 +34,6 @@ Hellrider
 Hero of Oxid Ridge
 Ilharg, the Raze-Boar
 Inferno Titan
-Instigator Gang
 Ire Shaman
 Jaya Ballard, Task Mage
 Jeering Instigator
@@ -61,7 +61,6 @@ Stromkirk Occultist
 Tectonic Giant
 Terror of the Peaks
 Thundermaw Hellkite
-Tilonalli's Summoner
 Toralf, God of Fury
 Verix Bladewing
 Voracious Dragon
@@ -85,11 +84,11 @@ Chandra, Pyromaster
 Chandra, Torch of Defiance
 Koth of the Hammer
 Sarkhan, the Dragonspeaker
+Zariel, Archduke of Avernus
 Chain Lightning
 Collective Defiance
 Devil's Play
 Exquisite Firecraft
-Fight with Fire
 Firebolt
 Flames of the Firebrand
 Gamble
@@ -98,3 +97,4 @@ Mizzium Mortars
 Nahiri's Wrath
 Red Sun's Zenith
 Rift Bolt
+Roil Eruption

@@ -1,5 +1,6 @@
 Aether Adept
 Aetherling
+Alrund, God of the Cosmos
 Azure Mage
 Barrin, Tolarian Archmage
 Brazen Borrower
@@ -17,13 +18,15 @@ Exclusion Mage
 Frost Titan
 Gadwick, the Wizened
 God-Eternal Kefnet
-Guardian of Tazeem
+Grazilaxx, Illithid Scholar
+Iymrith, Desert Doom
 Jace, Vryn's Prodigy
 Icefall Regent
 Keiga, the Tide Star
 Kheru Spellsnatcher
 Looter il-Kor
 Master Transmuter
+Mind Flayer
 Mist Raven
 Mulldrifter
 Nadir Kraken
@@ -31,12 +34,9 @@ Nibilis of Frost
 Phantasmal Image
 Riftwing Cloudskate
 Sakashima the Impostor
-Sea Gate Oracle
-Simic Manipulator
 Snapcaster Mage
 Sower of Temptation
 Sphinx of Foresight
-Sphinx of Lost Truths
 Sphinx of Uthuun
 Stratus Dancer
 Thassa, God of the Sea
@@ -72,20 +72,21 @@ Fact or Fiction
 Force of Will
 Gifts Ungiven
 Mana Drain
+Memory Deluge
 Memory Lapse
 Remand
 Remove Soul
-Scatter to the Winds
 Sinister Sabotage
 Sublime Epiphany
 Supreme Will
-Jace, Architect of Thought
+Mordenkainen
 Jace Beleren
 Jace, the Mind Sculptor
 Jace, Unraveler of Secrets
 Narset, Parter of Veils
 Tamiyo, the Moon Sage
 Teferi, Master of Time
+Alrund's Epiphany
 Ancestral Vision
 Bribery
 Compulsive Research
@@ -97,4 +98,3 @@ Temporal Mastery
 Time Walk
 Time Warp
 Treasure Cruise
-Ugin's Insight
