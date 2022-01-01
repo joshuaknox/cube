@@ -1,9 +1,8 @@
 The Great Henge
 Verdurous Gearhulk
 Acidic Slime
-Ainok Survivalist
-Ant Queen
 Arbor Elf
+Augur of Autumn
 Avenger of Zendikar
 Battle Mammoth
 Beanstalk Giant
@@ -18,7 +17,6 @@ Den Protector
 Duskwatch Recruiter
 Eternal Witness
 Elder Gargaroth
-Elvish Piper
 Esika, God of the Tree
 Farhaven Elf
 Fauna Shaman
@@ -39,9 +37,11 @@ Noble Hierarch
 Nissa, Vastwood Seer
 Nylea, Keen-Eyed
 Ohran Viper
+Outland Liberator
 Oracle of Mul Daya
 Pelakka Wurm
 Polukranos, World Eater
+Primal Adversary
 Primeval Titan
 Questing Beast
 Rampaging Baloths
@@ -53,17 +53,16 @@ Sakura-Tribe Elder
 Scavenging Ooze
 Shaman of Forgotten Ways
 Sylvan Caryatid
-Tendershoot Dryad
 Terastodon
 Thragtusk
 Thrashing Brontodon
 Thrun, the Last Troll
 Tireless Tracker
+Tovolar's Huntmaster
 Varis, Silverymoon Ranger
 Vengevine
 Vizier of the Menagerie
 Vorinclex, Monstrous Raider
-Whisperwood Elemental
 Wickerbough Elder
 Woodfall Primus
 Yavimaya Elder
@@ -72,17 +71,18 @@ Exploration
 Fertile Ground
 Oath of Nissa
 Primeval Bounty
+Ranger Class
 Survival of the Fittest
 Chord of Calling
 Garruk, Caller of Beasts
 Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
-Nissa, Vital Force
 Nissa, Who Shakes the World
 Nissa, Worldwaker
 Vivien Reid
 Vivien, Monster's Advocate
+Wrenn and Seven
 Bramblecrush
 Cultivate
 Explore

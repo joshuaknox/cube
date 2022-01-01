@@ -18,6 +18,7 @@ Elusive Tormentor
 Eradicator Valkyrie
 Gelatinous Cube
 Geth, Lord of the Vault
+Gisa, Glorious Resurrector
 Gonti, Lord of Luxury
 God-Eternal Bontu
 Grave Titan
@@ -34,7 +35,6 @@ Massacre Wurm
 Midnight Reaper
 Murderous Rider
 Nekrataal
-Nezumi Graverobber
 Nullpriest of Oblivion
 Pack Rat
 Puppeteer Clique
@@ -47,7 +47,7 @@ Shriekmaw
 Sidisi, Undead Vizier
 Silumgar Assassin
 Skinrender
-Tasigur, the Golden Fang
+Tainted Adversary
 Tergrid, God of Fright
 Tetzimoc, Primal Death
 Valki, God of Lies
@@ -65,7 +65,7 @@ Doom Blade
 Entomb
 Go for the Throat
 Hero's Downfall
-Murderous Cut
+Infernal Grasp
 Seize the Soul
 Terror
 Ultimate Price

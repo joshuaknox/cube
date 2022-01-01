@@ -1,13 +1,10 @@
 Aether Adept
-Aetherling
 Alrund, God of the Cosmos
-Azure Mage
 Barrin, Tolarian Archmage
 Brazen Borrower
 Champion of Wits
 Clever Impersonator
 Curator of Mysteries
-Daring Saboteur
 Djinn of Wishes
 Docent of Perfection
 Draining Whelk
@@ -24,21 +21,24 @@ Jace, Vryn's Prodigy
 Icefall Regent
 Keiga, the Tide Star
 Kheru Spellsnatcher
+Lier, Disciple of the Drowned
 Looter il-Kor
-Master Transmuter
 Mind Flayer
 Mist Raven
 Mulldrifter
 Nadir Kraken
 Nibilis of Frost
 Phantasmal Image
+Poppet Stitcher
 Riftwing Cloudskate
 Sakashima the Impostor
 Snapcaster Mage
 Sower of Temptation
+Spectral Adversary
 Sphinx of Foresight
 Sphinx of Uthuun
 Stratus Dancer
+Suspicious Stowaway
 Thassa, God of the Sea
 Thieving Skydiver
 Thousand Winds

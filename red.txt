@@ -1,6 +1,7 @@
 Combustible Gearhulk
 Embercleave
 Abbot of Keral Keep
+Bloodthirsty Adversary
 Anax, Hardened in the Forge
 Arms Dealer
 Ashcloud Phoenix
@@ -43,12 +44,11 @@ Krenko, Mob Boss
 Legion Warboss
 Leyline Tyrant
 Magus of the Scroll
-Mardu Scout
 Ogre Battledriver
 Pia Nalaar
 Pia and Kiran Nalaar
-Prophetic Flamespeaker
 Purphoros, God of the Forge
+Reckless Stormseeker
 Rekindling Phoenix
 Robber of the Rich
 Siege-Gang Commander
@@ -70,15 +70,16 @@ Abrade
 Beacon of Destruction
 Brimstone Volley
 Burst Lightning
+Cathartic Pyre
 Comet Storm
 Lightning Bolt
-Searing Spear
 Slaying Fire
 Staggershock
 Stoke the Flames
 Through the Breach
 Thunderous Wrath
-Chandra, Acolyte of Flame
+Chandra, Awakened Inferno
+Chandra, Heart of Fire
 Chandra Nalaar
 Chandra, Pyromaster
 Chandra, Torch of Defiance
@@ -95,6 +96,5 @@ Gamble
 Hordeling Outburst
 Mizzium Mortars
 Nahiri's Wrath
-Red Sun's Zenith
 Rift Bolt
 Roil Eruption

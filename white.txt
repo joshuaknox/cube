@@ -1,6 +1,7 @@
 Spear of Heliod
 Cataclysmic Gearhulk
 Accorder Paladin
+Adeline, Resplendent Cathar
 Adorned Pouncer
 Angel of Condemnation
 Angel of Invention
@@ -13,6 +14,7 @@ Baneslayer Angel
 Banisher Priest
 Blade Splicer
 Brimaz, King of Oreskos
+Brutal Cathar
 Bygone Bishop
 Cloudgoat Ranger
 Dawnglare Invoker
@@ -32,7 +34,7 @@ Herald of Anafenza
 Hero of Bladehold
 Hidden Dragonslayer
 Icingdeath, Frost Tyrant
-Knight of the White Orchid
+Intrepid Adversary
 Kytheon, Hero of Akros
 Leonin Relic-Warder
 Leonin Warleader
@@ -49,7 +51,6 @@ Resplendent Angel
 Restoration Angel
 Reveillark
 Selfless Spirit
-Solemn Recruit
 Stoneforge Mystic
 Student of Warfare
 Sublime Archangel
@@ -59,7 +60,6 @@ Sun Titan
 Taranika, Akroan Veteran
 Thalia, Guardian of Thraben
 Usher of the Fallen
-Weathered Wayfarer
 Whipcorder
 Banishing Light
 Conclave Tribunal
