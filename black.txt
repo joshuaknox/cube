@@ -66,6 +66,7 @@ Entomb
 Go for the Throat
 Hero's Downfall
 Infernal Grasp
+Power Word Kill
 Seize the Soul
 Terror
 Ultimate Price
@@ -91,7 +92,6 @@ Life's Finale
 Living Death
 Never // Return
 Night's Whisper
-Profane Command
 Read the Bones
 Reanimate
 Ruinous Path
