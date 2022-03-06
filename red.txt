@@ -44,6 +44,7 @@ Krenko, Mob Boss
 Legion Warboss
 Leyline Tyrant
 Magus of the Scroll
+Manaform Hellkite
 Ogre Battledriver
 Pia Nalaar
 Pia and Kiran Nalaar
@@ -53,7 +54,6 @@ Rekindling Phoenix
 Robber of the Rich
 Siege-Gang Commander
 Sin Prodder
-Skarrgan Hellkite
 Skinbrand Goblin
 Spikeshot Elder
 Stormbreath Dragon
@@ -63,6 +63,7 @@ Terror of the Peaks
 Thundermaw Hellkite
 Toralf, God of Fury
 Verix Bladewing
+Volatile Arsonist
 Voracious Dragon
 Young Pyromancer
 Zealous Conscripts
@@ -87,7 +88,6 @@ Koth of the Hammer
 Sarkhan, the Dragonspeaker
 Zariel, Archduke of Avernus
 Chain Lightning
-Collective Defiance
 Devil's Play
 Exquisite Firecraft
 Firebolt

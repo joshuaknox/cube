@@ -8,7 +8,6 @@ Battle Mammoth
 Beanstalk Giant
 Beast Whisperer
 Birds of Paradise
-Brooding Saurian
 Chameleon Colossus
 Civic Wayfinder
 Courser of Kruphix
@@ -59,6 +58,7 @@ Thrashing Brontodon
 Thrun, the Last Troll
 Tireless Tracker
 Tovolar's Huntmaster
+Ulvenwald Oddity
 Varis, Silverymoon Ranger
 Vengevine
 Vizier of the Menagerie

@@ -16,19 +16,22 @@ Frost Titan
 Gadwick, the Wizened
 God-Eternal Kefnet
 Grazilaxx, Illithid Scholar
+Hullbreaker Horror
 Iymrith, Desert Doom
-Jace, Vryn's Prodigy
 Icefall Regent
+Jacob Hauken, Inspector
+Jace, Vryn's Prodigy
 Keiga, the Tide Star
 Kheru Spellsnatcher
 Lier, Disciple of the Drowned
 Looter il-Kor
+Malevolent Hermit
 Mind Flayer
-Mist Raven
+Mirrorhall Mimic
 Mulldrifter
 Nadir Kraken
 Nibilis of Frost
-Phantasmal Image
+Overcharged Amalgam
 Poppet Stitcher
 Riftwing Cloudskate
 Sakashima the Impostor
@@ -39,9 +42,7 @@ Sphinx of Foresight
 Sphinx of Uthuun
 Stratus Dancer
 Suspicious Stowaway
-Thassa, God of the Sea
 Thieving Skydiver
-Thousand Winds
 Torrential Gearhulk
 Vendilion Clique
 Venser, Shaper Savant
@@ -90,7 +91,6 @@ Alrund's Epiphany
 Ancestral Vision
 Bribery
 Compulsive Research
-Crush of Tentacles
 Multiple Choice
 Ponder
 Preordain

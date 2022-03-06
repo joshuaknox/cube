@@ -59,6 +59,7 @@ Diabolic Servitude
 Necromancy
 Phyrexian Arena
 Recurring Nightmare
+The Abyss
 The Eldest Reborn
 Cast Down
 Doom Blade
@@ -79,9 +80,8 @@ Liliana of the Veil
 Lolth, Spider Queen
 Ob Nixilis Reignited
 Professor Onyx
-Sorin Markov
+Sorin the Mirthless
 Beacon of Unrest
-Black Sun's Zenith
 Crux of Fate
 Damnation
 Demonic Tutor

@@ -18,7 +18,6 @@ Brutal Cathar
 Bygone Bishop
 Cloudgoat Ranger
 Dawnglare Invoker
-Eight-and-a-Half-Tails
 Elite Spellbinder
 Emeria Angel
 Exalted Angel
@@ -38,8 +37,8 @@ Intrepid Adversary
 Kytheon, Hero of Akros
 Leonin Relic-Warder
 Leonin Warleader
-Loyal Warhound
 Lyra Dawnbringer
+Mentor of the Meek
 Mikaeus, the Lunarch
 Monastery Mentor
 Mother of Runes
@@ -50,7 +49,6 @@ Realm-Cloaked Giant
 Resplendent Angel
 Restoration Angel
 Reveillark
-Selfless Spirit
 Stoneforge Mystic
 Student of Warfare
 Sublime Archangel
@@ -60,6 +58,7 @@ Sun Titan
 Taranika, Akroan Veteran
 Thalia, Guardian of Thraben
 Usher of the Fallen
+Welcoming Vampire
 Whipcorder
 Banishing Light
 Conclave Tribunal
@@ -73,6 +72,7 @@ Pacifism
 Prison Term
 Quarantine Field
 Seal Away
+Wedding Announcement
 Condemn
 Enlightened Tutor
 Path to Exile
