@@ -4,14 +4,13 @@ Abbot of Keral Keep
 Bloodthirsty Adversary
 Anax, Hardened in the Forge
 Arms Dealer
-Ashcloud Phoenix
+Atsushi, the Blazing Sky
 Battle Cry Goblin
 Birgi, God of Storytelling
 Bonecrusher Giant
 Chandra, Fire of Kaladesh
 Chandra's Phoenix
 Dire Fleet Daredevil
-Dismissive Pyromancer
 Dragonkin Berserker
 Dragon Whisperer
 Earthshaker Khenra
@@ -67,6 +66,7 @@ Volatile Arsonist
 Voracious Dragon
 Young Pyromancer
 Zealous Conscripts
+Fable of the Mirror-Breaker
 Abrade
 Beacon of Destruction
 Brimstone Volley

@@ -1,7 +1,6 @@
 Whip of Erebos
 Noxious Gearhulk
 Anowon, the Ruin Sage
-Archfiend of Depravity
 Bloodgift Demon
 Bloodline Keeper
 Braids, Cabal Minion
@@ -23,17 +22,18 @@ Gonti, Lord of Luxury
 God-Eternal Bontu
 Grave Titan
 Graveborn Muse
-Graveyard Marshal
 Griselbrand
 Guul Draz Assassin
+Hidetsugu, Devouring Chaos
 Hypnotic Specter
 Isareth the Awakener
+Junji, the Midnight Sky
 Kalitas, Traitor of Ghet
-Liliana, Heretical Healer
 Magus of the Abyss
 Massacre Wurm
 Midnight Reaper
 Murderous Rider
+Nashi, Moon Sage's Scion
 Nekrataal
 Nullpriest of Oblivion
 Pack Rat

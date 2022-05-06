@@ -1,13 +1,13 @@
 The Great Henge
 Verdurous Gearhulk
 Acidic Slime
-Arbor Elf
 Augur of Autumn
 Avenger of Zendikar
 Battle Mammoth
 Beanstalk Giant
 Beast Whisperer
 Birds of Paradise
+Blossom Prancer
 Chameleon Colossus
 Civic Wayfinder
 Courser of Kruphix
@@ -29,6 +29,7 @@ Jadelight Ranger
 Joraga Treespeaker
 Kogla, the Titan Ape
 Krosan Tusker
+Kura, the Boundless Sky
 Llanowar Elves
 Lotus Cobra
 Master of the Wild Hunt
@@ -69,6 +70,7 @@ Yavimaya Elder
 Doubling Season
 Exploration
 Fertile Ground
+Jugan Defends the Temple
 Oath of Nissa
 Primeval Bounty
 Ranger Class
@@ -96,5 +98,3 @@ Rampant Growth
 Regrowth
 Search for Tomorrow
 Seasons Past
-Shamanic Revelation
-Tooth and Nail

@@ -7,9 +7,9 @@ Angel of Condemnation
 Angel of Invention
 Angel of Sanctions
 Angel of Serenity
+Ao, the Dawn Sky
 Archangel Avacyn
 Archangel of Thune
-Azorius Arrester
 Baneslayer Angel
 Banisher Priest
 Blade Splicer
@@ -17,7 +17,6 @@ Brimaz, King of Oreskos
 Brutal Cathar
 Bygone Bishop
 Cloudgoat Ranger
-Dawnglare Invoker
 Elite Spellbinder
 Emeria Angel
 Exalted Angel
@@ -85,6 +84,7 @@ Gideon, Ally of Zendikar
 Gideon Blackblade
 Gideon of the Trials
 Gideon Jura
+The Wandering Emperor
 Armageddon
 Balance
 Collective Effort
@@ -92,9 +92,9 @@ Day of Judgment
 Declaration in Stone
 Descend upon the Sinful
 Doomskar
+Farewell
 Fumigate
 Increasing Devotion
-Planar Outburst
 Starnheim Unleashed
 Terminus
 Wrath of God
