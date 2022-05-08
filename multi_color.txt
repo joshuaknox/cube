@@ -30,7 +30,6 @@ Polukranos, Unchained
 Prime Speaker Zegana
 Progenitor Mimic
 Qasali Pridemage
-Rashmi, Eternities Crafter
 Shadowmage Infiltrator
 Siege Rhino
 The Locust God
@@ -79,6 +78,7 @@ Sarkhan the Mad
 Sarkhan Unbroken
 Sorin, Grim Nemesis
 Sorin, Lord of Innistrad
+Tamiyo, Compleated Sage
 Tamiyo, Field Researcher
 Teferi, Hero of Dominaria
 Teferi, Time Raveler
