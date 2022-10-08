@@ -47,13 +47,13 @@ Manaform Hellkite
 Ogre Battledriver
 Pia Nalaar
 Pia and Kiran Nalaar
+Professional Face-Breaker
 Purphoros, God of the Forge
 Reckless Stormseeker
 Rekindling Phoenix
 Robber of the Rich
 Siege-Gang Commander
 Sin Prodder
-Skinbrand Goblin
 Spikeshot Elder
 Stormbreath Dragon
 Stromkirk Occultist
@@ -61,6 +61,7 @@ Tectonic Giant
 Terror of the Peaks
 Thundermaw Hellkite
 Toralf, God of Fury
+Urabrask, Heretic Praetor
 Verix Bladewing
 Volatile Arsonist
 Voracious Dragon
@@ -72,7 +73,6 @@ Beacon of Destruction
 Brimstone Volley
 Burst Lightning
 Cathartic Pyre
-Comet Storm
 Lightning Bolt
 Slaying Fire
 Staggershock

@@ -8,7 +8,6 @@ Beanstalk Giant
 Beast Whisperer
 Birds of Paradise
 Blossom Prancer
-Chameleon Colossus
 Civic Wayfinder
 Courser of Kruphix
 Deathcap Cultivator
@@ -39,7 +38,6 @@ Nylea, Keen-Eyed
 Ohran Viper
 Outland Liberator
 Oracle of Mul Daya
-Pelakka Wurm
 Polukranos, World Eater
 Primal Adversary
 Primeval Titan
@@ -56,8 +54,8 @@ Sylvan Caryatid
 Terastodon
 Thragtusk
 Thrashing Brontodon
-Thrun, the Last Troll
 Tireless Tracker
+Titan of Industry
 Tovolar's Huntmaster
 Ulvenwald Oddity
 Varis, Silverymoon Ranger
@@ -66,6 +64,7 @@ Vizier of the Menagerie
 Vorinclex, Monstrous Raider
 Wickerbough Elder
 Woodfall Primus
+Workshop Warchief
 Yavimaya Elder
 Doubling Season
 Exploration
@@ -84,6 +83,7 @@ Nissa, Who Shakes the World
 Nissa, Worldwaker
 Vivien Reid
 Vivien, Monster's Advocate
+Vivien on the Hunt
 Wrenn and Seven
 Bramblecrush
 Cultivate

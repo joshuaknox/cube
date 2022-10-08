@@ -32,6 +32,7 @@ Herald of Anafenza
 Hero of Bladehold
 Hidden Dragonslayer
 Icingdeath, Frost Tyrant
+Inspiring Overseer
 Intrepid Adversary
 Kytheon, Hero of Akros
 Leonin Relic-Warder
@@ -42,7 +43,6 @@ Mikaeus, the Lunarch
 Monastery Mentor
 Mother of Runes
 Precinct Captain
-Priest of Ancient Lore
 Ranger of Eos
 Realm-Cloaked Giant
 Resplendent Angel
@@ -64,12 +64,12 @@ Conclave Tribunal
 History of Benalia
 Journey to Nowhere
 Land Tax
-Legion's Landing
 Martial Law
 Oblivion Ring
 Pacifism
 Prison Term
 Quarantine Field
+Rabble Rousing
 Seal Away
 Wedding Announcement
 Condemn
