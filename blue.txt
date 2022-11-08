@@ -1,17 +1,16 @@
 Aether Adept
+Aether Channeler
 Alrund, God of the Cosmos
 Barrin, Tolarian Archmage
 Brazen Borrower
 Champion of Wits
 Clever Impersonator
-Curator of Mysteries
 Djinn of Wishes
 Docent of Perfection
 Draining Whelk
 Dream Eater
 Dungeon Geists
 Enclave Cryptologist
-Exclusion Mage
 Frost Titan
 Gadwick, the Wizened
 God-Eternal Kefnet
@@ -38,6 +37,7 @@ Sakashima the Impostor
 Snapcaster Mage
 Sower of Temptation
 Spectral Adversary
+Sphinx of Clear Skies
 Sphinx of Foresight
 Sphinx of Uthuun
 Stratus Dancer

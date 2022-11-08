@@ -3,6 +3,7 @@ Noxious Gearhulk
 Anowon, the Ruin Sage
 Bloodgift Demon
 Bloodline Keeper
+Braids, Arisen Nightmare
 Braids, Cabal Minion
 Burning Rune Demon
 Champion of Dusk
@@ -23,7 +24,6 @@ God-Eternal Bontu
 Grave Titan
 Graveborn Muse
 Griselbrand
-Guul Draz Assassin
 Hidetsugu, Devouring Chaos
 Hypnotic Specter
 Isareth the Awakener
@@ -40,16 +40,16 @@ Pack Rat
 Puppeteer Clique
 Rankle, Master of Pranks
 Ravenous Chupacabra
-Ruin Raider
 Rune-Scarred Demon
+Sheoldred, the Apocalypse
 Sheoldred, Whispering One
 Shriekmaw
 Sidisi, Undead Vizier
-Silumgar Assassin
 Skinrender
 Tainted Adversary
 Tergrid, God of Fright
 Tetzimoc, Primal Death
+The Raven Man
 Valki, God of Lies
 Varragoth, Bloodsky Sire
 Vampire Nighthawk
@@ -60,6 +60,7 @@ Necromancy
 Phyrexian Arena
 Recurring Nightmare
 The Abyss
+The Cruelty of Gix
 The Eldest Reborn
 Cast Down
 Doom Blade
@@ -81,7 +82,6 @@ Lolth, Spider Queen
 Ob Nixilis Reignited
 Professor Onyx
 Sorin the Mirthless
-Beacon of Unrest
 Crux of Fate
 Damnation
 Demonic Tutor

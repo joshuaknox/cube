@@ -1,5 +1,4 @@
 The Great Henge
-Verdurous Gearhulk
 Acidic Slime
 Augur of Autumn
 Avenger of Zendikar
@@ -10,8 +9,8 @@ Birds of Paradise
 Blossom Prancer
 Civic Wayfinder
 Courser of Kruphix
-Deathcap Cultivator
 Den Protector
+Defiler of Vigor
 Duskwatch Recruiter
 Eternal Witness
 Elder Gargaroth
@@ -30,12 +29,13 @@ Kogla, the Titan Ape
 Krosan Tusker
 Kura, the Boundless Sky
 Llanowar Elves
+Llanowar Greenwidow
+Llanowar Loamspeaker
 Lotus Cobra
 Master of the Wild Hunt
 Noble Hierarch
 Nissa, Vastwood Seer
 Nylea, Keen-Eyed
-Ohran Viper
 Outland Liberator
 Oracle of Mul Daya
 Polukranos, World Eater
@@ -50,6 +50,7 @@ Rofellos, Llanowar Emissary
 Sakura-Tribe Elder
 Scavenging Ooze
 Shaman of Forgotten Ways
+Silverback Elder
 Sylvan Caryatid
 Terastodon
 Thragtusk
@@ -85,7 +86,6 @@ Vivien Reid
 Vivien, Monster's Advocate
 Vivien on the Hunt
 Wrenn and Seven
-Bramblecrush
 Cultivate
 Explore
 Farseek
