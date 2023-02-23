@@ -1,4 +1,5 @@
 Spear of Heliod
+Steel Seraph
 Cataclysmic Gearhulk
 Accorder Paladin
 Adeline, Resplendent Cathar
@@ -12,7 +13,6 @@ Archangel Avacyn
 Archangel of Thune
 Archangel of Wrath
 Baneslayer Angel
-Banisher Priest
 Blade Splicer
 Brimaz, King of Oreskos
 Brutal Cathar
@@ -28,22 +28,21 @@ Gisela, the Broken Blade
 God-Eternal Oketra
 Halvar, God of Battle
 Heliod, God of the Sun
-Herald of Anafenza
 Hero of Bladehold
 Hidden Dragonslayer
 Icingdeath, Frost Tyrant
 Inspiring Overseer
 Intrepid Adversary
 Kytheon, Hero of Akros
-Leonin Relic-Warder
 Leonin Warleader
+Loran of the Third Path
 Lyra Dawnbringer
 Mentor of the Meek
 Mikaeus, the Lunarch
 Monastery Mentor
 Mother of Runes
+Myrel, Shield of Argive
 Precinct Captain
-Ranger of Eos
 Realm-Cloaked Giant
 Resplendent Angel
 Restoration Angel
@@ -63,12 +62,13 @@ Whipcorder
 Banishing Light
 Conclave Tribunal
 History of Benalia
+In the Trenches
 Journey to Nowhere
 Land Tax
 Oblivion Ring
 Pacifism
+Prayer of Binding
 Prison Term
-Quarantine Field
 Rabble Rousing
 Seal Away
 Wedding Announcement

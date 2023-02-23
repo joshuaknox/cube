@@ -18,7 +18,6 @@ Eldrazi Monument
 Everflowing Chalice
 Fire Diamond
 Gilded Lotus
-God-Pharaoh's Gift
 Golgari Signet
 Grim Monolith
 Grimoire of the Dead
@@ -27,10 +26,10 @@ Hangarback Walker
 Hedron Archive
 Icy Manipulator
 Izzet Signet
-Lux Cannon
 Mana Crypt
 Mana Vault
 Marble Diamond
+Mazemind Tome
 Memory Jar
 Mimic Vat
 Mind Stone
@@ -46,6 +45,7 @@ Oblivion Stone
 Oracle's Vault
 Orzhov Signet
 Perilous Vault
+Portal to Phyrexia
 Rakdos Signet
 Ratchet Bomb
 Scroll Rack

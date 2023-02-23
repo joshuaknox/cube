@@ -53,7 +53,6 @@ Voracious Greatshark
 Wharf Infiltrator
 Control Magic
 Future Sight
-Imprisoned in the Moon
 Kiora Bests the Sea God
 Shark Typhoon
 Treachery
@@ -87,6 +86,7 @@ Jace, Unraveler of Secrets
 Narset, Parter of Veils
 Tamiyo, the Moon Sage
 Teferi, Master of Time
+Teferi, Temporal Pilgrim
 Alrund's Epiphany
 Ancestral Vision
 Bribery

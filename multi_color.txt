@@ -45,7 +45,6 @@ Assemble the Legion
 Detention Sphere
 Glare of Subdual
 Mardu Ascendancy
-Anguished Unmaking
 Assassin's Trophy
 Aurelia's Fury
 Dromoka's Command
@@ -92,6 +91,7 @@ Cruel Ultimatum
 Dreadbore
 Gaze of Granite
 Inspired Ultimatum
+Legions to Ashes
 Maelstrom Pulse
 Obzedat's Aid
 Rakdos's Return

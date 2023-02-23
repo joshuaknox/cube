@@ -1,6 +1,5 @@
 Whip of Erebos
 Noxious Gearhulk
-Anowon, the Ruin Sage
 Bloodgift Demon
 Bloodline Keeper
 Braids, Arisen Nightmare
@@ -19,6 +18,7 @@ Eradicator Valkyrie
 Gelatinous Cube
 Geth, Lord of the Vault
 Gisa, Glorious Resurrector
+Gix, Yawgmoth Praetor
 Gonti, Lord of Luxury
 God-Eternal Bontu
 Grave Titan
