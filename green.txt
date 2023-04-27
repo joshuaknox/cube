@@ -1,7 +1,6 @@
 The Great Henge
 Acidic Slime
 Augur of Autumn
-Avenger of Zendikar
 Battle Mammoth
 Beanstalk Giant
 Beast Whisperer
@@ -80,6 +79,7 @@ Garruk, Caller of Beasts
 Garruk, Primal Hunter
 Garruk Relentless
 Garruk Wildspeaker
+Nissa, Ascended Animist
 Nissa, Who Shakes the World
 Nissa, Worldwaker
 Vivien Reid

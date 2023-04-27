@@ -18,9 +18,9 @@ Brimaz, King of Oreskos
 Brutal Cathar
 Bygone Bishop
 Cloudgoat Ranger
+Elesh Norn, Mother of Machines
 Elite Spellbinder
 Emeria Angel
-Fiend Hunter
 Flickerwisp
 Geist-Honored Monk
 Giant Killer
@@ -40,6 +40,7 @@ Lyra Dawnbringer
 Mentor of the Meek
 Mikaeus, the Lunarch
 Monastery Mentor
+Mondrak, Glory Dominus
 Mother of Runes
 Myrel, Shield of Argive
 Precinct Captain
@@ -63,16 +64,15 @@ Banishing Light
 Conclave Tribunal
 History of Benalia
 In the Trenches
-Journey to Nowhere
 Land Tax
 Oblivion Ring
-Pacifism
+Ossification
+Planar Disruption
 Prayer of Binding
 Prison Term
 Rabble Rousing
 Seal Away
 Wedding Announcement
-Condemn
 Enlightened Tutor
 Path to Exile
 Swords to Plowshares
@@ -84,13 +84,13 @@ Gideon, Ally of Zendikar
 Gideon Blackblade
 Gideon of the Trials
 Gideon Jura
+The Eternal Wanderer
 The Wandering Emperor
 Armageddon
 Balance
 Collective Effort
 Day of Judgment
 Declaration in Stone
-Descend upon the Sinful
 Doomskar
 Farewell
 Fumigate

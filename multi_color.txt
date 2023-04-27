@@ -13,7 +13,7 @@ Evil Twin
 Figure of Destiny
 Firemane Avenger
 Ghor-Clan Rampager
-Hellkite Overlord
+Glissa Sunslayer
 Hostage Taker
 Hydroid Krasis
 Jhoira of the Ghitu
@@ -65,11 +65,12 @@ Domri Rade
 Domri, Chaos Bringer
 Garruk, Apex Predator
 Garruk, Cursed Huntsman
+Kaito, Dancing Shadow
 Kaya, the Inexorable
+Lukka, Bound to Ruin
 Nahiri, the Harbinger
 Narset Transcendent
 Nicol Bolas, Dragon-God
-Nicol Bolas, God-Pharaoh
 Nicol Bolas, Planeswalker
 Oko, Thief of Crowns
 Ral Zarek
@@ -84,7 +85,6 @@ Teferi, Time Raveler
 The Royal Scions
 Venser, the Sojourner
 Vona, Butcher of Magan
-Vraska, Golgari Queen
 Vraska, Relic Seeker
 Xenagos, the Reveler
 Cruel Ultimatum

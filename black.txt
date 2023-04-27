@@ -62,6 +62,7 @@ Recurring Nightmare
 The Abyss
 The Cruelty of Gix
 The Eldest Reborn
+Black Sun's Twilight
 Cast Down
 Doom Blade
 Entomb
@@ -76,12 +77,12 @@ Vampiric Tutor
 Vraska's Contempt
 Liliana, Death's Majesty
 Liliana, Dreadhorde General
-Liliana Vess
 Liliana of the Veil
 Lolth, Spider Queen
 Ob Nixilis Reignited
 Professor Onyx
 Sorin the Mirthless
+Vraska, Betrayal's Sting
 Crux of Fate
 Damnation
 Demonic Tutor
@@ -89,7 +90,6 @@ Dread Return
 Imperial Seal
 Languish
 Life's Finale
-Living Death
 Never // Return
 Night's Whisper
 Read the Bones

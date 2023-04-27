@@ -12,7 +12,6 @@ Coalition Relic
 Coldsteel Heart
 Cultivator's Caravan
 Cursed Scroll
-Darksteel Axe
 Dimir Signet
 Eldrazi Monument
 Everflowing Chalice
@@ -47,7 +46,6 @@ Orzhov Signet
 Perilous Vault
 Portal to Phyrexia
 Rakdos Signet
-Ratchet Bomb
 Scroll Rack
 Selesnya Signet
 Sensei's Divining Top
@@ -64,15 +62,18 @@ Staff of Domination
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
+Sword of Forge and Frontier
 Sword of Light and Shadow
 Sword of Vengeance
 Sword of War and Peace
 Tamiyo's Journal
 Thaumatic Compass
+The Filigree Sylex
 The Immortal Sun
 Thran Dynamo
 Treasure Map
 Umezawa's Jitte
+Argentum Masticore
 Copper Myr
 Duplicant
 Emrakul, the Promised End
@@ -83,7 +84,6 @@ Molten-Tail Masticore
 Myr Battlesphere
 Palladium Myr
 Pilgrim's Eye
-Platinum Angel
 Silver Myr
 Solemn Simulacrum
 Steel Hellkite
