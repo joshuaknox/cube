@@ -11,6 +11,7 @@ Birgi, God of Storytelling
 Bonecrusher Giant
 Chandra, Fire of Kaladesh
 Chandra's Phoenix
+Decadent Dragon
 Dire Fleet Daredevil
 Dragonkin Berserker
 Dragon Whisperer
@@ -25,6 +26,7 @@ Goblin Chieftain
 Goblin Cratermaker
 Goblin Rabblemaster
 Goblin Wardriver
+Goddric, Cloaked Reveler
 Goldspan Dragon
 Grim Lavamancer
 Hanweir Garrison
@@ -32,15 +34,14 @@ Heart-Piercer Manticore
 Hellrider
 Hero of Oxid Ridge
 Ilharg, the Raze-Boar
+Imodane, the Pyrohammer
 Inferno Titan
 Ire Shaman
 Jaya Ballard, Task Mage
-Jeering Instigator
 Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
 Legion Warboss
-Leyline Tyrant
 Magus of the Scroll
 Manaform Hellkite
 Ogre Battledriver
@@ -49,13 +50,14 @@ Pia and Kiran Nalaar
 Professional Face-Breaker
 Purphoros, God of the Forge
 Rampaging Raptor
+Realm-Scorcher Hellkite
 Reckless Stormseeker
+Redcap Gutter-Dweller
 Rekindling Phoenix
 Robber of the Rich
 Siege-Gang Commander
 Sin Prodder
 Solphim, Mayhem Dominus
-Spikeshot Elder
 Stormbreath Dragon
 Stromkirk Occultist
 Tectonic Giant
@@ -69,6 +71,7 @@ Voracious Dragon
 Young Pyromancer
 Zealous Conscripts
 Fable of the Mirror-Breaker
+Virtue of Courage
 Abrade
 Beacon of Destruction
 Brimstone Volley
@@ -91,10 +94,7 @@ Zariel, Archduke of Avernus
 Chain Lightning
 Devil's Play
 Exquisite Firecraft
-Firebolt
 Gamble
-Hordeling Outburst
 Mizzium Mortars
 Nahiri's Warcrafting
-Rift Bolt
 Roil Eruption

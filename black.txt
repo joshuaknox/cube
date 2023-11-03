@@ -27,12 +27,14 @@ God-Eternal Bontu
 Grave Titan
 Graveborn Muse
 Griselbrand
+Gumdrop Poisoner
 Hidetsugu, Devouring Chaos
 Hoarding Broodlord
 Hypnotic Specter
 Isareth the Awakener
 Junji, the Midnight Sky
 Kalitas, Traitor of Ghet
+Lord Skitter, Sewer King
 Magus of the Abyss
 Massacre Wurm
 Midnight Reaper
@@ -54,7 +56,6 @@ Skinrender
 Tainted Adversary
 Tergrid, God of Fright
 Tetzimoc, Primal Death
-The Raven Man
 Twilight Prophet
 Valki, God of Lies
 Varragoth, Bloodsky Sire
@@ -67,6 +68,7 @@ Recurring Nightmare
 The Abyss
 The Cruelty of Gix
 The Eldest Reborn
+Virtue of Persistence
 Black Sun's Twilight
 Cast Down
 Doom Blade
@@ -92,9 +94,7 @@ Crux of Fate
 Damnation
 Demonic Tutor
 Imperial Seal
-Languish
 Never // Return
-Night's Whisper
 Read the Bones
 Sign in Blood
 Yawgmoth's Will

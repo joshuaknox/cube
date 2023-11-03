@@ -50,10 +50,10 @@ Resplendent Angel
 Restoration Angel
 Reveillark
 Serra Paragon
+Spellbook Vendor
 Stoneforge Mystic
 Student of Warfare
 Sublime Archangel
-Sunhome Stalwart
 Sunblast Angel
 Sun Titan
 Taranika, Akroan Veteran
@@ -71,6 +71,7 @@ Planar Disruption
 Prayer of Binding
 Rabble Rousing
 Seal from Existence
+Virtue of Loyalty
 Wedding Announcement
 Enlightened Tutor
 Path to Exile
@@ -93,7 +94,6 @@ Declaration in Stone
 Doomskar
 Farewell
 Fumigate
-Increasing Devotion
 Starnheim Unleashed
 Sunfall
 Terminus
