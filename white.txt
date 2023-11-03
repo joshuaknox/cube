@@ -14,20 +14,21 @@ Archangel of Thune
 Archangel of Wrath
 Baneslayer Angel
 Blade Splicer
+Boon-Bringer Valkyrie
 Brimaz, King of Oreskos
 Brutal Cathar
 Bygone Bishop
 Cloudgoat Ranger
+Elesh Norn
 Elesh Norn, Mother of Machines
 Elite Spellbinder
 Emeria Angel
 Flickerwisp
 Geist-Honored Monk
 Giant Killer
-Gisela, the Broken Blade
 God-Eternal Oketra
+Guardian of Ghirapur
 Halvar, God of Battle
-Heliod, God of the Sun
 Hero of Bladehold
 Hidden Dragonslayer
 Icingdeath, Frost Tyrant
@@ -60,7 +61,6 @@ Thalia, Guardian of Thraben
 Usher of the Fallen
 Welcoming Vampire
 Whipcorder
-Banishing Light
 Conclave Tribunal
 History of Benalia
 In the Trenches
@@ -69,15 +69,14 @@ Oblivion Ring
 Ossification
 Planar Disruption
 Prayer of Binding
-Prison Term
 Rabble Rousing
-Seal Away
+Seal from Existence
 Wedding Announcement
 Enlightened Tutor
 Path to Exile
 Swords to Plowshares
 Ajani Goldmane
-Elspeth, Knight-Errant
+Archangel Elspeth
 Elspeth, Sun's Champion
 Elspeth Tirel
 Gideon, Ally of Zendikar
@@ -96,5 +95,6 @@ Farewell
 Fumigate
 Increasing Devotion
 Starnheim Unleashed
+Sunfall
 Terminus
 Wrath of God

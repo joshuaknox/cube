@@ -1,5 +1,9 @@
+Invasion of Innistrad
+Invasion of Fiora
 Whip of Erebos
 Noxious Gearhulk
+Archpriest of Shadows
+Ayara, Widow of the Realm
 Bloodgift Demon
 Bloodline Keeper
 Braids, Arisen Nightmare
@@ -8,7 +12,6 @@ Burning Rune Demon
 Champion of Dusk
 Dark Confidant
 Demonlord Belzenlok
-Doomed Necromancer
 Doom Whisperer
 Drana, Kalastria Bloodchief
 Drana, the Last Bloodchief
@@ -25,6 +28,7 @@ Grave Titan
 Graveborn Muse
 Griselbrand
 Hidetsugu, Devouring Chaos
+Hoarding Broodlord
 Hypnotic Specter
 Isareth the Awakener
 Junji, the Midnight Sky
@@ -41,6 +45,7 @@ Puppeteer Clique
 Rankle, Master of Pranks
 Ravenous Chupacabra
 Rune-Scarred Demon
+Sheoldred
 Sheoldred, the Apocalypse
 Sheoldred, Whispering One
 Shriekmaw
@@ -50,12 +55,12 @@ Tainted Adversary
 Tergrid, God of Fright
 Tetzimoc, Primal Death
 The Raven Man
+Twilight Prophet
 Valki, God of Lies
 Varragoth, Bloodsky Sire
 Vampire Nighthawk
 Animate Dead
 Bitterblossom
-Diabolic Servitude
 Necromancy
 Phyrexian Arena
 Recurring Nightmare
@@ -86,15 +91,10 @@ Vraska, Betrayal's Sting
 Crux of Fate
 Damnation
 Demonic Tutor
-Dread Return
 Imperial Seal
 Languish
-Life's Finale
 Never // Return
 Night's Whisper
 Read the Bones
-Reanimate
-Ruinous Path
 Sign in Blood
-Unburial Rites
 Yawgmoth's Will

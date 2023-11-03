@@ -4,6 +4,7 @@ Alrund, God of the Cosmos
 Barrin, Tolarian Archmage
 Brazen Borrower
 Champion of Wits
+Chrome Host Seedshark
 Clever Impersonator
 Djinn of Wishes
 Docent of Perfection
@@ -11,6 +12,7 @@ Draining Whelk
 Dream Eater
 Dungeon Geists
 Enclave Cryptologist
+Faerie Mastermind
 Frost Titan
 Gadwick, the Wizened
 God-Eternal Kefnet
@@ -20,8 +22,7 @@ Iymrith, Desert Doom
 Icefall Regent
 Jacob Hauken, Inspector
 Jace, Vryn's Prodigy
-Keiga, the Tide Star
-Kheru Spellsnatcher
+Jin-Gitaxias
 Lier, Disciple of the Drowned
 Malevolent Hermit
 Mercurial Spelldancer
@@ -33,6 +34,7 @@ Nibilis of Frost
 Overcharged Amalgam
 Poppet Stitcher
 Riftwing Cloudskate
+Rona, Herald of Invasion
 Sakashima the Impostor
 Snapcaster Mage
 Sower of Temptation
@@ -40,7 +42,6 @@ Spectral Adversary
 Sphinx of Clear Skies
 Sphinx of Foresight
 Sphinx of Uthuun
-Stratus Dancer
 Suspicious Stowaway
 Thieving Skydiver
 Torrential Gearhulk
@@ -52,7 +53,6 @@ Voidmage Prodigy
 Voracious Greatshark
 Wharf Infiltrator
 Control Magic
-Future Sight
 Kiora Bests the Sea God
 Shark Typhoon
 Treachery
