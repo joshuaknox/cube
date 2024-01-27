@@ -1,6 +1,6 @@
+Anduril, Flame of the West
 Azorius Signet
 Basilisk Collar
-Bag of Holding
 Batterskull
 Black Lotus
 Boros Signet
@@ -14,14 +14,13 @@ Cultivator's Caravan
 Cursed Scroll
 Dimir Signet
 Eldrazi Monument
-Everflowing Chalice
 Gilded Lotus
 Golgari Signet
 Grim Monolith
 Grimoire of the Dead
 Gruul Signet
-Hangarback Walker
 Hedron Archive
+Horn of the Mark
 Hylda's Crown of Winter
 Izzet Signet
 Mana Crypt
@@ -38,10 +37,9 @@ Mox Pearl
 Mox Ruby
 Mox Sapphire
 Nevinyrral's Disk
-Oblivion Stone
 Oracle's Vault
 Orzhov Signet
-Perilous Vault
+Palantir of Orthanc
 Portal to Phyrexia
 Rakdos Signet
 Scroll Rack
@@ -58,7 +56,11 @@ Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
 Sword of Forge and Frontier
+Sword of Hearth and Home
 Sword of Light and Shadow
+Sword of Once and Future
+Sword of Sinew and Steel
+Sword of Truth and Justice
 Sword of Vengeance
 Sword of War and Peace
 Talisman of Conviction
@@ -74,6 +76,7 @@ Talisman of Unity
 Thaumatic Compass
 The Filigree Sylex
 The Immortal Sun
+The One Ring
 Thran Dynamo
 Treasure Map
 Umezawa's Jitte
@@ -81,13 +84,10 @@ Invasion of Ravnica
 Argentum Masticore
 Duplicant
 Emrakul, the Promised End
-Molten-Tail Masticore
 Myr Battlesphere
 Palladium Myr
 Pilgrim's Eye
 Solemn Simulacrum
-Steel Hellkite
-Walking Ballista
 Weatherlight
 Worn Powerstone
 Wurmcoil Engine
