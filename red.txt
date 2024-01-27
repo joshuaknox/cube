@@ -1,6 +1,7 @@
 Combustible Gearhulk
 Embercleave
 Invasion of Kaldheim
+Invasion of Tarkir
 Abbot of Keral Keep
 Bloodthirsty Adversary
 Anax, Hardened in the Forge
@@ -19,6 +20,7 @@ Dragon Whisperer
 Earthshaker Khenra
 Ember Hauler
 Embereth Shieldbreaker
+Etali, Primal Conqueror
 Fire Imp
 Flametongue Kavu
 Geological Appraiser
@@ -52,6 +54,7 @@ Pia Nalaar
 Pia and Kiran Nalaar
 Professional Face-Breaker
 Purphoros, God of the Forge
+Ragavan, Nimble Pilferer
 Rampaging Raptor
 Realm-Scorcher Hellkite
 Reckless Stormseeker
@@ -74,13 +77,11 @@ Volatile Arsonist
 Young Pyromancer
 Zealous Conscripts
 Fable of the Mirror-Breaker
+Sneak Attack
 Virtue of Courage
 Abrade
-Beacon of Destruction
 Brimstone Volley
-Cathartic Pyre
 Lightning Bolt
-Staggershock
 Stoke the Flames
 Through the Breach
 Thunderous Wrath
@@ -95,6 +96,5 @@ Zariel, Archduke of Avernus
 Chain Lightning
 Devil's Play
 Exquisite Firecraft
-Gamble
 Nahiri's Warcrafting
 Roil Eruption
