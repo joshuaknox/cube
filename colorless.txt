@@ -5,7 +5,6 @@ Batterskull
 Black Lotus
 Boros Signet
 Bottled Cloister
-Charcoal Diamond
 Chimil, the Inner Sun
 Chromatic Lantern
 Chrome Mox
@@ -16,7 +15,6 @@ Cursed Scroll
 Dimir Signet
 Eldrazi Monument
 Everflowing Chalice
-Fire Diamond
 Gilded Lotus
 Golgari Signet
 Grim Monolith
@@ -29,13 +27,11 @@ Izzet Signet
 Mana Crypt
 Mana Vault
 Matzalantli, the Great Door
-Marble Diamond
 Mazemind Tome
 Memory Jar
 Mimic Vat
 Mind Stone
 Mindslaver
-Moss Diamond
 Mox Emerald
 Mox Jet
 Mox Pearl
@@ -53,7 +49,6 @@ Selesnya Signet
 Sensei's Divining Top
 Shadowspear
 Simic Signet
-Sky Diamond
 Skysovereign, Consul Flagship
 Skullclamp
 Smokestack
@@ -66,6 +61,16 @@ Sword of Forge and Frontier
 Sword of Light and Shadow
 Sword of Vengeance
 Sword of War and Peace
+Talisman of Conviction
+Talisman of Creativity
+Talisman of Curiosity
+Talisman of Dominance
+Talisman of Hierarchy
+Talisman of Impulse
+Talisman of Indulgence
+Talisman of Progress
+Talisman of Resilience
+Talisman of Unity
 Thaumatic Compass
 The Filigree Sylex
 The Immortal Sun
@@ -74,17 +79,12 @@ Treasure Map
 Umezawa's Jitte
 Invasion of Ravnica
 Argentum Masticore
-Copper Myr
 Duplicant
 Emrakul, the Promised End
-Iron Myr
-Gold Myr
-Leaden Myr
 Molten-Tail Masticore
 Myr Battlesphere
 Palladium Myr
 Pilgrim's Eye
-Silver Myr
 Solemn Simulacrum
 Steel Hellkite
 Walking Ballista
