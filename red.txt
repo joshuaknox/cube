@@ -4,11 +4,12 @@ Invasion of Kaldheim
 Abbot of Keral Keep
 Bloodthirsty Adversary
 Anax, Hardened in the Forge
-Arms Dealer
 Atsushi, the Blazing Sky
 Battle Cry Goblin
 Birgi, God of Storytelling
 Bonecrusher Giant
+Bonehoard Dracosaur
+Breeches, Eager Pillager
 Chandra, Fire of Kaladesh
 Chandra's Phoenix
 Decadent Dragon
@@ -20,9 +21,9 @@ Ember Hauler
 Embereth Shieldbreaker
 Fire Imp
 Flametongue Kavu
+Geological Appraiser
 Giant Cindermaw
 Glorybringer
-Goblin Chieftain
 Goblin Cratermaker
 Goblin Rabblemaster
 Goblin Wardriver
@@ -36,6 +37,7 @@ Hero of Oxid Ridge
 Ilharg, the Raze-Boar
 Imodane, the Pyrohammer
 Inferno Titan
+Inti, Seneschal of the Sun
 Ire Shaman
 Jaya Ballard, Task Mage
 Kargan Dragonlord
@@ -45,6 +47,7 @@ Legion Warboss
 Magus of the Scroll
 Manaform Hellkite
 Ogre Battledriver
+Ojer Axonil, Deepest Might
 Pia Nalaar
 Pia and Kiran Nalaar
 Professional Face-Breaker
@@ -64,10 +67,10 @@ Tectonic Giant
 Terror of the Peaks
 Thundermaw Hellkite
 Toralf, God of Fury
+Trumpeting Carnosaur
 Urabrask
 Urabrask, Heretic Praetor
 Volatile Arsonist
-Voracious Dragon
 Young Pyromancer
 Zealous Conscripts
 Fable of the Mirror-Breaker
@@ -75,10 +78,8 @@ Virtue of Courage
 Abrade
 Beacon of Destruction
 Brimstone Volley
-Burst Lightning
 Cathartic Pyre
 Lightning Bolt
-Slaying Fire
 Staggershock
 Stoke the Flames
 Through the Breach
@@ -95,6 +96,5 @@ Chain Lightning
 Devil's Play
 Exquisite Firecraft
 Gamble
-Mizzium Mortars
 Nahiri's Warcrafting
 Roil Eruption

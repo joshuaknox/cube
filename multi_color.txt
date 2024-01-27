@@ -1,6 +1,8 @@
 Invasion of New Phyrexia
 Invasion of Tolvada
+Abuelo, Ancestral Echo
 Angel of Despair
+Anim Pakal, Thousandth Moon
 Armada Wurm
 Ashiok, Nightmare Muse
 Atris, Oracle of Half-Truths
@@ -33,6 +35,7 @@ Polukranos, Unchained
 Prime Speaker Zegana
 Progenitor Mimic
 Qasali Pridemage
+Quintorius Kand
 Shadowmage Infiltrator
 Siege Rhino
 The Locust God
@@ -44,7 +47,6 @@ Uro, Titan of Nature's Wrath
 Vitu-Ghazi Guildmage
 Volo, Guide to Monsters
 Zacama, Primal Calamity
-Assemble the Legion
 Detention Sphere
 Glare of Subdual
 Assassin's Trophy
@@ -53,7 +55,6 @@ Dromoka's Command
 Growth Spiral
 Izzet Charm
 Kolaghan's Command
-Lightning Helix
 Magma Opus
 March of the Multitudes
 Mystic Genesis
@@ -95,6 +96,5 @@ Inspired Ultimatum
 Legions to Ashes
 Maelstrom Pulse
 Rakdos's Return
-Supreme Verdict
 Vindicate
 Villainous Wealth

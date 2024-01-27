@@ -2,6 +2,7 @@ Invasion of Innistrad
 Invasion of Fiora
 Whip of Erebos
 Noxious Gearhulk
+Aclazotz, Deepest Betrayal
 Archpriest of Shadows
 Ayara, Widow of the Realm
 Bloodgift Demon
@@ -16,7 +17,6 @@ Doom Whisperer
 Drana, Kalastria Bloodchief
 Drana, the Last Bloodchief
 Dreamstealer
-Elusive Tormentor
 Eradicator Valkyrie
 Gelatinous Cube
 Geth, Lord of the Vault
@@ -43,6 +43,7 @@ Nashi, Moon Sage's Scion
 Nekrataal
 Nullpriest of Oblivion
 Pack Rat
+Preacher of the Schism
 Puppeteer Clique
 Rankle, Master of Pranks
 Ravenous Chupacabra
@@ -52,6 +53,7 @@ Sheoldred, the Apocalypse
 Sheoldred, Whispering One
 Shriekmaw
 Sidisi, Undead Vizier
+Starving Revenant
 Skinrender
 Tainted Adversary
 Tergrid, God of Fright
@@ -69,13 +71,13 @@ The Abyss
 The Cruelty of Gix
 The Eldest Reborn
 Virtue of Persistence
+Bitter Triumph
 Black Sun's Twilight
 Cast Down
 Doom Blade
 Entomb
 Go for the Throat
 Hero's Downfall
-Infernal Grasp
 Power Word Kill
 Seize the Soul
 Terror
@@ -95,6 +97,4 @@ Damnation
 Demonic Tutor
 Imperial Seal
 Never // Return
-Read the Bones
-Sign in Blood
 Yawgmoth's Will

@@ -6,6 +6,7 @@ Black Lotus
 Boros Signet
 Bottled Cloister
 Charcoal Diamond
+Chimil, the Inner Sun
 Chromatic Lantern
 Chrome Mox
 Coalition Relic
@@ -27,6 +28,7 @@ Hylda's Crown of Winter
 Izzet Signet
 Mana Crypt
 Mana Vault
+Matzalantli, the Great Door
 Marble Diamond
 Mazemind Tome
 Memory Jar
@@ -57,7 +59,6 @@ Skullclamp
 Smokestack
 Smuggler's Copter
 Sol Ring
-Staff of Domination
 Sword of Body and Mind
 Sword of Feast and Famine
 Sword of Fire and Ice
@@ -65,7 +66,6 @@ Sword of Forge and Frontier
 Sword of Light and Shadow
 Sword of Vengeance
 Sword of War and Peace
-Tamiyo's Journal
 Thaumatic Compass
 The Filigree Sylex
 The Immortal Sun

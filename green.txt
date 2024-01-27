@@ -9,7 +9,6 @@ Beanstalk Giant
 Beast Whisperer
 Birds of Paradise
 Blossom Prancer
-Civic Wayfinder
 Courser of Kruphix
 Den Protector
 Defiler of Vigor
@@ -25,7 +24,10 @@ Garruk's Packleader
 Genesis Hydra
 God-Eternal Rhonas
 Greenwarden of Murasa
-Jadelight Ranger
+Huatli, Poet of Unity
+Hulking Raptor
+Intrepid Paleontologist
+Jadelight Spelunker
 Joraga Treespeaker
 Kogla, the Titan Ape
 Krosan Tusker
@@ -38,6 +40,7 @@ Master of the Wild Hunt
 Noble Hierarch
 Nissa, Vastwood Seer
 Nylea, Keen-Eyed
+Ojer Kaslem, Deepest Growth
 Outland Liberator
 Oracle of Mul Daya
 Polukranos, World Eater
@@ -50,10 +53,9 @@ Reclamation Sage
 Resilient Khenra
 Rofellos, Llanowar Emissary
 Sakura-Tribe Elder
-Scavenging Ooze
+Sentinel of the Nameless City
 Shaman of Forgotten Ways
 Silverback Elder
-Sylvan Caryatid
 Terastodon
 Thragtusk
 Thrashing Brontodon
@@ -63,10 +65,8 @@ Tovolar's Huntmaster
 Ulvenwald Oddity
 Varis, Silverymoon Ranger
 Vengevine
-Vizier of the Menagerie
 Vorinclex
 Vorinclex, Monstrous Raider
-Wickerbough Elder
 Woodfall Primus
 Workshop Warchief
 Yavimaya Elder

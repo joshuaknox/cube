@@ -1,7 +1,7 @@
 Spear of Heliod
 Steel Seraph
+Thousand Moons Smithy
 Cataclysmic Gearhulk
-Accorder Paladin
 Adeline, Resplendent Cathar
 Adorned Pouncer
 Angel of Condemnation
@@ -34,6 +34,7 @@ Hidden Dragonslayer
 Icingdeath, Frost Tyrant
 Inspiring Overseer
 Intrepid Adversary
+Kellan, Daring Traveler
 Kytheon, Hero of Akros
 Leonin Warleader
 Loran of the Third Path
@@ -44,15 +45,16 @@ Monastery Mentor
 Mondrak, Glory Dominus
 Mother of Runes
 Myrel, Shield of Argive
+Ojer Taq, Deepest Foundation
 Precinct Captain
 Realm-Cloaked Giant
 Resplendent Angel
 Restoration Angel
 Reveillark
+Sanguine Evangelist
 Serra Paragon
 Spellbook Vendor
 Stoneforge Mystic
-Student of Warfare
 Sublime Archangel
 Sunblast Angel
 Sun Titan
@@ -74,23 +76,21 @@ Seal from Existence
 Virtue of Loyalty
 Wedding Announcement
 Enlightened Tutor
+Get Lost
 Path to Exile
 Swords to Plowshares
 Ajani Goldmane
 Archangel Elspeth
 Elspeth, Sun's Champion
-Elspeth Tirel
 Gideon, Ally of Zendikar
 Gideon Blackblade
 Gideon of the Trials
 Gideon Jura
 The Eternal Wanderer
 The Wandering Emperor
-Armageddon
 Balance
 Collective Effort
 Day of Judgment
-Declaration in Stone
 Doomskar
 Farewell
 Fumigate

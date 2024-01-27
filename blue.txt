@@ -1,6 +1,7 @@
 Aether Adept
 Aether Channeler
 Alrund, God of the Cosmos
+Akal Pakal, First Among Equals
 Barrin, Tolarian Archmage
 Brazen Borrower
 Champion of Wits
@@ -11,7 +12,6 @@ Docent of Perfection
 Draining Whelk
 Dream Eater
 Dungeon Geists
-Enclave Cryptologist
 Faerie Mastermind
 Frost Titan
 Gadwick, the Wizened
@@ -24,6 +24,7 @@ Jacob Hauken, Inspector
 Jace, Vryn's Prodigy
 Jin-Gitaxias
 Lier, Disciple of the Drowned
+Malcolm, Alluring Scoundrel
 Malevolent Hermit
 Mercurial Spelldancer
 Mind Flayer
@@ -31,6 +32,7 @@ Mirrorhall Mimic
 Mulldrifter
 Nadir Kraken
 Nibilis of Frost
+Ojer Pakpatiq, Deepest Epoch
 Overcharged Amalgam
 Poppet Stitcher
 Riftwing Cloudskate
@@ -40,7 +42,6 @@ Snapcaster Mage
 Sower of Temptation
 Spectral Adversary
 Sphinx of Clear Skies
-Sphinx of Foresight
 Sphinx of Uthuun
 Suspicious Stowaway
 Thieving Skydiver
@@ -59,8 +60,8 @@ Treachery
 Volition Reins
 Ancestral Recall
 Brainstorm
-Capsize
 Commit // Memory
+Confounding Riddle
 Counterspell
 Cryptic Command
 Cyclonic Rift
@@ -78,7 +79,6 @@ Remand
 Remove Soul
 Sinister Sabotage
 Sublime Epiphany
-Supreme Will
 Mordenkainen
 Jace Beleren
 Jace, the Mind Sculptor

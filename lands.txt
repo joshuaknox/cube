@@ -1,17 +1,14 @@
 Arid Mesa
-Azorius Chancery
 Badlands
 Bayou
 Blood Crypt
 Bloodstained Mire
-Boros Garrison
 Breeding Pool
 Cascade Bluffs
 Celestial Colonnade
 City of Brass
 Clifftop Retreat
 Creeping Tar Pit
-Dimir Aqueduct
 Dragonskull Summit
 Drowned Catacomb
 Dust Bowl
@@ -23,15 +20,12 @@ Flooded Grove
 Flooded Strand
 Glacial Fortress
 Godless Shrine
-Golgari Rot Farm
 Graven Cairns
-Gruul Turf
 Hallowed Fountain
 Hinterland Harbor
 Hissing Quagmire
 Indatha Triome
 Isolated Chapel
-Izzet Boilerworks
 Jetmir's Garden
 Ketria Triome
 Lavaclaw Reaches
@@ -43,15 +37,23 @@ Misty Rainforest
 Mystic Gate
 Mutavault
 Needle Spires
-Orzhov Basilica
 Overgrown Tomb
 Plateau
 Polluted Delta
 Raffine's Tower
 Raging Ravine
-Rakdos Carnarium
 Raugrin Triome
 Reflecting Pool
+Restless Anchorage
+Restless Bivouac
+Restless Cottage
+Restless Fortress
+Restless Prairie
+Restless Reef
+Restless Ridgeline
+Restless Spire
+Restless Vents
+Restless Vinestalk
 Rootbound Crag
 Rugged Prairie
 Sacred Foundry
@@ -59,9 +61,7 @@ Savai Triome
 Savannah
 Scalding Tarn
 Scrubland
-Selesnya Sanctuary
 Shambling Vent
-Simic Growth Chamber
 Spara's Headquarters
 Steam Vents
 Stirring Wildwood
