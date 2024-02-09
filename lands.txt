@@ -6,7 +6,6 @@ Bloodstained Mire
 Breeding Pool
 Cascade Bluffs
 Celestial Colonnade
-City of Brass
 Clifftop Retreat
 Creeping Tar Pit
 Dragonskull Summit
@@ -40,6 +39,7 @@ Needle Spires
 Overgrown Tomb
 Plateau
 Polluted Delta
+Prismatic Vista
 Raffine's Tower
 Raging Ravine
 Raugrin Triome

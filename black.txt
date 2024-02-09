@@ -47,7 +47,7 @@ Preacher of the Schism
 Puppeteer Clique
 Rankle, Master of Pranks
 Ravenous Chupacabra
-Rune-Scarred Demon
+Sedgemoor Witch
 Sheoldred
 Sheoldred, the Apocalypse
 Sheoldred, Whispering One
@@ -83,7 +83,6 @@ Seize the Soul
 Terror
 Ultimate Price
 Vampiric Tutor
-Vraska's Contempt
 Liliana, Death's Majesty
 Liliana, Dreadhorde General
 Liliana of the Veil
@@ -92,6 +91,7 @@ Ob Nixilis Reignited
 Professor Onyx
 Sorin the Mirthless
 Vraska, Betrayal's Sting
+Breach the Multiverse
 Crux of Fate
 Damnation
 Demonic Tutor

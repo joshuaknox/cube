@@ -23,6 +23,7 @@ Embereth Shieldbreaker
 Etali, Primal Conqueror
 Fire Imp
 Flametongue Kavu
+Flametongue Yearling
 Geological Appraiser
 Giant Cindermaw
 Glorybringer
@@ -46,7 +47,6 @@ Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
 Krenko, Mob Boss
 Legion Warboss
-Magus of the Scroll
 Manaform Hellkite
 Ogre Battledriver
 Ojer Axonil, Deepest Might
@@ -66,7 +66,6 @@ Sin Prodder
 Solphim, Mayhem Dominus
 Stormbreath Dragon
 Stromkirk Occultist
-Tectonic Giant
 Terror of the Peaks
 Thundermaw Hellkite
 Toralf, God of Fury
@@ -85,6 +84,7 @@ Lightning Bolt
 Stoke the Flames
 Through the Breach
 Thunderous Wrath
+Chandra, Acolyte of Flame
 Chandra, Awakened Inferno
 Chandra, Heart of Fire
 Chandra Nalaar

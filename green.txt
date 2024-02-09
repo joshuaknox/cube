@@ -23,7 +23,6 @@ Garruk's Harbinger
 Garruk's Packleader
 Genesis Hydra
 God-Eternal Rhonas
-Greenwarden of Murasa
 Huatli, Poet of Unity
 Hulking Raptor
 Intrepid Paleontologist
@@ -47,6 +46,7 @@ Polukranos, World Eater
 Primal Adversary
 Primeval Titan
 Questing Beast
+Radagast the Brown
 Rampaging Baloths
 Rattleclaw Mystic
 Reclamation Sage
@@ -59,6 +59,7 @@ Silverback Elder
 Terastodon
 Thragtusk
 Thrashing Brontodon
+Timeless Witness
 Tireless Tracker
 Titan of Industry
 Tovolar's Huntmaster
@@ -70,13 +71,13 @@ Vorinclex, Monstrous Raider
 Woodfall Primus
 Workshop Warchief
 Yavimaya Elder
-Doubling Season
 Exploration
 Fertile Ground
 Jugan Defends the Temple
 Ranger Class
 Survival of the Fittest
 Chord of Calling
+Onece Upon a Time
 Garruk, Caller of Beasts
 Garruk, Primal Hunter
 Garruk Relentless
@@ -91,7 +92,6 @@ Cultivate
 Explore
 Farseek
 Finale of Devastation
-Harmonize
 Kodama's Reach
 Natural Order
 Primal Command

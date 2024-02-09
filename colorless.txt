@@ -11,7 +11,6 @@ Chrome Mox
 Coalition Relic
 Coldsteel Heart
 Cultivator's Caravan
-Cursed Scroll
 Dimir Signet
 Eldrazi Monument
 Gilded Lotus
@@ -37,7 +36,6 @@ Mox Pearl
 Mox Ruby
 Mox Sapphire
 Nevinyrral's Disk
-Oracle's Vault
 Orzhov Signet
 Palantir of Orthanc
 Portal to Phyrexia
@@ -74,6 +72,7 @@ Talisman of Progress
 Talisman of Resilience
 Talisman of Unity
 Thaumatic Compass
+The Celestus
 The Filigree Sylex
 The Immortal Sun
 The One Ring
@@ -84,6 +83,7 @@ Invasion of Ravnica
 Argentum Masticore
 Duplicant
 Emrakul, the Promised End
+Golos, Tireless Pilgrim
 Myr Battlesphere
 Palladium Myr
 Pilgrim's Eye

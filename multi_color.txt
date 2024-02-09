@@ -8,6 +8,7 @@ Ashiok, Nightmare Muse
 Atris, Oracle of Half-Truths
 Aurelia, Exemplar of Justice
 Azor, the Lawbringer
+Bloodbraid Elf
 Boros Reckoner
 Broodmate Dragon
 Dragonlord Atarka
@@ -16,9 +17,9 @@ Dream Trawler
 Evil Twin
 Figure of Destiny
 Firemane Avenger
-Ghor-Clan Rampager
 Glissa Sunslayer
 Hostage Taker
+Huntmaster of the Fells
 Hydroid Krasis
 Jhoira of the Ghitu
 Kogla and Yidaro
@@ -42,7 +43,6 @@ The Locust God
 The Scarab God
 Thief of Sanity
 Trostani, Selesnya's Voice
-Ulrich of the Krallenhorde
 Uro, Titan of Nature's Wrath
 Vitu-Ghazi Guildmage
 Volo, Guide to Monsters
@@ -53,7 +53,6 @@ Assassin's Trophy
 Aurelia's Fury
 Dromoka's Command
 Growth Spiral
-Izzet Charm
 Kolaghan's Command
 Magma Opus
 March of the Multitudes
@@ -91,6 +90,7 @@ Vraska, Relic Seeker
 Xenagos, the Reveler
 Cruel Ultimatum
 Dreadbore
+Expressive Iteration
 Gaze of Granite
 Inspired Ultimatum
 Legions to Ashes
