@@ -7,10 +7,12 @@ Breeding Pool
 Cascade Bluffs
 Celestial Colonnade
 Clifftop Retreat
+Commercial District
 Creeping Tar Pit
 Dragonskull Summit
 Drowned Catacomb
 Dust Bowl
+Elegant Parlor
 Evolving Wilds
 Fabled Passage
 Fetid Heath
@@ -21,6 +23,7 @@ Glacial Fortress
 Godless Shrine
 Graven Cairns
 Hallowed Fountain
+Hedge Maze
 Hinterland Harbor
 Hissing Quagmire
 Indatha Triome
@@ -30,7 +33,9 @@ Ketria Triome
 Lavaclaw Reaches
 Library of Alexandria
 Lumbering Falls
+Lush Portico
 Marsh Flats
+Meticulous Archive
 Mishra's Factory
 Misty Rainforest
 Mystic Gate
@@ -42,6 +47,7 @@ Polluted Delta
 Prismatic Vista
 Raffine's Tower
 Raging Ravine
+Raucous Theater
 Raugrin Triome
 Reflecting Pool
 Restless Anchorage
@@ -62,6 +68,7 @@ Savannah
 Scalding Tarn
 Scrubland
 Shambling Vent
+Shadowy Backstreet
 Spara's Headquarters
 Steam Vents
 Stirring Wildwood
@@ -72,20 +79,13 @@ Sunken Ruins
 Sunpetal Grove
 Taiga
 Temple Garden
-Temple of Abandon
-Temple of Deceit
-Temple of Enlightenment
-Temple of Epiphany
-Temple of Malady
-Temple of Malice
-Temple of Mystery
-Temple of Plenty
-Temple of Silence
-Temple of Triumph
 Thawing Glaciers
+Thundering Falls
 Tropical Island
 Tundra
 Twilight Mire
+Undercity Sewers
+Underground Mortuary
 Underground Sea
 Verdant Catacombs
 Volcanic Island

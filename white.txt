@@ -12,6 +12,7 @@ Ao, the Dawn Sky
 Archangel Avacyn
 Archangel of Thune
 Archangel of Wrath
+Aurelia's Vindicator
 Baneslayer Angel
 Blade Splicer
 Boon-Bringer Valkyrie
@@ -62,7 +63,6 @@ Taranika, Akroan Veteran
 Thalia, Guardian of Thraben
 Usher of the Fallen
 Welcoming Vampire
-Whipcorder
 Conclave Tribunal
 History of Benalia
 In the Trenches

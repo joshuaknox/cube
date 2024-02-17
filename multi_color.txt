@@ -7,6 +7,7 @@ Armada Wurm
 Ashiok, Nightmare Muse
 Atris, Oracle of Half-Truths
 Aurelia, Exemplar of Justice
+Aurelia, the Law Above
 Azor, the Lawbringer
 Bloodbraid Elf
 Boros Reckoner
@@ -16,7 +17,6 @@ Dragonlord Silumgar
 Dream Trawler
 Evil Twin
 Figure of Destiny
-Firemane Avenger
 Glissa Sunslayer
 Hostage Taker
 Huntmaster of the Fells
@@ -35,22 +35,23 @@ Oona, Queen of the Fae
 Polukranos, Unchained
 Prime Speaker Zegana
 Progenitor Mimic
-Qasali Pridemage
 Quintorius Kand
+Rakdos, Patron of Chaos
 Shadowmage Infiltrator
 Siege Rhino
 The Locust God
 The Scarab God
 Thief of Sanity
+Tolsimir, Midnight's Light
 Trostani, Selesnya's Voice
 Uro, Titan of Nature's Wrath
 Vitu-Ghazi Guildmage
+Voja, Jaws of the Conclave
 Volo, Guide to Monsters
-Zacama, Primal Calamity
 Detention Sphere
 Glare of Subdual
+Warleader's Call
 Assassin's Trophy
-Aurelia's Fury
 Dromoka's Command
 Growth Spiral
 Kolaghan's Command
@@ -89,7 +90,6 @@ Vona, Butcher of Magan
 Vraska, Relic Seeker
 Xenagos, the Reveler
 Cruel Ultimatum
-Dreadbore
 Expressive Iteration
 Gaze of Granite
 Inspired Ultimatum

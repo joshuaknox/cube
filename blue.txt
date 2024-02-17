@@ -13,6 +13,7 @@ Draining Whelk
 Dream Eater
 Dungeon Geists
 Faerie Mastermind
+Forensic Gadgeteer
 Frost Titan
 Gadwick, the Wizened
 God-Eternal Kefnet
@@ -43,6 +44,7 @@ Sower of Temptation
 Spectral Adversary
 Sphinx of Clear Skies
 Sphinx of Uthuun
+Steamcore Scholar
 Suspicious Stowaway
 Thieving Skydiver
 Torrential Gearhulk
@@ -67,7 +69,6 @@ Cryptic Command
 Cyclonic Rift
 Dig Through Time
 Dismiss
-Dissolve
 Exclude
 Fact or Fiction
 Force of Will
@@ -77,7 +78,6 @@ Memory Deluge
 Memory Lapse
 Remand
 Remove Soul
-Sinister Sabotage
 Sublime Epiphany
 Mordenkainen
 Jace Beleren
