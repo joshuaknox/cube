@@ -9,13 +9,13 @@ Chrome Host Seedshark
 Clever Impersonator
 Djinn of Wishes
 Docent of Perfection
-Draining Whelk
 Dream Eater
 Dungeon Geists
 Faerie Mastermind
 Forensic Gadgeteer
 Frost Titan
 Gadwick, the Wizened
+Geralf, the Fleshwright
 God-Eternal Kefnet
 Grazilaxx, Illithid Scholar
 Hullbreaker Horror
@@ -66,7 +66,6 @@ Commit // Memory
 Confounding Riddle
 Counterspell
 Cryptic Command
-Cyclonic Rift
 Dig Through Time
 Dismiss
 Exclude
@@ -79,6 +78,7 @@ Memory Lapse
 Remand
 Remove Soul
 Sublime Epiphany
+Three Steps Ahead
 Mordenkainen
 Jace Beleren
 Jace, the Mind Sculptor

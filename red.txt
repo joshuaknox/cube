@@ -11,6 +11,7 @@ Birgi, God of Storytelling
 Bonecrusher Giant
 Bonehoard Dracosaur
 Breeches, Eager Pillager
+Calamity, Galloping Inferno
 Chandra, Fire of Kaladesh
 Chandra's Phoenix
 Decadent Dragon
@@ -19,7 +20,6 @@ Dragonkin Berserker
 Dragon Whisperer
 Earthshaker Khenra
 Ember Hauler
-Embereth Shieldbreaker
 Etali, Primal Conqueror
 Fire Imp
 Flametongue Kavu
@@ -28,14 +28,13 @@ Geological Appraiser
 Giant Cindermaw
 Glorybringer
 Goblin Cratermaker
-Goblin Rabblemaster
 Goblin Wardriver
 Goddric, Cloaked Reveler
 Goldspan Dragon
 Grim Lavamancer
 Hanweir Garrison
-Heart-Piercer Manticore
 Hellrider
+Hellspur Posse Boss
 Hero of Oxid Ridge
 Ilharg, the Raze-Boar
 Imodane, the Pyrohammer
@@ -45,8 +44,8 @@ Ire Shaman
 Jaya Ballard, Task Mage
 Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
-Krenko, Mob Boss
 Legion Warboss
+Magda, the Hoardmaster
 Manaform Hellkite
 Ogre Battledriver
 Ojer Axonil, Deepest Might
@@ -61,6 +60,7 @@ Reckless Stormseeker
 Redcap Gutter-Dweller
 Rekindling Phoenix
 Robber of the Rich
+Scalestorm Summoner
 Siege-Gang Commander
 Sin Prodder
 Solphim, Mayhem Dominus

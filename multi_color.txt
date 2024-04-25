@@ -1,3 +1,4 @@
+Assimilation Aegis
 Invasion of New Phyrexia
 Invasion of Tolvada
 Abuelo, Ancestral Echo
@@ -10,6 +11,7 @@ Aurelia, Exemplar of Justice
 Aurelia, the Law Above
 Azor, the Lawbringer
 Bloodbraid Elf
+Bonny Pall, Clearcutter
 Boros Reckoner
 Broodmate Dragon
 Dragonlord Atarka
@@ -39,6 +41,7 @@ Quintorius Kand
 Rakdos, Patron of Chaos
 Shadowmage Infiltrator
 Siege Rhino
+The Gitrog, Ravenous Ride
 The Locust God
 The Scarab God
 Thief of Sanity
@@ -48,17 +51,13 @@ Uro, Titan of Nature's Wrath
 Vitu-Ghazi Guildmage
 Voja, Jaws of the Conclave
 Volo, Guide to Monsters
-Detention Sphere
 Glare of Subdual
 Warleader's Call
 Assassin's Trophy
 Dromoka's Command
-Growth Spiral
 Kolaghan's Command
 Magma Opus
 March of the Multitudes
-Mystic Genesis
-Putrefy
 Selesnya Charm
 Sphinx's Revelation
 Ajani Unyielding
@@ -74,6 +73,7 @@ Lukka, Bound to Ruin
 Nahiri, the Harbinger
 Nicol Bolas, Dragon-God
 Nicol Bolas, Planeswalker
+Oko, the Ringleader
 Oko, Thief of Crowns
 Ral Zarek
 Sarkhan the Mad
@@ -89,12 +89,12 @@ Venser, the Sojourner
 Vona, Butcher of Magan
 Vraska, Relic Seeker
 Xenagos, the Reveler
+Casualties of War
 Cruel Ultimatum
 Expressive Iteration
-Gaze of Granite
 Inspired Ultimatum
 Legions to Ashes
-Maelstrom Pulse
 Rakdos's Return
+Rise of the Witch-king
 Vindicate
 Villainous Wealth

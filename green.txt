@@ -20,7 +20,6 @@ Esika, God of the Tree
 Farhaven Elf
 Fauna Shaman
 Garruk's Harbinger
-Garruk's Packleader
 Genesis Hydra
 God-Eternal Rhonas
 Huatli, Poet of Unity
@@ -65,6 +64,7 @@ Titan of Industry
 Tovolar's Huntmaster
 Ulvenwald Oddity
 Varis, Silverymoon Ranger
+Vaultborn Tyrant
 Vengevine
 Vorinclex
 Vorinclex, Monstrous Raider

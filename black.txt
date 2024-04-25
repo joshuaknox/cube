@@ -1,6 +1,5 @@
 Invasion of Innistrad
 Invasion of Fiora
-Whip of Erebos
 Noxious Gearhulk
 Aclazotz, Deepest Betrayal
 Archpriest of Shadows
@@ -10,7 +9,7 @@ Bloodline Keeper
 Braids, Arisen Nightmare
 Braids, Cabal Minion
 Burning Rune Demon
-Champion of Dusk
+Caustic Bronco
 Dark Confidant
 Demonlord Belzenlok
 Doom Whisperer
@@ -21,6 +20,7 @@ Eradicator Valkyrie
 Gelatinous Cube
 Geth, Lord of the Vault
 Gisa, Glorious Resurrector
+Gisa, the Hellraiser
 Gix, Yawgmoth Praetor
 Gonti, Lord of Luxury
 God-Eternal Bontu
@@ -30,12 +30,13 @@ Griselbrand
 Gumdrop Poisoner
 Hidetsugu, Devouring Chaos
 Hoarding Broodlord
+Hostile Investigator
 Hypnotic Specter
 Isareth the Awakener
 Junji, the Midnight Sky
 Kalitas, Traitor of Ghet
+Kaervek, the Punisher
 Lord Skitter, Sewer King
-Magus of the Abyss
 Massacre Wurm
 Midnight Reaper
 Murderous Rider
@@ -54,7 +55,6 @@ Sheoldred, Whispering One
 Shriekmaw
 Sidisi, Undead Vizier
 Starving Revenant
-Skinrender
 Tainted Adversary
 Tergrid, God of Fright
 Tetzimoc, Primal Death
@@ -73,13 +73,13 @@ The Eldest Reborn
 Virtue of Persistence
 Bitter Triumph
 Black Sun's Twilight
-Cast Down
 Doom Blade
 Entomb
 Go for the Throat
 Hero's Downfall
 Power Word Kill
 Seize the Soul
+Shoot the Sheriff
 Terror
 Ultimate Price
 Vampiric Tutor
