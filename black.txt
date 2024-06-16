@@ -3,16 +3,15 @@ Invasion of Fiora
 Noxious Gearhulk
 Aclazotz, Deepest Betrayal
 Archpriest of Shadows
+Archon of Cruelty
 Ayara, Widow of the Realm
-Bloodgift Demon
 Bloodline Keeper
 Braids, Arisen Nightmare
 Braids, Cabal Minion
 Burning Rune Demon
 Caustic Bronco
-Dark Confidant
+Crabomination
 Demonlord Belzenlok
-Doom Whisperer
 Drana, Kalastria Bloodchief
 Drana, the Last Bloodchief
 Dreamstealer
@@ -25,13 +24,12 @@ Gix, Yawgmoth Praetor
 Gonti, Lord of Luxury
 God-Eternal Bontu
 Grave Titan
-Graveborn Muse
+Grief
 Griselbrand
 Gumdrop Poisoner
 Hidetsugu, Devouring Chaos
 Hoarding Broodlord
 Hostile Investigator
-Hypnotic Specter
 Isareth the Awakener
 Junji, the Midnight Sky
 Kalitas, Traitor of Ghet
@@ -43,6 +41,7 @@ Murderous Rider
 Nashi, Moon Sage's Scion
 Nekrataal
 Nullpriest of Oblivion
+Orcish Bowmasters
 Pack Rat
 Preacher of the Schism
 Puppeteer Clique
@@ -67,6 +66,7 @@ Bitterblossom
 Necromancy
 Phyrexian Arena
 Recurring Nightmare
+Ripples of Undeath
 The Abyss
 The Cruelty of Gix
 The Eldest Reborn

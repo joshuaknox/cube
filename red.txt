@@ -24,6 +24,7 @@ Etali, Primal Conqueror
 Fire Imp
 Flametongue Kavu
 Flametongue Yearling
+Fury
 Geological Appraiser
 Giant Cindermaw
 Glorybringer
@@ -44,12 +45,12 @@ Ire Shaman
 Jaya Ballard, Task Mage
 Kargan Dragonlord
 Kiki-Jiki, Mirror Breaker
+Laelia, the Blade Reforged
 Legion Warboss
 Magda, the Hoardmaster
 Manaform Hellkite
 Ogre Battledriver
 Ojer Axonil, Deepest Might
-Pia Nalaar
 Pia and Kiran Nalaar
 Professional Face-Breaker
 Purphoros, God of the Forge
@@ -90,7 +91,6 @@ Chandra, Heart of Fire
 Chandra Nalaar
 Chandra, Torch of Defiance
 Jaya, Fiery Negotiator
-Koth of the Hammer
 Sarkhan, the Dragonspeaker
 Zariel, Archduke of Avernus
 Chain Lightning

@@ -2,7 +2,6 @@ The Great Henge
 Invasion of Ikoria
 Invasion of Ixalan
 Invasion of Shandalar
-Acidic Slime
 Augur of Autumn
 Battle Mammoth
 Beanstalk Giant
@@ -15,8 +14,10 @@ Defiler of Vigor
 Doomskar Warrior
 Duskwatch Recruiter
 Eternal Witness
+Eladamri, Korvecdal
 Elder Gargaroth
 Esika, God of the Tree
+Fanatic of Rhonas
 Farhaven Elf
 Fauna Shaman
 Garruk's Harbinger
@@ -49,7 +50,6 @@ Radagast the Brown
 Rampaging Baloths
 Rattleclaw Mystic
 Reclamation Sage
-Resilient Khenra
 Rofellos, Llanowar Emissary
 Sakura-Tribe Elder
 Sentinel of the Nameless City

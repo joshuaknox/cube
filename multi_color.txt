@@ -6,13 +6,13 @@ Angel of Despair
 Anim Pakal, Thousandth Moon
 Armada Wurm
 Ashiok, Nightmare Muse
+Atraxa, Grand Unifier
 Atris, Oracle of Half-Truths
 Aurelia, Exemplar of Justice
 Aurelia, the Law Above
 Azor, the Lawbringer
 Bloodbraid Elf
 Bonny Pall, Clearcutter
-Boros Reckoner
 Broodmate Dragon
 Dragonlord Atarka
 Dragonlord Silumgar
@@ -34,12 +34,13 @@ Obzedat, Ghost Council
 Olivia, Crimson Bride
 Olivia Voldaren
 Oona, Queen of the Fae
+Phlage, Titan of Fire's Fury
 Polukranos, Unchained
 Prime Speaker Zegana
 Progenitor Mimic
+Psychic Frog
 Quintorius Kand
 Rakdos, Patron of Chaos
-Shadowmage Infiltrator
 Siege Rhino
 The Gitrog, Ravenous Ride
 The Locust God
@@ -53,6 +54,7 @@ Voja, Jaws of the Conclave
 Volo, Guide to Monsters
 Glare of Subdual
 Warleader's Call
+Abstruse Appropriation
 Assassin's Trophy
 Dromoka's Command
 Kolaghan's Command
@@ -72,7 +74,6 @@ Kaya, the Inexorable
 Lukka, Bound to Ruin
 Nahiri, the Harbinger
 Nicol Bolas, Dragon-God
-Nicol Bolas, Planeswalker
 Oko, the Ringleader
 Oko, Thief of Crowns
 Ral Zarek
@@ -96,5 +97,4 @@ Inspired Ultimatum
 Legions to Ashes
 Rakdos's Return
 Rise of the Witch-king
-Vindicate
 Villainous Wealth

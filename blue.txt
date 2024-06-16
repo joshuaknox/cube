@@ -1,4 +1,3 @@
-Aether Adept
 Aether Channeler
 Alrund, God of the Cosmos
 Akal Pakal, First Among Equals
@@ -45,6 +44,7 @@ Spectral Adversary
 Sphinx of Clear Skies
 Sphinx of Uthuun
 Steamcore Scholar
+Subtlety
 Suspicious Stowaway
 Thieving Skydiver
 Torrential Gearhulk
@@ -57,6 +57,7 @@ Voracious Greatshark
 Wharf Infiltrator
 Control Magic
 Kiora Bests the Sea God
+Shadow of the Second Sun
 Shark Typhoon
 Treachery
 Volition Reins
@@ -75,14 +76,13 @@ Gifts Ungiven
 Mana Drain
 Memory Deluge
 Memory Lapse
-Remand
 Remove Soul
 Sublime Epiphany
 Three Steps Ahead
+Ugin's Binding
 Mordenkainen
 Jace Beleren
 Jace, the Mind Sculptor
-Jace, Unraveler of Secrets
 Narset, Parter of Veils
 Tamiyo, the Moon Sage
 Teferi, Master of Time
