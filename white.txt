@@ -25,7 +25,6 @@ Elesh Norn, Mother of Machines
 Elite Spellbinder
 Emeria Angel
 Flickerwisp
-Geist-Honored Monk
 Giant Killer
 God-Eternal Oketra
 Guardian of Ghirapur
@@ -62,6 +61,7 @@ Sun Titan
 Taranika, Akroan Veteran
 Thalia, Guardian of Thraben
 Usher of the Fallen
+Warren Warleader
 Welcoming Vampire
 Conclave Tribunal
 History of Benalia

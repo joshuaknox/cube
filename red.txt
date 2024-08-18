@@ -16,10 +16,11 @@ Chandra, Fire of Kaladesh
 Chandra's Phoenix
 Decadent Dragon
 Dire Fleet Daredevil
+Dragonhawk, Fate's Tempest
 Dragonkin Berserker
 Dragon Whisperer
 Earthshaker Khenra
-Ember Hauler
+Emberheart Challenger
 Etali, Primal Conqueror
 Fire Imp
 Flametongue Kavu
@@ -81,8 +82,8 @@ Sneak Attack
 Virtue of Courage
 Abrade
 Brimstone Volley
+Ghostfire Slice
 Lightning Bolt
-Stoke the Flames
 Through the Breach
 Thunderous Wrath
 Chandra, Acolyte of Flame
@@ -95,6 +96,5 @@ Sarkhan, the Dragonspeaker
 Zariel, Archduke of Avernus
 Chain Lightning
 Devil's Play
-Exquisite Firecraft
 Nahiri's Warcrafting
 Roil Eruption
