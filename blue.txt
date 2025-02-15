@@ -6,10 +6,10 @@ Brazen Borrower
 Champion of Wits
 Chrome Host Seedshark
 Clever Impersonator
-Djinn of Wishes
 Docent of Perfection
 Dream Eater
 Dungeon Geists
+Enduring Curiosity
 Faerie Mastermind
 Forensic Gadgeteer
 Frost Titan
@@ -34,10 +34,11 @@ Nadir Kraken
 Nibilis of Frost
 Ojer Pakpatiq, Deepest Epoch
 Overcharged Amalgam
+Overlord of the Floodpits
 Poppet Stitcher
-Riftwing Cloudskate
 Rona, Herald of Invasion
 Sakashima the Impostor
+Silent Hallcreeper
 Snapcaster Mage
 Sower of Temptation
 Spectral Adversary
@@ -81,7 +82,6 @@ Sublime Epiphany
 Three Steps Ahead
 Ugin's Binding
 Mordenkainen
-Jace Beleren
 Jace, the Mind Sculptor
 Narset, Parter of Veils
 Tamiyo, the Moon Sage

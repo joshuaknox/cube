@@ -21,13 +21,13 @@ Dragonkin Berserker
 Dragon Whisperer
 Earthshaker Khenra
 Emberheart Challenger
+Enduring Courage
 Etali, Primal Conqueror
 Fire Imp
 Flametongue Kavu
 Flametongue Yearling
 Fury
 Geological Appraiser
-Giant Cindermaw
 Glorybringer
 Goblin Cratermaker
 Goblin Wardriver
@@ -39,7 +39,6 @@ Hellrider
 Hellspur Posse Boss
 Hero of Oxid Ridge
 Ilharg, the Raze-Boar
-Imodane, the Pyrohammer
 Inferno Titan
 Inti, Seneschal of the Sun
 Ire Shaman
@@ -50,8 +49,8 @@ Laelia, the Blade Reforged
 Legion Warboss
 Magda, the Hoardmaster
 Manaform Hellkite
-Ogre Battledriver
 Ojer Axonil, Deepest Might
+Overlord of the Boilerbilges
 Pia and Kiran Nalaar
 Professional Face-Breaker
 Purphoros, God of the Forge
@@ -63,6 +62,7 @@ Redcap Gutter-Dweller
 Rekindling Phoenix
 Robber of the Rich
 Scalestorm Summoner
+Screaming Nemesis
 Siege-Gang Commander
 Sin Prodder
 Solphim, Mayhem Dominus

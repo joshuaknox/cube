@@ -41,6 +41,7 @@ Nissa, Vastwood Seer
 Nylea, Keen-Eyed
 Ojer Kaslem, Deepest Growth
 Outland Liberator
+Overlord of the Hauntwoods
 Oracle of Mul Daya
 Polukranos, World Eater
 Primal Adversary
@@ -52,7 +53,6 @@ Reclamation Sage
 Rofellos, Llanowar Emissary
 Sakura-Tribe Elder
 Sentinel of the Nameless City
-Shaman of Forgotten Ways
 Silverback Elder
 Six
 Tender Wildguide

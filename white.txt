@@ -24,6 +24,7 @@ Elesh Norn
 Elesh Norn, Mother of Machines
 Elite Spellbinder
 Emeria Angel
+Enduring Innocence
 Flickerwisp
 Giant Killer
 God-Eternal Oketra
@@ -46,6 +47,7 @@ Mondrak, Glory Dominus
 Mother of Runes
 Myrel, Shield of Argive
 Ojer Taq, Deepest Foundation
+Overlord of the Mistmoors
 Realm-Cloaked Giant
 Resplendent Angel
 Restoration Angel
@@ -53,10 +55,8 @@ Reveillark
 Sanguine Evangelist
 Serra Paragon
 Solitude
-Spellbook Vendor
 Stoneforge Mystic
 Sublime Archangel
-Sunblast Angel
 Sun Titan
 Taranika, Akroan Veteran
 Thalia, Guardian of Thraben
