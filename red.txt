@@ -16,6 +16,7 @@ Chandra, Fire of Kaladesh
 Chandra's Phoenix
 Decadent Dragon
 Dire Fleet Daredevil
+Draconautics Engineer
 Dragonhawk, Fate's Tempest
 Dragonkin Berserker
 Dragon Whisperer
@@ -30,7 +31,6 @@ Fury
 Geological Appraiser
 Glorybringer
 Goblin Cratermaker
-Goblin Wardriver
 Goddric, Cloaked Reveler
 Goldspan Dragon
 Grim Lavamancer
@@ -44,9 +44,9 @@ Inti, Seneschal of the Sun
 Ire Shaman
 Jaya Ballard, Task Mage
 Kargan Dragonlord
+Kellan, Planar Trailblazer
 Kiki-Jiki, Mirror Breaker
 Laelia, the Blade Reforged
-Legion Warboss
 Magda, the Hoardmaster
 Manaform Hellkite
 Ojer Axonil, Deepest Might
@@ -89,12 +89,12 @@ Thunderous Wrath
 Chandra, Acolyte of Flame
 Chandra, Awakened Inferno
 Chandra, Heart of Fire
-Chandra Nalaar
 Chandra, Torch of Defiance
 Jaya, Fiery Negotiator
 Sarkhan, the Dragonspeaker
 Zariel, Archduke of Avernus
 Chain Lightning
 Devil's Play
+Fight with Fire
 Nahiri's Warcrafting
 Roil Eruption

@@ -6,13 +6,13 @@ Archpriest of Shadows
 Archon of Cruelty
 Ayara, Widow of the Realm
 Bloodline Keeper
+Bloodthirsty Conqueror
 Braids, Arisen Nightmare
 Braids, Cabal Minion
 Burning Rune Demon
 Caustic Bronco
 Crabomination
 Demonlord Belzenlok
-Drana, Kalastria Bloodchief
 Drana, the Last Bloodchief
 Dreamstealer
 Eradicator Valkyrie
@@ -28,6 +28,7 @@ Grief
 Griselbrand
 Gumdrop Poisoner
 Hidetsugu, Devouring Chaos
+High-Society Hunter
 Hoarding Broodlord
 Hostile Investigator
 Isareth the Awakener
@@ -53,7 +54,6 @@ Sheoldred, the Apocalypse
 Sheoldred, Whispering One
 Shriekmaw
 Sidisi, Undead Vizier
-Starving Revenant
 Tainted Adversary
 Tergrid, God of Fright
 Tetzimoc, Primal Death
@@ -91,8 +91,8 @@ Ob Nixilis Reignited
 Professor Onyx
 Sorin the Mirthless
 Vraska, Betrayal's Sting
+Blasphemous Edict
 Breach the Multiverse
-Crux of Fate
 Damnation
 Demonic Tutor
 Imperial Seal

@@ -11,7 +11,6 @@ Angel of Sanctions
 Angel of Serenity
 Ao, the Dawn Sky
 Archangel Avacyn
-Archangel of Thune
 Archangel of Wrath
 Aurelia's Vindicator
 Baneslayer Angel
@@ -60,6 +59,7 @@ Sublime Archangel
 Sun Titan
 Taranika, Akroan Veteran
 Thalia, Guardian of Thraben
+Timeless Dragon
 Usher of the Fallen
 Warren Warleader
 Welcoming Vampire
@@ -80,11 +80,11 @@ Get Lost
 Path to Exile
 Swords to Plowshares
 Ajani Goldmane
+Ajani Steadfast
 Archangel Elspeth
 Elspeth, Sun's Champion
 Gideon, Ally of Zendikar
 Gideon Blackblade
-Gideon of the Trials
 Gideon Jura
 The Eternal Wanderer
 The Wandering Emperor

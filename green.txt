@@ -9,13 +9,14 @@ Beast Whisperer
 Birds of Paradise
 Blossom Prancer
 Courser of Kruphix
-Den Protector
 Defiler of Vigor
 Doomskar Warrior
 Duskwatch Recruiter
+Earthshaker Giant
 Eternal Witness
 Eladamri, Korvecdal
 Elder Gargaroth
+Elvish Regrower
 Esika, God of the Tree
 Fanatic of Rhonas
 Farhaven Elf
@@ -43,12 +44,12 @@ Ojer Kaslem, Deepest Growth
 Outland Liberator
 Overlord of the Hauntwoods
 Oracle of Mul Daya
+Paradise Druid
 Polukranos, World Eater
 Primal Adversary
 Primeval Titan
 Questing Beast
 Radagast the Brown
-Rampaging Baloths
 Reclamation Sage
 Rofellos, Llanowar Emissary
 Sakura-Tribe Elder
@@ -73,7 +74,6 @@ Woodfall Primus
 Workshop Warchief
 Yavimaya Elder
 Exploration
-Fertile Ground
 Jugan Defends the Temple
 Ranger Class
 Survival of the Fittest

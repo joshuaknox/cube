@@ -6,9 +6,8 @@ Brazen Borrower
 Champion of Wits
 Chrome Host Seedshark
 Clever Impersonator
-Docent of Perfection
+Curator of Destinies
 Dream Eater
-Dungeon Geists
 Enduring Curiosity
 Faerie Mastermind
 Forensic Gadgeteer
@@ -25,17 +24,15 @@ Jace, Vryn's Prodigy
 Jin-Gitaxias
 Lier, Disciple of the Drowned
 Malcolm, Alluring Scoundrel
-Malevolent Hermit
 Mercurial Spelldancer
 Mind Flayer
 Mirrorhall Mimic
+Mischevious Mystic
 Mulldrifter
 Nadir Kraken
-Nibilis of Frost
 Ojer Pakpatiq, Deepest Epoch
 Overcharged Amalgam
 Overlord of the Floodpits
-Poppet Stitcher
 Rona, Herald of Invasion
 Sakashima the Impostor
 Silent Hallcreeper
@@ -43,6 +40,7 @@ Snapcaster Mage
 Sower of Temptation
 Spectral Adversary
 Sphinx of Clear Skies
+Sphinx of Forgotten Lore
 Sphinx of Uthuun
 Steamcore Scholar
 Subtlety
@@ -63,6 +61,7 @@ Shark Typhoon
 Treachery
 Volition Reins
 Ancestral Recall
+Archmage's Charm
 Brainstorm
 Commit // Memory
 Confounding Riddle
@@ -71,12 +70,13 @@ Cryptic Command
 Dig Through Time
 Dismiss
 Exclude
-Fact or Fiction
 Force of Will
 Gifts Ungiven
+Intrude on the Mind
 Mana Drain
 Memory Deluge
 Memory Lapse
+Refute
 Remove Soul
 Sublime Epiphany
 Three Steps Ahead
