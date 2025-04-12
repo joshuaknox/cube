@@ -33,7 +33,6 @@ Kogla, the Titan Ape
 Krosan Tusker
 Kura, the Boundless Sky
 Llanowar Elves
-Llanowar Greenwidow
 Llanowar Loamspeaker
 Lotus Cobra
 Master of the Wild Hunt
@@ -56,6 +55,7 @@ Sakura-Tribe Elder
 Sentinel of the Nameless City
 Silverback Elder
 Six
+Surrak, Elusive Hunter
 Tender Wildguide
 Terastodon
 Thragtusk

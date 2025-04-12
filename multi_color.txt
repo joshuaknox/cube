@@ -14,7 +14,6 @@ Azor, the Lawbringer
 Bloodbraid Elf
 Bonny Pall, Clearcutter
 Broodmate Dragon
-Dragonlord Atarka
 Dragonlord Silumgar
 Dream Trawler
 Evil Twin
@@ -48,14 +47,15 @@ The Scarab God
 Thief of Sanity
 Tolsimir, Midnight's Light
 Trostani, Selesnya's Voice
+Ureni, the Song Unending
 Uro, Titan of Nature's Wrath
 Vitu-Ghazi Guildmage
 Voja, Jaws of the Conclave
 Volo, Guide to Monsters
+Awaken the Honored Dead
 Glare of Subdual
 Warleader's Call
 Abstruse Appropriation
-Assassin's Trophy
 Dromoka's Command
 Kolaghan's Command
 Magma Opus

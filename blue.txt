@@ -45,13 +45,13 @@ Sphinx of Uthuun
 Steamcore Scholar
 Subtlety
 Suspicious Stowaway
+Taigam, Master Opportunist
 Thieving Skydiver
 Torrential Gearhulk
 Vendilion Clique
 Venser, Shaper Savant
 Vesuvan Shapeshifter
 Vizier of Many Faces
-Voidmage Prodigy
 Voracious Greatshark
 Wharf Infiltrator
 Control Magic
@@ -88,7 +88,6 @@ Tamiyo, the Moon Sage
 Teferi, Master of Time
 Teferi, Temporal Pilgrim
 Alrund's Epiphany
-Ancestral Vision
 Bribery
 Compulsive Research
 Multiple Choice
@@ -98,3 +97,4 @@ Temporal Mastery
 Time Walk
 Time Warp
 Tinker
+Winternight Stories

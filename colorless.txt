@@ -81,7 +81,6 @@ Treasure Map
 Umezawa's Jitte
 Invasion of Ravnica
 Argentum Masticore
-Duplicant
 Emrakul, the Promised End
 Golos, Tireless Pilgrim
 Myr Battlesphere
@@ -95,6 +94,7 @@ Kozilek, Butcher of Truth
 Ulamog, the Infinite Gyre
 Karn, Scion of Urza
 Karn Liberated
+Ugin, Eye of the Storms
 Ugin, the Spirit Dragon
 All Is Dust
 Eldrazi Conscription

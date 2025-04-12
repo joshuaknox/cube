@@ -46,6 +46,7 @@ Orcish Bowmasters
 Pack Rat
 Preacher of the Schism
 Puppeteer Clique
+Qarsi Revenant
 Rankle, Master of Pranks
 Ravenous Chupacabra
 Sedgemoor Witch
@@ -60,7 +61,6 @@ Tetzimoc, Primal Death
 Twilight Prophet
 Valki, God of Lies
 Varragoth, Bloodsky Sire
-Vampire Nighthawk
 Animate Dead
 Bitterblossom
 Necromancy

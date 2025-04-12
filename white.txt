@@ -5,7 +5,6 @@ Cataclysmic Gearhulk
 Adeline, Resplendent Cathar
 Adorned Pouncer
 Ajani, Nacatl Pariah
-Angel of Condemnation
 Angel of Invention
 Angel of Sanctions
 Angel of Serenity
@@ -83,6 +82,7 @@ Ajani Goldmane
 Ajani Steadfast
 Archangel Elspeth
 Elspeth, Sun's Champion
+Elspeth, Storm Slayer
 Gideon, Ally of Zendikar
 Gideon Blackblade
 Gideon Jura
