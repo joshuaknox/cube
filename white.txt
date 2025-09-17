@@ -23,6 +23,7 @@ Elesh Norn, Mother of Machines
 Elite Spellbinder
 Emeria Angel
 Enduring Innocence
+Exalted Sunborn
 Flickerwisp
 Giant Killer
 God-Eternal Oketra
@@ -84,7 +85,6 @@ Archangel Elspeth
 Elspeth, Sun's Champion
 Elspeth, Storm Slayer
 Gideon, Ally of Zendikar
-Gideon Blackblade
 Gideon Jura
 The Eternal Wanderer
 The Wandering Emperor

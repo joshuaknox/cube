@@ -1,6 +1,5 @@
 Aether Channeler
 Alrund, God of the Cosmos
-Akal Pakal, First Among Equals
 Barrin, Tolarian Archmage
 Brazen Borrower
 Champion of Wits
@@ -33,6 +32,7 @@ Nadir Kraken
 Ojer Pakpatiq, Deepest Epoch
 Overcharged Amalgam
 Overlord of the Floodpits
+Quantum Riddler
 Rona, Herald of Invasion
 Sakashima the Impostor
 Silent Hallcreeper
@@ -65,6 +65,7 @@ Archmage's Charm
 Brainstorm
 Commit // Memory
 Confounding Riddle
+Consult the Star Charts
 Counterspell
 Cryptic Command
 Dig Through Time
@@ -74,7 +75,6 @@ Force of Will
 Gifts Ungiven
 Intrude on the Mind
 Mana Drain
-Memory Deluge
 Memory Lapse
 Refute
 Remove Soul

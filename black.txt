@@ -15,6 +15,7 @@ Crabomination
 Demonlord Belzenlok
 Drana, the Last Bloodchief
 Dreamstealer
+Elegy Acolyte
 Eradicator Valkyrie
 Gelatinous Cube
 Geth, Lord of the Vault
@@ -37,7 +38,6 @@ Kalitas, Traitor of Ghet
 Kaervek, the Punisher
 Lord Skitter, Sewer King
 Massacre Wurm
-Midnight Reaper
 Murderous Rider
 Nashi, Moon Sage's Scion
 Nekrataal
