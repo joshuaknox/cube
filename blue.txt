@@ -34,7 +34,6 @@ Overcharged Amalgam
 Overlord of the Floodpits
 Quantum Riddler
 Rona, Herald of Invasion
-Sakashima the Impostor
 Silent Hallcreeper
 Snapcaster Mage
 Sower of Temptation
@@ -53,6 +52,7 @@ Venser, Shaper Savant
 Vesuvan Shapeshifter
 Vizier of Many Faces
 Voracious Greatshark
+Wan Shi Tong, Librarian
 Wharf Infiltrator
 Control Magic
 Kiora Bests the Sea God

@@ -16,9 +16,9 @@ Demonlord Belzenlok
 Drana, the Last Bloodchief
 Dreamstealer
 Elegy Acolyte
+Emperor of Bones
 Eradicator Valkyrie
 Gelatinous Cube
-Geth, Lord of the Vault
 Gisa, Glorious Resurrector
 Gisa, the Hellraiser
 Gix, Yawgmoth Praetor
@@ -45,9 +45,9 @@ Nullpriest of Oblivion
 Orcish Bowmasters
 Pack Rat
 Preacher of the Schism
-Puppeteer Clique
 Qarsi Revenant
 Rankle, Master of Pranks
+Raven Eagle
 Ravenous Chupacabra
 Sedgemoor Witch
 Sheoldred

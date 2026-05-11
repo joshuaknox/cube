@@ -11,6 +11,7 @@ Angel of Serenity
 Ao, the Dawn Sky
 Archangel Avacyn
 Archangel of Wrath
+Astelli Reclaimer
 Aurelia's Vindicator
 Baneslayer Angel
 Blade Splicer
@@ -18,6 +19,8 @@ Boon-Bringer Valkyrie
 Brimaz, King of Oreskos
 Brutal Cathar
 Bygone Bishop
+Cosmogrand Zenith
+Descendant of Storms
 Elesh Norn
 Elesh Norn, Mother of Machines
 Elite Spellbinder
@@ -30,13 +33,11 @@ God-Eternal Oketra
 Guardian of Ghirapur
 Halvar, God of Battle
 Hero of Bladehold
-Hidden Dragonslayer
 Icingdeath, Frost Tyrant
 Inspiring Overseer
 Intrepid Adversary
 Kellan, Daring Traveler
 Kytheon, Hero of Akros
-Leonin Warleader
 Loran of the Third Path
 Lyra Dawnbringer
 Mentor of the Meek
@@ -47,10 +48,10 @@ Mother of Runes
 Myrel, Shield of Argive
 Ojer Taq, Deepest Foundation
 Overlord of the Mistmoors
+Phelia, Exuberant Shepherd
 Realm-Cloaked Giant
 Resplendent Angel
 Restoration Angel
-Reveillark
 Sanguine Evangelist
 Serra Paragon
 Solitude
@@ -60,14 +61,13 @@ Sun Titan
 Taranika, Akroan Veteran
 Thalia, Guardian of Thraben
 Timeless Dragon
-Usher of the Fallen
 Warren Warleader
 Welcoming Vampire
+Aang's Iceberg
 Conclave Tribunal
 History of Benalia
 In the Trenches
 Land Tax
-Oblivion Ring
 Ossification
 Planar Disruption
 Prayer of Binding

@@ -1,8 +1,8 @@
 Combustible Gearhulk
+Cori-Steel Cutter
 Embercleave
 Invasion of Kaldheim
 Invasion of Tarkir
-Abbot of Keral Keep
 Bloodthirsty Adversary
 Anax, Hardened in the Forge
 Atsushi, the Blazing Sky
@@ -33,6 +33,7 @@ Glorybringer
 Goblin Cratermaker
 Goddric, Cloaked Reveler
 Goldspan Dragon
+Goliath Daydreamer
 Grim Lavamancer
 Hanweir Garrison
 Hellrider
@@ -41,7 +42,6 @@ Hero of Oxid Ridge
 Ilharg, the Raze-Boar
 Inferno Titan
 Inti, Seneschal of the Sun
-Ire Shaman
 Jaya Ballard, Task Mage
 Kargan Dragonlord
 Kellan, Planar Trailblazer
@@ -49,6 +49,7 @@ Kiki-Jiki, Mirror Breaker
 Laelia, the Blade Reforged
 Magda, the Hoardmaster
 Manaform Hellkite
+Nova Hellkite
 Ojer Axonil, Deepest Might
 Overlord of the Boilerbilges
 Pia and Kiran Nalaar
@@ -65,7 +66,7 @@ Scalestorm Summoner
 Screaming Nemesis
 Sin Prodder
 Solphim, Mayhem Dominus
-Stormbreath Dragon
+Spinerock Tyrant
 Stromkirk Occultist
 Terror of the Peaks
 Tersa Lightshatter
@@ -76,12 +77,11 @@ Urabrask
 Urabrask, Heretic Praetor
 Volatile Arsonist
 Young Pyromancer
-Zealous Conscripts
 Fable of the Mirror-Breaker
 Sneak Attack
+The Legend of Roku
 Virtue of Courage
 Abrade
-Brimstone Volley
 Ghostfire Slice
 Lightning Bolt
 Through the Breach

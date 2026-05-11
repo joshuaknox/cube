@@ -4,6 +4,7 @@ Invasion of Ixalan
 Invasion of Shandalar
 Augur of Autumn
 Battle Mammoth
+Badgermole Cub
 Beanstalk Giant
 Beast Whisperer
 Birds of Paradise
@@ -11,21 +12,20 @@ Blossom Prancer
 Courser of Kruphix
 Defiler of Vigor
 Doomskar Warrior
-Duskwatch Recruiter
 Earthshaker Giant
 Eternal Witness
 Eladamri, Korvecdal
 Elder Gargaroth
-Elvish Regrower
 Esika, God of the Tree
 Fanatic of Rhonas
 Farhaven Elf
 Fauna Shaman
+Formidable Speaker
 Garruk's Harbinger
-Genesis Hydra
 God-Eternal Rhonas
 Huatli, Poet of Unity
 Hulking Raptor
+Icetill Explorer
 Intrepid Paleontologist
 Jadelight Spelunker
 Joraga Treespeaker
@@ -35,7 +35,7 @@ Kura, the Boundless Sky
 Llanowar Elves
 Llanowar Loamspeaker
 Lotus Cobra
-Master of the Wild Hunt
+Mutable Explorer
 Noble Hierarch
 Nissa, Vastwood Seer
 Nylea, Keen-Eyed

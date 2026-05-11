@@ -11,12 +11,11 @@ Atris, Oracle of Half-Truths
 Aurelia, Exemplar of Justice
 Aurelia, the Law Above
 Azor, the Lawbringer
-Bloodbraid Elf
 Bonny Pall, Clearcutter
 Broodmate Dragon
+Deceit
 Dragonlord Silumgar
 Dream Trawler
-Evil Twin
 Figure of Destiny
 Glissa Sunslayer
 Hostage Taker
@@ -27,6 +26,7 @@ Kogla and Yidaro
 Koma, Cosmos Serpent
 Kroxa and Kunoros
 Kroxa, Titan of Death's Hunger
+Loot, the Pathfinder
 Niv-Mizzet, Dracogenius
 Niv-Mizzet, the Firemind
 Obzedat, Ghost Council
@@ -49,9 +49,11 @@ Tolsimir, Midnight's Light
 Trostani, Selesnya's Voice
 Ureni, the Song Unending
 Uro, Titan of Nature's Wrath
+Vibrance
 Vitu-Ghazi Guildmage
 Voja, Jaws of the Conclave
 Volo, Guide to Monsters
+Wistfulness
 Awaken the Honored Dead
 Glare of Subdual
 Warleader's Call
@@ -66,7 +68,6 @@ Ajani Unyielding
 Ajani Vengeant
 Arlinn Kord
 Domri Rade
-Domri, Chaos Bringer
 Garruk, Apex Predator
 Garruk, Cursed Huntsman
 Kaito, Dancing Shadow
@@ -78,10 +79,8 @@ Oko, the Ringleader
 Oko, Thief of Crowns
 Ral Zarek
 Sarkhan the Mad
-Sarkhan Unbroken
 Sorin, Grim Nemesis
 Sorin, Lord of Innistrad
-Tamiyo, Compleated Sage
 Tamiyo, Field Researcher
 Teferi, Hero of Dominaria
 Teferi, Time Raveler
@@ -89,6 +88,7 @@ The Royal Scions
 Venser, the Sojourner
 Vona, Butcher of Magan
 Vraska, Relic Seeker
+Wrenn and Six
 Xenagos, the Reveler
 Casualties of War
 Cruel Ultimatum
