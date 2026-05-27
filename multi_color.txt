@@ -1,14 +1,14 @@
+Ark of Hunger
 Assimilation Aegis
+Cauldron of Essence
 Invasion of New Phyrexia
 Invasion of Tolvada
 Abuelo, Ancestral Echo
-Angel of Despair
 Anim Pakal, Thousandth Moon
 Armada Wurm
 Ashiok, Nightmare Muse
 Atraxa, Grand Unifier
 Atris, Oracle of Half-Truths
-Aurelia, Exemplar of Justice
 Aurelia, the Law Above
 Azor, the Lawbringer
 Bonny Pall, Clearcutter
@@ -16,7 +16,6 @@ Broodmate Dragon
 Deceit
 Dragonlord Silumgar
 Dream Trawler
-Figure of Destiny
 Glissa Sunslayer
 Hostage Taker
 Huntmaster of the Fells
@@ -27,8 +26,8 @@ Koma, Cosmos Serpent
 Kroxa and Kunoros
 Kroxa, Titan of Death's Hunger
 Loot, the Pathfinder
+Lorehold, the Historian
 Niv-Mizzet, Dracogenius
-Niv-Mizzet, the Firemind
 Obzedat, Ghost Council
 Olivia, Crimson Bride
 Olivia Voldaren
@@ -36,8 +35,9 @@ Oona, Queen of the Fae
 Phlage, Titan of Fire's Fury
 Polukranos, Unchained
 Prime Speaker Zegana
-Progenitor Mimic
+Prismari, the Inspiration
 Psychic Frog
+Quandrix, the Proof
 Quintorius Kand
 Rakdos, Patron of Chaos
 Siege Rhino
@@ -54,7 +54,6 @@ Vitu-Ghazi Guildmage
 Voja, Jaws of the Conclave
 Volo, Guide to Monsters
 Wistfulness
-Awaken the Honored Dead
 Glare of Subdual
 Warleader's Call
 Abstruse Appropriation
@@ -68,7 +67,6 @@ Ajani Unyielding
 Ajani Vengeant
 Arlinn Kord
 Domri Rade
-Garruk, Apex Predator
 Garruk, Cursed Huntsman
 Kaito, Dancing Shadow
 Kaya, the Inexorable
@@ -77,8 +75,10 @@ Nahiri, the Harbinger
 Nicol Bolas, Dragon-God
 Oko, the Ringleader
 Oko, Thief of Crowns
+Professor Dellian Fel
 Ral Zarek
 Sarkhan the Mad
+Silverquill, the Disputant
 Sorin, Grim Nemesis
 Sorin, Lord of Innistrad
 Tamiyo, Field Researcher
@@ -86,7 +86,6 @@ Teferi, Hero of Dominaria
 Teferi, Time Raveler
 The Royal Scions
 Venser, the Sojourner
-Vona, Butcher of Magan
 Vraska, Relic Seeker
 Wrenn and Six
 Xenagos, the Reveler
@@ -95,6 +94,7 @@ Cruel Ultimatum
 Expressive Iteration
 Inspired Ultimatum
 Legions to Ashes
+Moment of Reckoning
+Pillage the Bog
 Rakdos's Return
-Rise of the Witch-king
 Villainous Wealth

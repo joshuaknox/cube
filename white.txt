@@ -25,6 +25,7 @@ Elesh Norn
 Elesh Norn, Mother of Machines
 Elite Spellbinder
 Emeria Angel
+Emeritus of Truce
 Enduring Innocence
 Exalted Sunborn
 Flickerwisp
@@ -34,6 +35,7 @@ Guardian of Ghirapur
 Halvar, God of Battle
 Hero of Bladehold
 Icingdeath, Frost Tyrant
+Informed Inkwright
 Inspiring Overseer
 Intrepid Adversary
 Kellan, Daring Traveler
@@ -55,8 +57,8 @@ Restoration Angel
 Sanguine Evangelist
 Serra Paragon
 Solitude
+Stirring Hopesinger
 Stoneforge Mystic
-Sublime Archangel
 Sun Titan
 Taranika, Akroan Veteran
 Thalia, Guardian of Thraben
@@ -64,30 +66,28 @@ Timeless Dragon
 Warren Warleader
 Welcoming Vampire
 Aang's Iceberg
-Conclave Tribunal
 History of Benalia
 In the Trenches
 Land Tax
-Ossification
+Leyline Binding
 Planar Disruption
-Prayer of Binding
 Rabble Rousing
 Seal from Existence
 Virtue of Loyalty
 Wedding Announcement
-Enlightened Tutor
+Erode
 Get Lost
 Path to Exile
 Swords to Plowshares
+Winds of Abandon
 Ajani Goldmane
-Ajani Steadfast
 Archangel Elspeth
 Elspeth, Sun's Champion
 Elspeth, Storm Slayer
 Gideon, Ally of Zendikar
-Gideon Jura
 The Eternal Wanderer
 The Wandering Emperor
+Antiquities on the Loose
 Balance
 Collective Effort
 Day of Judgment

@@ -6,7 +6,6 @@ Augur of Autumn
 Battle Mammoth
 Badgermole Cub
 Beanstalk Giant
-Beast Whisperer
 Birds of Paradise
 Blossom Prancer
 Courser of Kruphix
@@ -16,6 +15,7 @@ Earthshaker Giant
 Eternal Witness
 Eladamri, Korvecdal
 Elder Gargaroth
+Emeritus of Abundance
 Esika, God of the Tree
 Fanatic of Rhonas
 Farhaven Elf
@@ -26,13 +26,13 @@ God-Eternal Rhonas
 Huatli, Poet of Unity
 Hulking Raptor
 Icetill Explorer
+Ignoble Hierarch
 Intrepid Paleontologist
 Jadelight Spelunker
 Joraga Treespeaker
 Kogla, the Titan Ape
 Krosan Tusker
 Kura, the Boundless Sky
-Llanowar Elves
 Llanowar Loamspeaker
 Lotus Cobra
 Mutable Explorer

@@ -5,7 +5,6 @@ Aclazotz, Deepest Betrayal
 Archpriest of Shadows
 Archon of Cruelty
 Ayara, Widow of the Realm
-Bloodline Keeper
 Bloodthirsty Conqueror
 Braids, Arisen Nightmare
 Braids, Cabal Minion
@@ -16,6 +15,7 @@ Demonlord Belzenlok
 Drana, the Last Bloodchief
 Dreamstealer
 Elegy Acolyte
+Emeritus of Woe
 Emperor of Bones
 Eradicator Valkyrie
 Gelatinous Cube
@@ -24,6 +24,7 @@ Gisa, the Hellraiser
 Gix, Yawgmoth Praetor
 Gonti, Lord of Luxury
 God-Eternal Bontu
+Grave Researcher
 Grave Titan
 Grief
 Griselbrand
@@ -96,5 +97,4 @@ Breach the Multiverse
 Damnation
 Demonic Tutor
 Imperial Seal
-Never // Return
 Yawgmoth's Will

@@ -7,9 +7,9 @@ Chrome Host Seedshark
 Clever Impersonator
 Curator of Destinies
 Dream Eater
+Emeritus of Ideation
 Enduring Curiosity
 Faerie Mastermind
-Forensic Gadgeteer
 Frost Titan
 Gadwick, the Wizened
 Geralf, the Fleshwright
@@ -20,6 +20,7 @@ Iymrith, Desert Doom
 Icefall Regent
 Jacob Hauken, Inspector
 Jace, Vryn's Prodigy
+Jadzi, Steward of Fate
 Jin-Gitaxias
 Lier, Disciple of the Drowned
 Malcolm, Alluring Scoundrel
@@ -49,7 +50,6 @@ Thieving Skydiver
 Torrential Gearhulk
 Vendilion Clique
 Venser, Shaper Savant
-Vesuvan Shapeshifter
 Vizier of Many Faces
 Voracious Greatshark
 Wan Shi Tong, Librarian
@@ -61,7 +61,6 @@ Shark Typhoon
 Treachery
 Volition Reins
 Ancestral Recall
-Archmage's Charm
 Brainstorm
 Commit // Memory
 Confounding Riddle
@@ -93,6 +92,7 @@ Compulsive Research
 Multiple Choice
 Ponder
 Preordain
+Stock Up
 Temporal Mastery
 Time Walk
 Time Warp
